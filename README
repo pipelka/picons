@@ -1,11 +1,16 @@
-In picons.sh you should keep the following format:
+In picons.sh you should keep the following formatting:
+
 
 # 3 sat
 ln -s 3sat.png 1_0_1_6d67_437_1_c00000_0_0_0.png
 
+
 The channel name contains no spaces or other strange symbols and no capital letters.
-The serviceref can contain capital letters.
+Time sharing channels are seperated by a "_".
+Channels from Sky... contain a uk/de/it at the end, to keep them apart.
+The serviceref may contain capital letters, they are converted to all capital letters when building.
 The extension should always be in small letters.
+The channel order is "almost" sorted A-Z.
 
 
-The picon images should all be in the resolution 200x120 and properly aligned + the highest quality possible.
+The logos should all be in the resolution 200x120 and properly aligned + the highest quality possible.

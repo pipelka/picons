@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd /tmp/picons/picon
+cd $1
 
 # dvb-s/s2
 
@@ -1561,7 +1561,6 @@ ln -s discoveryshed.png 1_0_1_ccd8_90b_2_11a0000_0_0_0.png
 
 # discovery travel and living
 ln -s discoverytravelandliving.png 1_0_1_183d_7d9_2_11a0000_0_0_0.png
-#ln -s discoverytravelandliving.png 1_0_19_179d_c82_3_eb0000_0_0_0.png #ni_hao
 ln -s discoverytravelandliving.png 1_0_1_5b9_1af4_fbff_820000_0_0_0.png
 ln -s discoverytravelandliving.png 1_0_1_3915_32c8_13e_820000_0_0_0.png
 ln -s discoverytravelandliving.png 1_0_1_1b_1_2260_300000_0_0_0.png
@@ -2828,10 +2827,10 @@ ln -s innsattv.png 1_0_1_3330_45b_1_c00000_0_0_0.png
 # investigation discovery
 ln -s investigationdiscovery.png 1_0_1_ccb0_90b_2_11a0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_1_3914_32c8_13e_820000_0_0_0.png
-ln -s investigationdiscovery.png 1_0_16_179d_c82_3_eb0000_0_0_0.png #volgens ni_hao moet ie weg
+ln -s investigationdiscovery.png 1_0_16_179d_c82_3_eb0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_1_179d_c82_3_eb0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_16_179e_c82_3_eb0000_0_0_0.png
-ln -s investigationdiscovery.png 1_0_19_179D_C82_3_EB0000_0_0_0.png #ni_hao
+ln -s investigationdiscovery.png 1_0_19_179D_C82_3_EB0000_0_0_0.png
 
 # italiauno
 ln -s italiauno.png 1_0_1_1_1770_110_820000_0_0_0.png
