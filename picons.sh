@@ -6596,7 +6596,7 @@ ln -s tvoost.png 1_0_1_416_a_f3c_ffff0000_0_0_0.png
 ln -s cnn.png 1_0_1_1a1_4_f3c_ffff0000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_2720_a_f3c_ffff0000_0_0_0.png
 
-# ZIGGO
+# ZIGGO OOST
 
 ln -s ned1hd.png 1_0_19_C9_1D_3E8_FFFF0000_0_0_0.png
 ln -s ned2hd.png 1_0_19_CA_1D_3E8_FFFF0000_0_0_0.png
@@ -6729,10 +6729,14 @@ ln -s hbo3.png 1_0_1_E9_17_3E8_FFFF0000_0_0_0.png
 ln -s film1premiere.png 1_0_1_1F4A_8_3E8_FFFF0000_0_0_0.png
 ln -s eredivisielive.png 1_0_1_AE_18_3E8_FFFF0000_0_0_0.png
 
+# ZIGGO WEST
+
+# TO DO
+
 
 # DVB-T
 
-# DIGITENNE
+# KPN DIGITENNE
 
 ln -s ned1.png 1_0_1_44d_8a6_2210_eeee0000_0_0_0.png
 ln -s ned2.png 1_0_1_44e_8a6_2210_eeee0000_0_0_0.png
