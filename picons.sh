@@ -2,7 +2,7 @@
 
 cd $1
 
-# dvb-s/s2
+# DVB-S/S2
 
 
 # 1-2-3.tv
@@ -6548,7 +6548,9 @@ ln -s zoneromantica.png 1_0_1_1c85_1ce8_71_820000_0_0_0.png
 
 
 
-# dvb-c
+# DVB-C
+
+# GLASHART MEDIA
 
 ln -s ned1.png 1_0_1_65_1_f3c_ffff0000_0_0_0.png
 ln -s ned2.png 1_0_1_66_1_f3c_ffff0000_0_0_0.png
@@ -6593,24 +6595,144 @@ ln -s ketnetop12.png 1_0_1_2725_a_f3c_ffff0000_0_0_0.png
 ln -s tvoost.png 1_0_1_416_a_f3c_ffff0000_0_0_0.png
 ln -s cnn.png 1_0_1_1a1_4_f3c_ffff0000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_2720_a_f3c_ffff0000_0_0_0.png
-ln -s journaal24.png 1_0_1_32cf_d_1f4_ffff0000_0_0_0.png
-ln -s humor24_nostalgienet.png 1_0_1_3ec_1_1f4_ffff0000_0_0_0.png
-ln -s tvwest.png 1_0_1_99_1f5_1f4_ffff0000_0_0_0.png
-ln -s at5.png 1_0_1_1f4_64_1f4_ffff0000_0_0_0.png
-ln -s zappelin_zapp24.png 1_0_1_4655_12_1f4_ffff0000_0_0_0.png
 
-# ziggo conflict
+# ZIGGO
 
-#ln -s boomerang.png 1_0_1_4654_12_1f4_ffff0000_0_0_0.png
-#ln -s motorstv.png 1_0_1_1b6c_7_1f4_ffff0000_0_0_0.png
-#ln -s hollanddoc24.png 1_0_1_1b70_7_1f4_ffff0000_0_0_0.png
-#ln -s discoverytravelandliving.png 1_0_1_fa6_4_1f4_ffff0000_0_0_0.png
-#ln -s discoveryscience.png 1_0_1_fa5_4_1f4_ffff0000_0_0_0.png
-#ln -s historyhd.png 1_0_19_1f_1a_1f4_ffff0000_0_0_0.png
-#ln -s tvrijnmond.png 1_0_1_98_1f5_1f4_ffff0000_0_0_0.png
+ln -s ned1hd.png 1_0_19_C9_1D_3E8_FFFF0000_0_0_0.png
+ln -s ned2hd.png 1_0_19_CA_1D_3E8_FFFF0000_0_0_0.png
+ln -s ned3hd.png 1_0_19_CB_1A_3E8_FFFF0000_0_0_0.png
+ln -s rtl4hd.png 1_0_19_89C_1A_3E8_FFFF0000_0_0_0.png
+ln -s rtl5hd.png 1_0_19_CD_CE_3E8_FFFF0000_0_0_0.png
+ln -s sbs6hd.png 1_0_19_89E_CE_3E8_FFFF0000_0_0_0.png
+ln -s rtl7hd.png 1_0_19_CF_20_3E8_FFFF0000_0_0_0.png
+ln -s veronicahd_disneyxdhd.png 1_0_19_8A0_20_3E8_FFFF0000_0_0_0.png
+ln -s net5hd.png 1_0_19_D1_19_3E8_FFFF0000_0_0_0.png
+ln -s rtl8hd.png 1_0_19_D2_19_3E8_FFFF0000_0_0_0.png
+ln -s comedycentral_kindernet.png 1_0_19_F0_12_3E8_FFFF0000_0_0_0.png
+ln -s nickelodeon.png 1_0_1_10_6_3E8_FFFF0000_0_0_0.png
+ln -s disneychannel.png 1_0_1_D5_1F_3E8_FFFF0000_0_0_0.png
+ln -s discoveryhdshowcase.png 1_0_19_EF_13_3E8_FFFF0000_0_0_0.png
+ln -s ngc.png 1_0_19_3A99_F_3E8_FFFF0000_0_0_0.png
+ln -s animalplanet_tlc.png 1_0_1_7542_1E_3E8_FFFF0000_0_0_0.png
+ln -s eurosporthd.png 1_0_19_A7_3_3E8_FFFF0000_0_0_0.png
+ln -s mtv.png 1_0_1_13_6_3E8_FFFF0000_0_0_0.png
+ln -s 13thstreet.png 1_0_1_B7_D_3E8_FFFF0000_0_0_0.png
+ln -s 24kitchen.png 1_0_1_8A4_1D_3E8_FFFF0000_0_0_0.png
+ln -s eenhd.png 1_0_19_F1_1_3E8_FFFF0000_0_0_0.png
+ln -s canvashd.png 1_0_19_F2_1B_3E8_FFFF0000_0_0_0.png
+ln -s ketnetop12.png 1_0_1_ED_17_3E8_FFFF0000_0_0_0.png
+ln -s tvoost.png 1_0_1_91_2_3E8_FFFF0000_0_0_0.png
+ln -s omropfryslan.png 1_0_1_90_2_3E8_FFFF0000_0_0_0.png
+ln -s tvdrenthe.png 1_0_1_8E_2_3E8_FFFF0000_0_0_0.png
+ln -s tvgelderland.png 1_0_1_94_2_3E8_FFFF0000_0_0_0.png
+ln -s tvnoord.png 1_0_1_8F_2_3E8_FFFF0000_0_0_0.png
+ln -s film1premierehd.png 1_0_19_55F1_16_3E8_FFFF0000_0_0_0.png
+ln -s film1action.png 1_0_1_B2_C_3E8_FFFF0000_0_0_0.png
+ln -s film1family.png 1_0_1_1F48_8_3E8_FFFF0000_0_0_0.png
+ln -s film1sundance.png 1_0_1_1F49_8_3E8_FFFF0000_0_0_0.png
+ln -s hbohd.png 1_0_19_EA_21_3E8_FFFF0000_0_0_0.png
+ln -s hbo2hd.png 1_0_19_EB_21_3E8_FFFF0000_0_0_0.png
+ln -s mgm.png 1_0_1_36B8_E_3E8_FFFF0000_0_0_0.png
+ln -s tcm.png 1_0_1_36B7_E_3E8_FFFF0000_0_0_0.png
+ln -s rtlcrime.png 1_0_1_DA_1F_3E8_FFFF0000_0_0_0.png
+ln -s syfyuniversal.png 1_0_1_B8_10_3E8_FFFF0000_0_0_0.png
+ln -s investigationdiscovery.png 1_0_1_FA6_4_3E8_FFFF0000_0_0_0.png
+ln -s crime.png 1_0_1_27_3_3E8_FFFF0000_0_0_0.png
+ln -s zonereality.png 1_0_1_55F4_16_3E8_FFFF0000_0_0_0.png
+ln -s comedycentralfamily.png 1_0_1_1389_5_3E8_FFFF0000_0_0_0.png
+ln -s comedycentralextra.png 1_0_1_E2_5_3E8_FFFF0000_0_0_0.png
+ln -s humor24.png 1_0_1_55F3_16_3E8_FFFF0000_0_0_0.png
+ln -s 101tv.png 1_0_1_59DE_17_3E8_FFFF0000_0_0_0.png
+ln -s foxlifehd.png 1_0_19_DF_1F_3E8_FFFF0000_0_0_0.png
+ln -s eentertainment.png 1_0_1_2B_16_3E8_FFFF0000_0_0_0.png
+ln -s nostalgienet.png 1_0_1_3A_19_3E8_FFFF0000_0_0_0.png
+ln -s discoveryscience.png 1_0_1_FA5_4_3E8_FFFF0000_0_0_0.png
+ln -s discoveryworld.png 1_0_1_FA4_4_3E8_FFFF0000_0_0_0.png
+ln -s natgeowildhd.png 1_0_19_E0_1E_3E8_FFFF0000_0_0_0.png
+ln -s natgeowild.png 1_0_1_FA1_4_3E8_FFFF0000_0_0_0.png
+ln -s historyhd.png 1_0_19_5DC1_18_3E8_FFFF0000_0_0_0.png
+ln -s history.png 1_0_1_39_19_3E8_FFFF0000_0_0_0.png
+ln -s animalplanethd.png 1_0_19_D7_12_3E8_FFFF0000_0_0_0.png
+ln -s travelchannel.png 1_0_1_FA7_4_3E8_FFFF0000_0_0_0.png
+ln -s hollanddoc24.png 1_0_1_59D9_17_3E8_FFFF0000_0_0_0.png
+ln -s brava.png 1_0_1_A1_CE_3E8_FFFF0000_0_0_0.png
+ln -s mezzo.png 1_0_1_50_D_3E8_FFFF0000_0_0_0.png
+ln -s disneyxd.png 1_0_1_D6_1E_3E8_FFFF0000_0_0_0.png
+ln -s disneyjunior.png 1_0_1_DC_1B_3E8_FFFF0000_0_0_0.png
+ln -s nicktoons.png 1_0_1_42_10_3E8_FFFF0000_0_0_0.png
+ln -s nickjr.png 1_0_1_41_1A_3E8_FFFF0000_0_0_0.png
+ln -s cartoonnetwork.png 1_0_1_4651_12_3E8_FFFF0000_0_0_0.png
+ln -s jimjam.png 1_0_1_AB_1B_3E8_FFFF0000_0_0_0.png
+ln -s boomerang.png 1_0_1_4656_12_3E8_FFFF0000_0_0_0.png
+ln -s babytv.png 1_0_1_44_10_3E8_FFFF0000_0_0_0.png
+ln -s zappelin_zapp24.png 1_0_1_3E_8_3E8_FFFF0000_0_0_0.png
+ln -s mtvlivehd.png 1_0_19_E1_1F_3E8_FFFF0000_0_0_0.png
+ln -s mtvbrandnew.png 1_0_1_36B3_E_3E8_FFFF0000_0_0_0.png
+ln -s mtvmusic.png 1_0_1_DE_1E_3E8_FFFF0000_0_0_0.png
+ln -s vh1.png 1_0_1_32C9_D_3E8_FFFF0000_0_0_0.png
+ln -s vh1classic.png 1_0_1_32CA_D_3E8_FFFF0000_0_0_0.png
+ln -s tvoranje.png 1_0_1_32CF_D_3E8_FFFF0000_0_0_0.png
+ln -s eurosport2hd.png 1_0_19_F3_8_3E8_FFFF0000_0_0_0.png
+ln -s espnamerica.png 1_0_1_138E_5_3E8_FFFF0000_0_0_0.png
+ln -s motorstv.png 1_0_1_138C_5_3E8_FFFF0000_0_0_0.png
+ln -s eredivisielivehd.png 1_0_19_D3_13_3E8_FFFF0000_0_0_0.png
+ln -s eredivisielive.png 1_0_1_AF_18_3E8_FFFF0000_0_0_0.png
+ln -s eredivisielive.png 1_0_1_B0_18_3E8_FFFF0000_0_0_0.png
+ln -s eredivisielive.png 1_0_1_B1_18_3E8_FFFF0000_0_0_0.png
+ln -s journaal24.png 1_0_1_2EE7_C_3E8_FFFF0000_0_0_0.png
+ln -s cnn.png 1_0_1_FB5_4_3E8_FFFF0000_0_0_0.png
+ln -s bbcworldnews.png 1_0_1_2EE2_C_3E8_FFFF0000_0_0_0.png
+ln -s euronews.png 1_0_1_2EEA_C_3E8_FFFF0000_0_0_0.png
+ln -s aljazeera.png 1_0_1_44E_7_3E8_FFFF0000_0_0_0.png
+ln -s cnbc.png 1_0_1_2EE1_C_3E8_FFFF0000_0_0_0.png
+ln -s bbcone.png 1_0_1_697B_1B_3E8_FFFF0000_0_0_0.png
+ln -s bbctwo.png 1_0_1_697C_1B_3E8_FFFF0000_0_0_0.png
+ln -s bbchd.png 1_0_19_D8_1E_3E8_FFFF0000_0_0_0.png
+ln -s bbcentertainment.png 1_0_1_697D_1B_3E8_FFFF0000_0_0_0.png
+ln -s daserste.png 1_0_1_3E9_1_3E8_FFFF0000_0_0_0.png
+ln -s zdf.png 1_0_1_697E_1B_3E8_FFFF0000_0_0_0.png
+ln -s ndr.png 1_0_1_3ED_1_3E8_FFFF0000_0_0_0.png
+ln -s wdr.png 1_0_1_3F1_1_3E8_FFFF0000_0_0_0.png
+ln -s rtl.png 1_0_1_3EE_1_3E8_FFFF0000_0_0_0.png
+ln -s sat1.png 1_0_1_3F0_1_3E8_FFFF0000_0_0_0.png
+ln -s arte.png 1_0_1_72_F_3E8_FFFF0000_0_0_0.png
+ln -s tv5monde.png 1_0_1_4A3D_13_3E8_FFFF0000_0_0_0.png
+ln -s france2.png 1_0_1_75_13_3E8_FFFF0000_0_0_0.png
+ln -s rai1.png 1_0_1_4A3B_13_3E8_FFFF0000_0_0_0.png
+ln -s tvei.png 1_0_1_4A3A_13_3E8_FFFF0000_0_0_0.png
+ln -s zeetv.png 1_0_1_1B5D_7_3E8_FFFF0000_0_0_0.png
+ln -s zeecinema.png 1_0_1_A4_7_3E8_FFFF0000_0_0_0.png
+ln -s maxtv.png 1_0_1_A2_7_3E8_FFFF0000_0_0_0.png
+ln -s pcne.png 1_0_1_86_7_3E8_FFFF0000_0_0_0.png
+ln -s privatespice.png 1_0_1_8A_5_3E8_FFFF0000_0_0_0.png
+ln -s ned1.png 1_0_1_2711_A_3E8_FFFF0000_0_0_0.png
+ln -s ned2.png 1_0_1_2712_A_3E8_FFFF0000_0_0_0.png
+ln -s ned3.png 1_0_1_2713_A_3E8_FFFF0000_0_0_0.png
+ln -s rtl4.png 1_0_1_2714_A_3E8_FFFF0000_0_0_0.png
+ln -s rtl5.png 1_0_1_2AFD_B_3E8_FFFF0000_0_0_0.png
+ln -s sbs6.png 1_0_1_2AFC_B_3E8_FFFF0000_0_0_0.png
+ln -s rtl7.png 1_0_1_2AFE_B_3E8_FFFF0000_0_0_0.png
+ln -s veronica_disneyxd.png 1_0_1_2AF9_B_3E8_FFFF0000_0_0_0.png
+ln -s net5.png 1_0_1_9_3_3E8_FFFF0000_0_0_0.png
+ln -s rtl8.png 1_0_1_3AA2_F_3E8_FFFF0000_0_0_0.png
+ln -s eurosport.png 1_0_1_11_6_3E8_FFFF0000_0_0_0.png
+ln -s ngc.png 1_0_1_FA9_4_3E8_FFFF0000_0_0_0.png
+ln -s foxlife.png 1_0_1_C4_5_3E8_FFFF0000_0_0_0.png
+ln -s comedycentral_kindernet.png 1_0_1_14_6_3E8_FFFF0000_0_0_0.png
+ln -s een.png 1_0_1_16_3_3E8_FFFF0000_0_0_0.png
+ln -s canvas.png 1_0_1_17_3_3E8_FFFF0000_0_0_0.png
+ln -s discovery.png 1_0_1_FA8_4_3E8_FFFF0000_0_0_0.png
+ln -s eurosport2.png 1_0_1_138A_5_3E8_FFFF0000_0_0_0.png
+ln -s hbo.png 1_0_1_E7_E_3E8_FFFF0000_0_0_0.png
+ln -s hbo2.png 1_0_1_E8_1_3E8_FFFF0000_0_0_0.png
+ln -s hbo3.png 1_0_1_E9_17_3E8_FFFF0000_0_0_0.png
+ln -s film1premiere.png 1_0_1_1F4A_8_3E8_FFFF0000_0_0_0.png
+ln -s eredivisielive.png 1_0_1_AE_18_3E8_FFFF0000_0_0_0.png
 
 
-# dvb-t
+# DVB-T
+
+# DIGITENNE
 
 ln -s ned1.png 1_0_1_44d_8a6_2210_eeee0000_0_0_0.png
 ln -s ned2.png 1_0_1_44e_8a6_2210_eeee0000_0_0_0.png
@@ -6623,7 +6745,6 @@ ln -s rtl8.png 1_0_1_20_8a5_2210_eeee0000_0_0_0.png
 ln -s net5.png 1_0_1_f_8a3_2210_eeee0000_0_0_0.png
 ln -s veronica_disneyxd.png 1_0_1_1f_8a5_2210_eeee0000_0_0_0.png
 ln -s een.png 1_0_1_21_8a5_2210_eeee0000_0_0_0.png
-ln -s ketnet_canvas.png 1_0_1_22_8a5_2210_eeee0000_0_0_0.png
 ln -s bbcone.png 1_0_1_17_8a4_2210_eeee0000_0_0_0.png
 ln -s bbctwo.png 1_0_1_1b_8a4_2210_eeee0000_0_0_0.png
 ln -s 13thstreet.png 1_0_1_2a_8c4_2210_eeee0000_0_0_0.png
@@ -6637,3 +6758,4 @@ ln -s eurosport.png 1_0_1_25_8a5_2210_eeee0000_0_0_0.png
 ln -s eredivisielive.png 1_0_1_15_8a4_2210_eeee0000_0_0_0.png
 ln -s eredivisielive.png 1_0_1_16_8a4_2210_eeee0000_0_0_0.png
 ln -s tvdrenthe.png 1_0_1_2d_8c4_2210_eeee0000_0_0_0.png
+
