@@ -6893,3 +6893,14 @@ ln -s eredivisielive.png 1_0_1_15_8a4_2210_eeee0000_0_0_0.png
 ln -s eredivisielive.png 1_0_1_16_8a4_2210_eeee0000_0_0_0.png
 ln -s tvdrenthe.png 1_0_1_2d_8c4_2210_eeee0000_0_0_0.png
 
+# DVB-T Austria Vienna
+
+ln -s orf1.png 1_0_1_2775_64_2028_EEEE0000_0_0_0.png
+ln -s orf2.png 1_0_1_2776_64_2028_EEEE0000_0_0_0.png
+ln -s orf2.png 1_0_1_278A_64_2028_EEEE0000_0_0_0.png
+ln -s atv.png 1_0_1_2788_64_2028_EEEE0000_0_0_0.png
+ln -s puls4.png 1_0_1_278B_6E_2028_EEEE0000_0_0_0.png
+ln -s 3sat.png 1_0_1_2B5E_6E_2028_EEEE0000_0_0_0.png
+ln -s orfsportplus.png 1_0_1_2B5F_6E_2028_EEEE0000_0_0_0.png
+ln -s servustv.png 1_0_1_2B60_6E_2028_EEEE0000_0_0_0.png
+
