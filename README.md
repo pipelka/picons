@@ -42,7 +42,7 @@ Logo:
 XVDR USERS? NEED SOME HELP?
 ===========================
 
-With the help of @tkurbad's python script (https://github.com/tkurbad/piconscripts/blob/master/piconlinks.py), you can speed up the process of linking the channels. You basically feed it your "channels.conf" file and the location of the git repo you cloned containing the channel logos, it then will try to match as many channels as possible.
+With the help of @tkurbad's python script [piconlinks.py](https://github.com/tkurbad/piconscripts#piconscripts), you can speed up the process of linking the channels. You basically feed it your "channels.conf" file and the location of the git repo you cloned containing the channel logos, it then will try to match as many channels as possible.
 
-@pipelka also supplies a tool with the xvdr-plugin (https://github.com/pipelka/vdr-plugin-xvdr/tree/master/tools), wich you feed it also your "channels.conf" and it then spits out a file with all your channel names followed with their serviceref.
+@pipelka also supplies a tool called [serviceref](https://github.com/pipelka/vdr-plugin-xvdr/tree/master/tools) with the xvdr-plugin, wich you feed it also your "channels.conf" and it then spits out a file with all your channel names followed with their serviceref.
 
