@@ -4,7 +4,7 @@ You should keep the following rules in mind:
 
 picons.sh:
 
-    #3 sat
+    # 3 sat
     ln -s 3sat.png 1_0_1_6D67_437_1_C00000_0_0_0.png
 
 
@@ -14,27 +14,27 @@ RULES
 =====
 
 Channel Name:
-	* NO spaces
-	* NO fancy symbols
-	* LOWERCASE
-	* Time sharing channels, names seperated by "_".
-	* Sky ... channels contain uk/de/it at the end, to keep them apart.
+  * NO spaces
+  * NO fancy symbols
+  * LOWERCASE
+  * Time sharing channels, names seperated by "_".
+  * Sky ... channels contain uk/de/it at the end, to keep them apart.
 
 Serviceref:
-	* UPPERCASE
+  * UPPERCASE
 
 Extension:
-	* .png
-	* LOWERCASE
+  * .png
+  * LOWERCASE
 
 Order:
-	* Sorted A-Z as best as possible
+  * Sorted A-Z as best as possible
 
 Logo:
-	* Type: png
-	* Resolution: 256x154
-	* Properly aligned
-	* Highest quality possible
+  * Type: png
+  * Resolution: 256x154
+  * Properly aligned
+  * Highest quality possible
 
 
 
