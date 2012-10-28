@@ -1,4 +1,5 @@
 You should keep the following rules in mind:
+============================================
 
 
 picons.sh:
@@ -12,36 +13,36 @@ ________________________________________________
 
 
 RULES
-_____
+=====
 
 Channel Name:
-	-NO spaces
-	-NO fancy symbols
-	-LOWERCASE
-	-Time sharing channels, names seperated by "_".
-	-Sky ... channels contain uk/de/it at the end, to keep them apart.
+	* NO spaces
+	* NO fancy symbols
+	* LOWERCASE
+	* Time sharing channels, names seperated by "_".
+	* Sky ... channels contain uk/de/it at the end, to keep them apart.
 
 Serviceref:
-	-UPPERCASE
+	* UPPERCASE
 
 Extension:
-	-.png
-	-LOWERCASE
+	* .png
+	* LOWERCASE
 
 Order:
-	-Sorted A-Z as best as possible
+	* Sorted A-Z as best as possible
 
 Logo:
-	-Type: png
-	-Resolution: 256x154
-	-Properly aligned
-	-Highest quality possible
+	* Type: png
+	* Resolution: 256x154
+	* Properly aligned
+	* Highest quality possible
 
 
 
 
 XVDR USERS? NEED SOME HELP?
-___________________________
+===========================
 
 With the help of @tkurbad's python script (https://github.com/tkurbad/piconscripts/blob/master/piconlinks.py), you can speed up the process of linking the channels. You basically feed it your "channels.conf" file and the location of the git repo you cloned containing the channel logos, it then will try to match as many channels as possible.
 
