@@ -3527,6 +3527,8 @@ ln -s mutv.png 1_0_1_C4A9_964_2_11A0000_0_0_0.png
 # mychannel
 ln -s mychannel.png 1_0_1_D7AE_900_2_11A0000_0_0_0.png
 
+# myzentvhd
+
 # n24
 ln -s n24.png 1_0_19_D17B_2718_F001_EB0000_0_0_0.png
 ln -s n24.png 1_0_1_445F_453_1_C00000_0_0_0.png
