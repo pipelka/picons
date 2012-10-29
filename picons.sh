@@ -7060,6 +7060,7 @@ ln -s mdr.png 1_0_1_6E44_431_A401_FFFF0000_0_0_0.png
 ln -s mdr.png 1_0_1_6E46_431_A401_FFFF0000_0_0_0.png
 ln -s mtvhits.png 1_0_1_CF79_2712_F001_FFFF0000_0_0_0.png
 ln -s mtvmusic.png 1_0_1_5632_DB_A018_FFFF0000_0_0_0.png
+ln -s myzentvhd.png 1_0_19_5624_DA_A018_FFFF0000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_C614_2712_F001_FFFF0000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_D_4_85_FFFF0000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_CFD8_2712_F001_FFFF0000_0_0_0.png
