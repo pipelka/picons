@@ -741,8 +741,6 @@ ln -s boing.png 1_0_1_1FA6_2454_13E_820000_0_0_0.png
 # bon gusto
 ln -s bongusto.png 1_0_1_BB8_1BBC_9C_5A0000_0_0_0.png
 
-# bongustohd
-
 # boomerang
 ln -s boomerang.png 1_0_1_1BBE_7E2_2_11A0000_0_0_0.png
 ln -s boomerang.png 1_0_19_1793_C82_3_EB0000_0_0_0.png
