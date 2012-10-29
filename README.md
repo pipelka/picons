@@ -1,6 +1,5 @@
 FORMATTING
 ==========
-----------
 
 picons.sh:
 
@@ -12,7 +11,6 @@ picons.sh:
 
 RULES
 =====
------
 
 Channel Name:
   * NO spaces
@@ -43,7 +41,6 @@ Logo:
 
 XVDR USERS? NEED SOME HELP?
 ===========================
----------------------------
 
 With the help of @tkurbad's python script [piconlinks.py](https://github.com/tkurbad/piconscripts#piconscripts), you can speed up the process of linking the channels. You basically feed it your "channels.conf" file and the location of the git repo you cloned containing the channel logos, it then will try to match as many channels as possible.
 
