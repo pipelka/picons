@@ -3653,65 +3653,65 @@ ln -s net5hd.png 1_0_19_521C_FFFF_FFFF_EB2F9B_0_0_0.png
 ln -s net5hd.png 1_0_19_521C_C99_3_EB0000_0_0_0.png
 ln -s net5hd.png 1_0_1_521C_C99_3_EB0000_0_0_0.png
 
-# ngc
-ln -s ngc.png 1_0_1_FAF_451_35_C00000_0_0_0.png
-ln -s ngc.png 1_0_1_11FF_7EE_2_11A0000_0_0_0.png
-ln -s ngc.png 1_0_1_13AC_C85_3_EB0000_0_0_0.png
-ln -s ngc.png 1_0_1_778D_424_1_C00000_0_0_0.png
-ln -s ngc.png 1_0_1_D_4_85_C00000_0_0_0.png
-ln -s ngc.png 1_0_1_4F52_447_1_C00000_0_0_0.png
-ln -s ngc.png 1_0_1_2204_44C_1_C00000_0_0_0.png
-ln -s ngc.png 1_0_1_3D5E_2C88_13E_820000_0_0_0.png
-ln -s ngc.png 1_0_1_1D54_2F44_13E_820000_0_0_0.png
-ln -s ngc.png 1_0_19_32DF_190_13E_820000_0_0_0.png
-ln -s ngc.png 1_0_1_E39_16A8_FBFF_820000_0_0_0.png
-ln -s ngc.png 1_0_1_4E8B_2134_9C_5A0000_0_0_0.png
-ln -s ngc.png 1_0_19_C614_2712_F001_EB0000_0_0_0.png
-ln -s ngc.png 1_0_19_CFD8_2714_F001_EB0000_0_0_0.png
-ln -s ngc.png 1_0_19_27_19C8_9E_5A0000_0_0_0.png
-ln -s ngc.png 1_0_1_C614_2712_F001_EB0000_0_0_0.png
-ln -s ngc.png 1_0_1_CFD8_2712_F001_EB0000_0_0_0.png
-ln -s ngc.png 1_0_1_27_19C8_9E_5A0000_0_0_0.png
-ln -s ngc.png 1_0_1_151E_C86_3_EB0000_0_0_0.png
-ln -s ngc.png 1_0_1_1220_7EF_2_11A0000_0_0_0.png
-ln -s ngc.png 1_0_1_1587_C92_3_EB0000_0_0_0.png
-ln -s ngc.png 1_0_1_13DD_C8A_3_EB0000_0_0_0.png
-ln -s ngc.png 1_0_1_12C5_968_2_11A0000_0_0_0.png
+# national geographic channel
+ln -s nationalgeographic.png 1_0_1_FAF_451_35_C00000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_11FF_7EE_2_11A0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_13AC_C85_3_EB0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_778D_424_1_C00000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_D_4_85_C00000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_4F52_447_1_C00000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_2204_44C_1_C00000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_3D5E_2C88_13E_820000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_1D54_2F44_13E_820000_0_0_0.png
+ln -s nationalgeographic.png 1_0_19_32DF_190_13E_820000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_E39_16A8_FBFF_820000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_4E8B_2134_9C_5A0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_19_C614_2712_F001_EB0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_19_CFD8_2714_F001_EB0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_19_27_19C8_9E_5A0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_C614_2712_F001_EB0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_CFD8_2712_F001_EB0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_27_19C8_9E_5A0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_151E_C86_3_EB0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_1220_7EF_2_11A0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_1587_C92_3_EB0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_13DD_C8A_3_EB0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_12C5_968_2_11A0000_0_0_0.png
 
-# ngc hd
-ln -s ngchd.png 1_0_19_EF8_7E4_2_11A0000_0_0_0.png
-ln -s ngchd.png 1_0_19_7F_8_85_C00000_0_0_0.png
-ln -s ngchd.png 1_0_19_232B_442_1_C00000_0_0_0.png
-ln -s ngchd.png 1_0_19_233F_442_1_C00000_0_0_0.png
-ln -s ngchd.png 1_0_19_379C_14B4_FBFF_820000_0_0_0.png
-ln -s ngchd.png 1_0_1_2C2B_251C_FBFF_820000_0_0_0.png
-ln -s ngchd.png 1_0_19_28_20D0_6B2_5A0000_0_0_0.png
-ln -s ngchd.png 1_0_19_1B67_C88_3_EB0000_0_0_0.png
-ln -s ngchd.png 1_0_19_7F_8_3_EB0000_0_0_0.png
-ln -s ngchd.png 1_0_19_77F0_FFFF_FFFF_C0AD6A_0_0_0.png
-ln -s ngchd.png 1_0_19_DB6_16A8_9C_5A0000_0_0_0.png
-ln -s ngchd.png 1_0_19_2_1A90_9E_5A0000_0_0_0.png
-ln -s ngchd.png 1_0_1_75AC_422_1_C00000_0_0_0.png
-ln -s ngchd.png 1_0_1_238F_44A_1_C00000_0_0_0.png
-ln -s ngchd.png 1_0_1_32DF_190_13E_820000_0_0_0.png
-ln -s ngchd.png 1_0_19_70_D_85_C00000_0_0_0.png
-ln -s ngchd.png 1_0_19_C356_271C_F001_EB0000_0_0_0.png
-ln -s ngchd.png 1_0_1_761E_408_1_C00000_0_0_0.png
-ln -s ngchd.png 1_0_19_7821_428_1_C00000_0_0_0.png
-ln -s ngchd.png 1_0_19_77F0_404_1_C00000_0_0_0.png
-ln -s ngchd.png 1_0_86_EF7_7F1_2_11A0000_0_0_0.png
-ln -s ngchd.png 1_0_1_3C8F_1BBC_13E_820000_0_0_0.png
-ln -s ngchd.png 1_0_1_1B67_C88_3_EB0000_0_0_0.png
-ln -s ngchd.png 1_0_19_70_271B_85_EB0000_0_0_0.png
-ln -s ngchd.png 1_0_1_15ED_C9A_3_EB0000_0_0_0.png
-ln -s ngchd.png 1_0_1_15E5_C9A_3_EB0000_0_0_0.png
-ln -s ngchd.png 1_0_19_7829_428_1_C00000_0_0_0.png
+# national geographic channel hd
+ln -s nationalgeographichd.png 1_0_19_EF8_7E4_2_11A0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_7F_8_85_C00000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_232B_442_1_C00000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_233F_442_1_C00000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_379C_14B4_FBFF_820000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_1_2C2B_251C_FBFF_820000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_28_20D0_6B2_5A0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_1B67_C88_3_EB0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_7F_8_3_EB0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_77F0_FFFF_FFFF_C0AD6A_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_DB6_16A8_9C_5A0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_2_1A90_9E_5A0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_1_75AC_422_1_C00000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_1_238F_44A_1_C00000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_1_32DF_190_13E_820000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_70_D_85_C00000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_C356_271C_F001_EB0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_1_761E_408_1_C00000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_7821_428_1_C00000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_77F0_404_1_C00000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_86_EF7_7F1_2_11A0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_1_3C8F_1BBC_13E_820000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_1_1B67_C88_3_EB0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_70_271B_85_EB0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_1_15ED_C9A_3_EB0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_1_15E5_C9A_3_EB0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_7829_428_1_C00000_0_0_0.png
 
-# ngc +1
-ln -s ngcplus1.png 1_0_1_DB1_2DB4_FBFF_820000_0_0_0.png
-ln -s ngcplus1.png 1_0_1_1200_7EE_2_11A0000_0_0_0.png
-ln -s ngcplus1.png 1_0_1_1221_7EF_2_11A0000_0_0_0.png
-ln -s ngcplus1.png 1_0_1_12C6_968_2_11A0000_0_0_0.png
+# national geographic channel +1
+ln -s nationalgeographicplus1.png 1_0_1_DB1_2DB4_FBFF_820000_0_0_0.png
+ln -s nationalgeographicplus1.png 1_0_1_1200_7EE_2_11A0000_0_0_0.png
+ln -s nationalgeographicplus1.png 1_0_1_1221_7EF_2_11A0000_0_0_0.png
+ln -s nationalgeographicplus1.png 1_0_1_12C6_968_2_11A0000_0_0_0.png
 
 # nhk world
 ln -s nhkworld.png 1_0_1_C7A4_96C_2_11A0000_0_0_0.png
@@ -4098,6 +4098,8 @@ ln -s planetde.png 1_0_1_C3B9_2713_F001_EB0000_0_0_0.png
 ln -s planetde.png 1_0_19_C3B9_2713_F001_EB0000_0_0_0.png
 ln -s planetde.png 1_0_1_31FC_45F_35_C00000_0_0_0.png
 ln -s planetde.png 1_0_1_7FC_449_35_C00000_0_0_0.png
+
+# planet hd de
 
 # planete
 ln -s planete.png 1_0_1_1FD9_434_1_C00000_0_0_0.png
@@ -6216,6 +6218,9 @@ ln -s universalchannelhd.png 1_0_19_F28_7F3_2_11A0000_0_0_0.png
 ln -s universalchannelplus1.png 1_0_1_C7A6_96C_2_11A0000_0_0_0.png
 ln -s universalchannelplus1.png 1_0_1_CBFC_8FF_2_11A0000_0_0_0.png
 
+# unitel classica hd
+ln -s unitelclassicahd.png 1_0_19_17D5_C91_3_EB0000_0_0_0.png
+
 # ushuaiatv
 ln -s ushuaiatv.png 1_0_1_251E_440_1_C00000_0_0_0.png
 ln -s ushuaiatv.png 1_0_1_251E_456_1_C00000_0_0_0.png
@@ -6565,7 +6570,7 @@ ln -s ketnet.png 1_0_1_2733_A_F3C_FFFF0000_0_0_0.png
 ln -s bbcone.png 1_0_1_20D_5_F3C_FFFF0000_0_0_0.png
 ln -s bbctwo.png 1_0_1_20E_5_F3C_FFFF0000_0_0_0.png
 ln -s discovery.png 1_0_1_391_9_F3C_FFFF0000_0_0_0.png
-ln -s ngc.png 1_0_1_19E_4_F3C_FFFF0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_19E_4_F3C_FFFF0000_0_0_0.png
 ln -s cnn.png 1_0_1_27B_6_F3C_FFFF0000_0_0_0.png
 ln -s euronews.png 1_0_1_1A2_4_F3C_FFFF0000_0_0_0.png
 ln -s mtv.png 1_0_1_1A3_4_F3C_FFFF0000_0_0_0.png
@@ -6610,7 +6615,7 @@ ln -s comedycentral_kindernet.png 1_0_19_F0_12_3E8_FFFF0000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_10_6_3E8_FFFF0000_0_0_0.png
 ln -s disneychannel.png 1_0_1_D5_1F_3E8_FFFF0000_0_0_0.png
 ln -s discoveryhdshowcase.png 1_0_19_EF_13_3E8_FFFF0000_0_0_0.png
-ln -s ngchd.png 1_0_19_3A99_F_3E8_FFFF0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_3A99_F_3E8_FFFF0000_0_0_0.png
 ln -s animalplanet_tlc.png 1_0_1_7542_1E_3E8_FFFF0000_0_0_0.png
 ln -s eurosporthd.png 1_0_19_A7_3_3E8_FFFF0000_0_0_0.png
 ln -s mtv.png 1_0_1_13_6_3E8_FFFF0000_0_0_0.png
@@ -6714,7 +6719,7 @@ ln -s veronica_disneyxd.png 1_0_1_2AF9_B_3E8_FFFF0000_0_0_0.png
 ln -s net5.png 1_0_1_9_3_3E8_FFFF0000_0_0_0.png
 ln -s rtl8.png 1_0_1_3AA2_F_3E8_FFFF0000_0_0_0.png
 ln -s eurosport.png 1_0_1_11_6_3E8_FFFF0000_0_0_0.png
-ln -s ngc.png 1_0_1_FA9_4_3E8_FFFF0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_FA9_4_3E8_FFFF0000_0_0_0.png
 ln -s foxlife.png 1_0_1_C4_5_3E8_FFFF0000_0_0_0.png
 ln -s comedycentral_kindernet.png 1_0_1_14_6_3E8_FFFF0000_0_0_0.png
 ln -s een.png 1_0_1_16_3_3E8_FFFF0000_0_0_0.png
@@ -6743,7 +6748,7 @@ ln -s comedycentral_kindernet.png 1_0_19_F0_B_1F4_FFFF0000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_1B6D_7_1F4_FFFF0000_0_0_0.png
 ln -s disneychannel.png 1_0_1_D5_9_1F4_FFFF0000_0_0_0.png
 ln -s discoveryhdshowcase.png 1_0_19_EF_16_1F4_FFFF0000_0_0_0.png
-ln -s ngchd.png 1_0_19_4E27_14_1F4_FFFF0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_4E27_14_1F4_FFFF0000_0_0_0.png
 ln -s animalplanet_tlc.png 1_0_1_FA2_4_1F4_FFFF0000_0_0_0.png
 ln -s eurosporthd.png 1_0_19_A6_19_1F4_FFFF0000_0_0_0.png
 ln -s mtv.png 1_0_1_BC3_3_1F4_FFFF0000_0_0_0.png
@@ -6848,7 +6853,7 @@ ln -s veronica_disneyxd.png 1_0_1_1771_6_1F4_FFFF0000_0_0_0.png
 ln -s net5.png 1_0_1_1772_6_1F4_FFFF0000_0_0_0.png
 ln -s rtl8.png 1_0_1_1774_6_1F4_FFFF0000_0_0_0.png
 ln -s eurosport.png 1_0_1_2EE7_C_1F4_FFFF0000_0_0_0.png
-ln -s ngc.png 1_0_1_7D3_2_1F4_FFFF0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_7D3_2_1F4_FFFF0000_0_0_0.png
 ln -s foxlife.png 1_0_1_C4_F_1F4_FFFF0000_0_0_0.png
 ln -s comedycentral_kindernet.png 1_0_1_1775_6_1F4_FFFF0000_0_0_0.png
 ln -s een.png 1_0_1_1773_6_1F4_FFFF0000_0_0_0.png
@@ -7141,7 +7146,7 @@ ln -s bbcone.png 1_0_1_17_8A4_2210_EEEE0000_0_0_0.png
 ln -s bbctwo.png 1_0_1_1B_8A4_2210_EEEE0000_0_0_0.png
 ln -s 13thstreet.png 1_0_1_2A_8C4_2210_EEEE0000_0_0_0.png
 ln -s discovery.png 1_0_1_24_8A5_2210_EEEE0000_0_0_0.png
-ln -s ngc.png 1_0_1_1C_8A4_2210_EEEE0000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_1C_8A4_2210_EEEE0000_0_0_0.png
 ln -s animalplanet.png 1_0_1_19_8A4_2210_EEEE0000_0_0_0.png
 ln -s 24kitchen.png 1_0_1_1A_8A4_2210_EEEE0000_0_0_0.png
 ln -s mtv.png 1_0_1_18_8A4_2210_EEEE0000_0_0_0.png
