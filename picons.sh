@@ -2799,10 +2799,10 @@ ln -s idealworld.png 1_0_1_CC08_8FF_2_11A0000_0_0_0.png
 ln -s idealextra.png 1_0_1_CC09_8FF_2_11A0000_0_0_0.png
 
 # im 1
+ln -s im1.png 1_0_1_304_5_85_C00000_0_0_0.png
 
 # imusic
 ln -s imusic.png 1_0_19_D172_2714_F001_EB0000_0_0_0.png
-ln -s imusic.png 1_0_1_304_5_85_C00000_0_0_0.png
 ln -s imusic.png 1_0_19_DE_14B4_9C_5A0000_0_0_0.png
 ln -s imusic.png 1_0_1_D172_2714_F001_EB0000_0_0_0.png
 ln -s imusic.png 1_0_1_DE_14B4_9C_5A0000_0_0_0.png
@@ -4407,7 +4407,7 @@ ln -s romancetv.png 1_0_1_D0A5_2714_F001_EB0000_0_0_0.png
 ln -s romancetv.png 1_0_1_26_F_85_C00000_0_0_0.png
 ln -s romancetv.png 1_0_1_3ABE_514_13E_820000_0_0_0.png
 
-# rtf 1
+# rtf1
 
 # rtl
 ln -s rtl.png 1_0_19_D161_2717_F001_EB0000_0_0_0.png
