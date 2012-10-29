@@ -7024,6 +7024,7 @@ ln -s bayerischesfernsehen.png 1_0_1_6DCB_44D_A401_FFFF0000_0_0_0.png
 ln -s boomerang.png 1_0_1_D09F_2714_F001_FFFF0000_0_0_0.png
 ln -s bralpha.png 1_0_1_6F47_41B_A401_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_C612_2712_F001_FFFF0000_0_0_0.png
+ln -s unitelclassicahd.png 1_0_19_56B0_E3_A018_FFFF0000_0_0_0.png
 ln -s cnbc.png 1_0_1_D0A2_2714_F001_FFFF0000_0_0_0.png
 ln -s dieneuezeit.png 1_0_1_56A8_E3_A018_FFFF0000_0_0_0.png
 ln -s discovery.png 1_0_1_5626_DA_A018_FFFF0000_0_0_0.png
@@ -7054,6 +7055,7 @@ ln -s mdr.png 1_0_1_6E44_431_A401_FFFF0000_0_0_0.png
 ln -s mdr.png 1_0_1_6E46_431_A401_FFFF0000_0_0_0.png
 ln -s mtvhits.png 1_0_1_CF79_2712_F001_FFFF0000_0_0_0.png
 ln -s mtvmusic.png 1_0_1_5632_DB_A018_FFFF0000_0_0_0.png
+ln -s nationalgeographichd.png 1_0_19_5756_EB_A018_FFFF0000_0_0_0.png
 ln -s ndr.png 1_0_1_6E41_431_A401_FFFF0000_0_0_0.png
 ln -s ndr.png 1_0_1_6E40_431_A401_FFFF0000_0_0_0.png
 ln -s ndr.png 1_0_1_6E42_431_A401_FFFF0000_0_0_0.png
@@ -7063,6 +7065,7 @@ ln -s nickjr.png 1_0_1_C611_2715_F001_FFFF0000_0_0_0.png
 ln -s orf2.png 1_0_1_56FA_E7_A018_FFFF0000_0_0_0.png
 ln -s pcne.png 1_0_1_574D_EB_A018_FFFF0000_0_0_0.png
 ln -s planetde.png 1_0_1_C3B9_2713_F001_FFFF0000_0_0_0.png
+ln -s planethdde.png 1_0_19_56D8_E5_A018_FFFF0000_0_0_0.png
 ln -s pro7.png 1_0_1_445D_453_A018_FFFF0000_0_0_0.png
 ln -s pro7hd.png 1_0_19_EF75_3F9_1_FFFF0000_0_0_0.png
 ln -s qvc.png 1_0_1_55F4_D8_A018_FFFF0000_0_0_0.png
