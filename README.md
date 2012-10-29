@@ -34,7 +34,7 @@ Logo:
   * Resolution: 256x154px
   * Properly aligned
   * Highest quality possible
-  * Margin: 20px
+  * Margin: 15px
 
 
 * * *
