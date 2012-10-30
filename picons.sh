@@ -3031,8 +3031,6 @@ ln -s ketnetop12.png 1_0_1_3208_45F_35_C00000_0_0_0.png
 ln -s ketnetop12.png 1_0_16_3208_45F_35_C00000_0_0_0.png
 ln -s ketnetop12.png 1_0_16_5286_C96_3_EB0000_0_0_0.png
 
-# ketnet hd
-
 # kerrang
 ln -s kerrang.png 1_0_1_2EEF_7F8_2_11A0000_0_0_0.png
 
@@ -3937,6 +3935,8 @@ ln -s omropfryslan.png 1_0_1_5148_C8B_3_EB0000_0_0_0.png
 
 # ontv
 ln -s ontv.png 1_0_1_11FD_3FD_1_C00000_0_0_0.png
+
+# op12
 
 # orf1
 ln -s orf1.png 1_0_1_32C9_45D_1_C00000_0_0_0.png
