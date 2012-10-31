@@ -816,6 +816,10 @@ ln -s bvn.png 1_0_1_FB0_451_35_C00000_0_0_0.png
 # buzmuzik
 ln -s buzmuzik.png 1_0_1_D057_90A_2_11A0000_0_0_0.png
 
+# bw eins
+
+# bwfamily
+
 # calle 13 hd
 ln -s calle13hd.png 1_0_19_7824_428_1_C00000_0_0_0.png
 ln -s calle13hd.png 1_0_19_781F_428_1_C00000_0_0_0.png
@@ -7061,6 +7065,8 @@ ln -s bayerischesfernsehen.png 1_0_1_6DCB_44D_A401_FFFF0000_0_0_0.png
 ln -s bongustohd.png 1_0_19_5666_DD_A018_FFFF0000_0_0_0.png
 ln -s boomerang.png 1_0_1_D09F_2714_F001_FFFF0000_0_0_0.png
 ln -s bralpha.png 1_0_1_6F47_41B_A401_FFFF0000_0_0_0.png
+ln -s bweins.png 1_0_1_57A0_D7_A018_FFFF0000_0_0_0.png
+ln -s bwfamily.png 1_0_1_56AA_E3_A018_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_C612_2712_F001_FFFF0000_0_0_0.png
 ln -s unitelclassicahd.png 1_0_19_56B0_E3_A018_FFFF0000_0_0_0.png
 ln -s cnbc.png 1_0_1_D0A2_2714_F001_FFFF0000_0_0_0.png
