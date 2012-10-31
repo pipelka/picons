@@ -7277,7 +7277,7 @@ ln -s hse24extra.png 1_0_1_75A0_12D_270F_FFFF0000_0_0_0.png
 ln -s hse24.png 1_0_1_5E28_79_270F_FFFF0000_0_0_0.png
 ln -s hse24trend.png 1_0_1_42DC_AB_270F_FFFF0000_0_0_0.png
 ln -s htv1.png 1_0_1_65FB_105_270F_FFFF0000_0_0_0.png
-ln -s imusic.png 1_0_1_4E8B_AB_270F_FFFF0000_0_0_0.png
+ln -s im1.png 1_0_1_4E8B_AB_270F_FFFF0000_0_0_0.png
 ln -s junior.png 1_0_1_13_11_85_FFFF0000_0_0_0.png
 ln -s juwelotv.png 1_0_1_4E8C_AB_270F_FFFF0000_0_0_0.png
 ln -s kabeleinsclassics.png 1_0_1_3338_83_270F_FFFF0000_0_0_0.png
