@@ -5916,6 +5916,8 @@ ln -s tinypopplus1.png 1_0_1_D061_90A_2_11A0000_0_0_0.png
 ln -s tiroltv.png 1_0_1_277D_444_1_C00000_0_0_0.png
 ln -s tiroltv.png 1_0_1_3355_45B_1_C00000_0_0_0.png
 
+# tlc
+
 # tmc
 ln -s tmc.png 1_0_1_1FD8_434_1_C00000_0_0_0.png
 ln -s tmc.png 1_0_1_1FEB_434_1_C00000_0_0_0.png
