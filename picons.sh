@@ -816,7 +816,7 @@ ln -s bvn.png 1_0_1_FB0_451_35_C00000_0_0_0.png
 # buzmuzik
 ln -s buzmuzik.png 1_0_1_D057_90A_2_11A0000_0_0_0.png
 
-# bw eins
+# bweins
 
 # bwfamily
 
