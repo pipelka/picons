@@ -24,7 +24,7 @@ Channel Name:
   * LOWERCASE
   * Time sharing channels, names seperated by "_".
   * Sky ... channels contain uk/de/it at the end, to keep them apart.
-  * If the channelname contains a "+", you use a "+", if it's a timeshift channel, use "plus1"
+  * If the channelname contains a "+", you use a "+", if it's a timeshift channel, use "plus1".
 
 Serviceref:
   * UPPERCASE
