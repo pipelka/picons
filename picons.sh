@@ -7460,4 +7460,17 @@ ln -s servustv.png 1_0_1_2B60_6E_2028_EEEE0000_0_0_0.png
 
 # RADIO
 
+## AUSTRIA GRAZ ##
+
+# TV
+
+ln -s orf1.png 1_0_1_2775_1F4_2028_EEEE0000_0_0_0.png
+ln -s orf2.png 1_0_1_2780_1F4_2028_EEEE0000_0_0_0.png
+ln -s atv.png 1_0_1_2788_1F4_2028_EEEE0000_0_0_0.png
+ln -s puls4.png 1_0_1_2789_14A_2028_EEEE0000_0_0_0.png
+ln -s 3sat.png 1_0_1_2C26_14A_2028_EEEE0000_0_0_0.png
+ln -s orfsportplus.png 1_0_1_2C27_14A_2028_EEEE0000_0_0_0.png
+ln -s servustv.png 1_0_1_2C28_14A_2028_EEEE0000_0_0_0.png
+
+# RADIO
 
