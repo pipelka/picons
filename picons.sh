@@ -2,8 +2,11 @@
 
 cd $1
 
-# DVB-S/S2
+##############
+## DVB-S/S2 ##
+##############
 
+# TV
 
 # 1-2-3.tv
 ln -s 1-2-3.tv.png 1_0_19_C3BE_2711_F001_EB0000_0_0_0.png
@@ -6557,11 +6560,17 @@ ln -s zonereality.png 1_0_19_3E2F_2EE0_13E_820000_0_0_0.png
 ln -s zoneromantica.png 1_0_19_3E30_2EE0_13E_820000_0_0_0.png
 ln -s zoneromantica.png 1_0_1_1C85_1CE8_71_820000_0_0_0.png
 
+# RADIO
 
 
-# DVB-C
 
-# GLASHART MEDIA
+###########
+## DVB-C ##
+###########
+
+## GLASHART MEDIA ##
+
+# TV
 
 ln -s ned1.png 1_0_1_65_1_F3C_FFFF0000_0_0_0.png
 ln -s ned2.png 1_0_1_66_1_F3C_FFFF0000_0_0_0.png
@@ -6607,7 +6616,12 @@ ln -s tvoost.png 1_0_1_416_A_F3C_FFFF0000_0_0_0.png
 ln -s cnn.png 1_0_1_1A1_4_F3C_FFFF0000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_2720_A_F3C_FFFF0000_0_0_0.png
 
-# ZIGGO OOST
+# RADIO
+
+
+## ZIGGO OOST ##
+
+# TV
 
 ln -s ned1hd.png 1_0_19_C9_1D_3E8_FFFF0000_0_0_0.png
 ln -s ned2hd.png 1_0_19_CA_1D_3E8_FFFF0000_0_0_0.png
@@ -6740,7 +6754,12 @@ ln -s hbo3.png 1_0_1_E9_17_3E8_FFFF0000_0_0_0.png
 ln -s film1premiere.png 1_0_1_1F4A_8_3E8_FFFF0000_0_0_0.png
 ln -s eredivisielive.png 1_0_1_AE_18_3E8_FFFF0000_0_0_0.png
 
-# ZIGGO WEST
+# RADIO
+
+
+## ZIGGO WEST ##
+
+# TV
 
 ln -s ned1hd.png 1_0_19_C9_1B_1F4_FFFF0000_0_0_0.png
 ln -s ned2hd.png 1_0_19_CA_1B_1F4_FFFF0000_0_0_0.png
@@ -6874,7 +6893,12 @@ ln -s hbo3.png 1_0_1_E9_14_1F4_FFFF0000_0_0_0.png
 ln -s film1premiere.png 1_0_1_3E83_10_1F4_FFFF0000_0_0_0.png
 ln -s eredivisielive.png 1_0_1_BC_5_1F4_FFFF0000_0_0_0.png
 
-# KABEL BW
+# RADIO
+
+
+## KABEL BW ##
+
+# TV
 
 ln -s 1-2-3.tv.png 1_0_1_5604_D9_A018_FFFF0000_0_0_0.png
 ln -s 13thstreet.png 1_0_1_2A_1_85_FFFF0000_0_0_0.png
@@ -7142,10 +7166,16 @@ ln -s yourfamily.png 1_0_1_565F_DD_A018_FFFF0000_0_0_0.png
 ln -s zdfkultur.png 1_0_1_6D70_437_1_FFFF0000_0_0_0.png
 ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
 
+# RADIO
 
-# DVB-T
 
-# KPN DIGITENNE
+###########
+## DVB-T ##
+###########
+
+## KPN DIGITENNE ##
+
+# TV
 
 ln -s ned1.png 1_0_1_44D_8A6_2210_EEEE0000_0_0_0.png
 ln -s ned2.png 1_0_1_44E_8A6_2210_EEEE0000_0_0_0.png
@@ -7172,7 +7202,12 @@ ln -s eredivisielive.png 1_0_1_15_8A4_2210_EEEE0000_0_0_0.png
 ln -s eredivisielive.png 1_0_1_16_8A4_2210_EEEE0000_0_0_0.png
 ln -s tvdrenthe.png 1_0_1_2D_8C4_2210_EEEE0000_0_0_0.png
 
-# AUSTRIA VIENNA
+# RADIO
+
+
+## AUSTRIA VIENNA ##
+
+# TV
 
 ln -s orf1.png 1_0_1_2775_64_2028_EEEE0000_0_0_0.png
 ln -s orf2.png 1_0_1_2776_64_2028_EEEE0000_0_0_0.png
@@ -7182,4 +7217,7 @@ ln -s puls4.png 1_0_1_278B_6E_2028_EEEE0000_0_0_0.png
 ln -s 3sat.png 1_0_1_2B5E_6E_2028_EEEE0000_0_0_0.png
 ln -s orfsportplus.png 1_0_1_2B5F_6E_2028_EEEE0000_0_0_0.png
 ln -s servustv.png 1_0_1_2B60_6E_2028_EEEE0000_0_0_0.png
+
+# RADIO
+
 
