@@ -1391,38 +1391,38 @@ ln -s daystartv.png 1_0_1_34C0_3C28_13E_820000_0_0_0.png
 ln -s daystartv.png 1_0_1_D165_2717_F001_EB0000_0_0_0.png
 ln -s daystartv.png 1_0_1_CB8E_8FD_2_11A0000_0_0_0.png
 
-#deshtv
+# deshtv
 
-#deutschesmusikfernsehen
-ln -sdeutschesmusikfernsehen.png 1_0_1_3163_459_1_C00000_0_0_0.png
+# deutschesmusikfernsehen
+ln -s deutschesmusikfernsehen.png 1_0_1_3163_459_1_C00000_0_0_0.png
 
-#deakids
-ln -sdeakids.png 1_0_1_2CC4_2580_FBFF_820000_0_0_0.png
+# deakids
+ln -s deakids.png 1_0_1_2CC4_2580_FBFF_820000_0_0_0.png
 
-#deakidsplus1
-ln -sdeakidsplus1.png 1_0_1_3C04_64_FBFF_820000_0_0_0.png
+# deakidsplus1
+ln -s deakidsplus1.png 1_0_1_3C04_64_FBFF_820000_0_0_0.png
 
-#deasuper
-ln -sdeasuper.png 1_0_1_2C9D_2580_FBFF_820000_0_0_0.png
+# deasuper
+ln -s deasuper.png 1_0_1_2C9D_2580_FBFF_820000_0_0_0.png
 
-#deejaytv
-ln -sdeejaytv.png 1_0_1_E2A_708_C8_820000_0_0_0.png
+# deejaytv
+ln -s deejaytv.png 1_0_1_E2A_708_C8_820000_0_0_0.png
 
-#deluxemusic
-ln -sdeluxemusic.png 1_0_19_CF76_2717_F001_EB0000_0_0_0.png
-ln -sdeluxemusic.png 1_0_1_2774_444_1_C00000_0_0_0.png
-ln -sdeluxemusic.png 1_0_19_199_1964_9C_5A0000_0_0_0.png
-ln -sdeluxemusic.png 1_0_1_CF76_2717_F001_EB0000_0_0_0.png
-ln -sdeluxemusic.png 1_0_1_2774_444_1_11AAFD1_0_0_0.png
-ln -sdeluxemusic.png 1_0_1_41_7_85_C00000_0_0_0.png
+# deluxemusic
+ln -s deluxemusic.png 1_0_19_CF76_2717_F001_EB0000_0_0_0.png
+ln -s deluxemusic.png 1_0_1_2774_444_1_C00000_0_0_0.png
+ln -s deluxemusic.png 1_0_19_199_1964_9C_5A0000_0_0_0.png
+ln -s deluxemusic.png 1_0_1_CF76_2717_F001_EB0000_0_0_0.png
+ln -s deluxemusic.png 1_0_1_2774_444_1_11AAFD1_0_0_0.png
+ln -s deluxemusic.png 1_0_1_41_7_85_C00000_0_0_0.png
 
-#deluxeloungehd
-ln -sdeluxeloungehd.png 1_0_19_17D4_C91_3_EB0000_0_0_0.png 
+# deluxeloungehd
+ln -s deluxeloungehd.png 1_0_19_17D4_C91_3_EB0000_0_0_0.png 
 
-#deutscheswetterfernsehen
-ln -sdeutscheswetterfernsehen.png 1_0_19_C3BD_2713_F001_EB0000_0_0_0.png
-ln -sdeutscheswetterfernsehen.png 1_0_1_C3BD_2713_F001_EB0000_0_0_0.png
-ln -sdeutscheswetterfernsehen.png 1_0_1_4E2B_43A_1_C00000_0_0_0.png
+# deutscheswetterfernsehen
+ln -s deutscheswetterfernsehen.png 1_0_19_C3BD_2713_F001_EB0000_0_0_0.png
+ln -s deutscheswetterfernsehen.png 1_0_1_C3BD_2713_F001_EB0000_0_0_0.png
+ln -s deutscheswetterfernsehen.png 1_0_1_4E2B_43A_1_C00000_0_0_0.png
 
 # dhd24tv
 ln -s dhd24tv.png 1_0_1_313C_459_1_C00000_0_0_0.png
@@ -6193,7 +6193,7 @@ ln -s uctv.png 1_0_1_D3C4_A2B_2_11A0000_0_0_0.png
 ln -s uctv.png 1_0_1_D6DA_A33_2_11A0000_0_0_0.png
 
 # uktvdocs
-ln -suktvdocs.png 1_0_1_1970_7D6_2_11A0000_0_0_0.png
+ln -s uktvdocs.png 1_0_1_1970_7D6_2_11A0000_0_0_0.png
 
 # uktvdocsplus1
 
@@ -6938,8 +6938,8 @@ ln -s daf.png 1_0_1_5606_D9_A018_FFFF0000_0_0_0.png
 ln -s daserste.png 1_0_1_6DCA_44D_A401_FFFF0000_0_0_0.png
 ln -s daserstehd.png 1_0_19_2B5C_41B_A401_FFFF0000_0_0_0.png
 ln -s dasvierte.png 1_0_1_55F7_D8_A018_FFFF0000_0_0_0.png
-ln -sdeluxeloungehd.png 1_0_19_563B_DB_A018_FFFF0000_0_0_0.png
-ln -sdeluxemusic.png 1_0_1_561F_DA_A018_FFFF0000_0_0_0.png
+ln -s deluxeloungehd.png 1_0_19_563B_DB_A018_FFFF0000_0_0_0.png
+ln -s deluxemusic.png 1_0_1_561F_DA_A018_FFFF0000_0_0_0.png
 ln -s discoveryhd.png 1_0_19_82_6_85_FFFF0000_0_0_0.png
 ln -s disneychannel.png 1_0_1_22_11_85_FFFF0000_0_0_0.png
 ln -s disneycinemagic.png 1_0_1_19_3_85_FFFF0000_0_0_0.png
@@ -7168,7 +7168,7 @@ ln -s tntserie.png 1_0_1_D048_2715_F001_FFFF0000_0_0_0.png
 ln -s tvei.png 1_0_1_D104_2711_F001_FFFF0000_0_0_0.png
 ln -s vh1classic.png 1_0_1_CF7B_2715_F001_FFFF0000_0_0_0.png
 ln -s wdr.png 1_0_1_6DCF_44D_A401_FFFF0000_0_0_0.png
-ln -sdeutscheswetterfernsehen.png 1_0_1_C3BD_2713_F001_FFFF0000_0_0_0.png
+ln -s deutscheswetterfernsehen.png 1_0_1_C3BD_2713_F001_FFFF0000_0_0_0.png
 ln -s worldfashionchannel.png 1_0_1_5770_ED_A018_FFFF0000_0_0_0.png
 ln -s yourfamily.png 1_0_1_565F_DD_A018_FFFF0000_0_0_0.png
 ln -s zdfkultur.png 1_0_1_6D70_437_1_FFFF0000_0_0_0.png
