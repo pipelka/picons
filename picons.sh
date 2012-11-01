@@ -6798,7 +6798,7 @@ ln -s cartoonnetwork.png 1_0_1_4651_12_3E8_FFFF0000_0_0_0.png
 ln -s jimjam.png 1_0_1_AB_1B_3E8_FFFF0000_0_0_0.png
 ln -s boomerang.png 1_0_1_4656_12_3E8_FFFF0000_0_0_0.png
 ln -s babytv.png 1_0_1_44_10_3E8_FFFF0000_0_0_0.png
-ln -s zappelin_zapp24.png 1_0_1_3E_8_3E8_FFFF0000_0_0_0.png
+ln -s zappelin_zapp.png 1_0_1_3E_8_3E8_FFFF0000_0_0_0.png
 ln -s mtvlivehd.png 1_0_19_E1_1F_3E8_FFFF0000_0_0_0.png
 ln -s mtvbrandnew.png 1_0_1_36B3_E_3E8_FFFF0000_0_0_0.png
 ln -s mtvmusic.png 1_0_1_DE_1E_3E8_FFFF0000_0_0_0.png
@@ -6937,7 +6937,7 @@ ln -s cartoonnetwork.png 1_0_1_7D2_2_1F4_FFFF0000_0_0_0.png
 ln -s jimjam.png 1_0_1_AB_B_1F4_FFFF0000_0_0_0.png
 ln -s boomerang.png 1_0_1_4654_12_1F4_FFFF0000_0_0_0.png
 ln -s babytv.png 1_0_1_4653_12_1F4_FFFF0000_0_0_0.png
-ln -s zappelin_zapp24.png 1_0_1_3E_15_1F4_FFFF0000_0_0_0.png
+ln -s zappelin_zapp.png 1_0_1_3E_15_1F4_FFFF0000_0_0_0.png
 ln -s mtvlivehd.png 1_0_19_E1_9_1F4_FFFF0000_0_0_0.png
 ln -s mtvbrandnew.png 1_0_1_49_5_1F4_FFFF0000_0_0_0.png
 ln -s mtvmusic.png 1_0_1_4B_A_1F4_FFFF0000_0_0_0.png
