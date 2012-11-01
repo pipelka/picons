@@ -28,6 +28,7 @@ Channel Name:
 
 Serviceref:
   * UPPERCASE
+  * NO DUPLICATE entries
 
 Extension:
   * .png
