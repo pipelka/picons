@@ -439,8 +439,14 @@ ln -s axnscifi.png 1_0_1_296B_22C4_13E_820000_0_0_0.png
 ln -s axnscifi.png 1_0_1_2FED_1D4C_FBFF_820000_0_0_0.png
 ln -s axnscifi.png 1_0_1_5158_C8B_3_EB0000_0_0_0.png
 
+# axnspin
+
 # axnspinhd
 ln -s axnspinhd.png 1_0_1_32E2_190_13E_820000_0_0_0.png
+
+# axnwhite
+
+# axnwhitehd
 
 # austria9
 
