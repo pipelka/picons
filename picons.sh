@@ -6329,6 +6329,8 @@ ln -s universalchannelhd.png 1_0_19_F28_7F3_2_11A0000_0_0_0.png
 ln -s universalchannelplus1.png 1_0_1_C7A6_96C_2_11A0000_0_0_0.png
 ln -s universalchannelplus1.png 1_0_1_CBFC_8FF_2_11A0000_0_0_0.png
 
+# unitelclassica
+
 # unitelclassicahd
 ln -s unitelclassicahd.png 1_0_19_17D5_C91_3_EB0000_0_0_0.png
 
@@ -6574,10 +6576,10 @@ ln -s xxl.png 1_0_1_1D5_26AC_13F_820000_0_0_0.png
 ln -s yachtandsail.png 1_0_1_2502_2260_FBFF_820000_0_0_0.png
 ln -s yachtandsail.png 1_0_1_268_206C_9C_5A0000_0_0_0.png
 
-# yavidoclips
-ln -s yavidoclips.png 1_0_1_2FD_7_85_C00000_0_0_0.png
-ln -s yavidoclips.png 1_0_19_DF_14B4_9C_5A0000_0_0_0.png
-ln -s yavidoclips.png 1_0_1_DF_14B4_9C_5A0000_0_0_0.png
+# yavido
+ln -s yavido.png 1_0_1_2FD_7_85_C00000_0_0_0.png
+ln -s yavido.png 1_0_19_DF_14B4_9C_5A0000_0_0_0.png
+ln -s yavido.png 1_0_1_DF_14B4_9C_5A0000_0_0_0.png
 
 # yesitalia
 ln -s yesitalia.png 1_0_1_2781_444_1_C00000_0_0_0.png
@@ -6592,9 +6594,13 @@ ln -s yesterdayplus1.png 1_0_1_1DE2_7DF_2_11A0000_0_0_0.png
 # yourfamily
 ln -s yourfamily.png 1_0_1_4EE9_21FC_9C_5A0000_0_0_0.png
 
-# zappelin_zapp24
-ln -s zappelin_zapp24.png 1_0_16_1784_C82_3_EB0000_0_0_0.png
-ln -s zappelin_zapp24.png 1_0_1_1784_C82_3_EB0000_0_0_0.png
+# zappelin_zapp
+ln -s zappelin_zapp.png 1_0_16_1784_C82_3_EB0000_0_0_0.png
+ln -s zappelin_zapp.png 1_0_1_1784_C82_3_EB0000_0_0_0.png
+
+# zappelin
+
+# zapp
 
 # zdf
 ln -s zdf.png 1_0_1_6D66_437_1_C00000_0_0_0.png
@@ -6659,6 +6665,8 @@ ln -s zonereality.png 1_0_19_3E2F_2EE0_13E_820000_0_0_0.png
 # zoneromantica
 ln -s zoneromantica.png 1_0_19_3E30_2EE0_13E_820000_0_0_0.png
 ln -s zoneromantica.png 1_0_1_1C85_1CE8_71_820000_0_0_0.png
+
+# zonethriller
 
 # RADIO
 
