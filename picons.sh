@@ -6990,7 +6990,7 @@ ln -s eredivisielive.png 1_0_1_BC_5_1F4_FFFF0000_0_0_0.png
 # RADIO
 
 
-## KABEL BW ## SHARES SERVICEREF WITH ## UNITYMEDIA NRW ##
+## UNITYMEDIA KABEL BW ##
 
 # TV
 
@@ -7261,14 +7261,6 @@ ln -s worldfashionchannel.png 1_0_1_5770_ED_A018_FFFF0000_0_0_0.png
 ln -s yourfamily.png 1_0_1_565F_DD_A018_FFFF0000_0_0_0.png
 ln -s zdfkultur.png 1_0_1_6D70_437_1_FFFF0000_0_0_0.png
 ln -s zdfneo.png 1_0_1_6D6E_437_1_FFFF0000_0_0_0.png
-
-# RADIO
-
-
-## UNITYMEDIA NRW ## SHARES SERVICEREF WITH ## KABEL BW ##
-
-# TV
-
 ln -s 1-2-3.tv.png 1_0_1_5E2A_B5_270F_FFFF0000_0_0_0.png
 ln -s 13thstreethd.png 1_0_19_6219_137_270F_FFFF0000_0_0_0.png
 ln -s 3sat.png 1_0_1_6D67_437_66_FFFF0000_0_0_0.png
