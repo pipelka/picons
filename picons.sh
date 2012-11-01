@@ -3035,6 +3035,10 @@ ln -s june.png 1_0_1_1FE1_434_1_C00000_0_0_0.png
 # k2
 ln -s k2.png 1_0_1_3A0B_1FA4_13E_820000_0_0_0.png
 
+# kabelbw
+
+# kabelbwvideothek
+
 # kabeleins
 ln -s kabeleins.png 1_0_19_D176_2718_F001_EB0000_0_0_0.png
 ln -s kabeleins.png 1_0_1_4E23_43A_1_C00000_0_0_0.png
