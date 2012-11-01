@@ -7368,6 +7368,7 @@ ln -s silverline.png 1_0_1_3334_F1_270F_FFFF0000_0_0_0.png
 ln -s silverline.png 1_0_1_C481_2715_F001_FFFF0000_0_0_0.png
 ln -s sixx.png 1_0_1_4460_453_A018_FFFF0000_0_0_0.png
 ln -s sixx.png 1_0_1_4E94_C9_270F_FFFF0000_0_0_0.png
+ln -s sixx.png 1_0_1_5611_D9_A018_FFFF0000_0_0_0.png
 ln -s sixxhd.png 1_0_19_7D68_141_270F_FFFF0000_0_0_0.png
 ln -s sixxhd.png 1_0_19_EF77_3F9_1_FFFF0000_0_0_0.png
 ln -s sky3dde.png 1_0_1_56E1_E6_A018_FFFF0000_0_0_0.png
