@@ -2021,6 +2021,8 @@ ln -s etbsat.png 1_0_1_1B5A_3FC_1_C00000_0_0_0.png
 
 # ethnictv
 
+# etnotv.png
+
 # etv
 ln -s etv.png 1_0_1_1A86_7DD_2_11A0000_0_0_0.png
 
@@ -7176,6 +7178,7 @@ ln -s espnamerica.png 1_0_1_CF71_2715_F001_FFFF0000_0_0_0.png
 ln -s espnclassic.png 1_0_1_3AFD_97_270F_FFFF0000_0_0_0.png
 ln -s espnclassic.png 1_0_1_C47D_2715_F001_FFFF0000_0_0_0.png
 ln -s espnclassic.png 1_0_1_D09D_2715_F001_FFFF0000_0_0_0.png
+ln -s etnotv.png 1_0_1_5731_EA_A018_FFFF0000_0_0_0.png
 ln -s euronews.png 1_0_1_5661_DD_270F_FFFF0000_0_0_0.png
 ln -s euronews.png 1_0_1_5662_DD_270F_FFFF0000_0_0_0.png
 ln -s euronews.png 1_0_1_5663_DD_270F_FFFF0000_0_0_0.png
