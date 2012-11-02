@@ -746,6 +746,8 @@ ln -s bluemovie3.png 1_0_1_16D_1_85_C00000_0_0_0.png
 
 # bluemoviegay
 
+# bntv
+
 # bodyinbalance
 ln -s bodyinbalance.png 1_0_1_D74B_A2B_2_11A0000_0_0_0.png
 ln -s bodyinbalance.png 1_0_19_17AC_C82_3_EB0000_0_0_0.png
@@ -1088,6 +1090,8 @@ ln -s challenger.png 1_0_1_1335_33F4_13E_820000_0_0_0.png
 
 # chambertv
 ln -s chambertv.png 1_0_1_1464_C98_3_EB0000_0_0_0.png
+
+# channel1rus
 
 # channel4
 ln -s channel4.png 1_0_1_23FB_7F9_2_11A0000_0_0_0.png
@@ -2021,6 +2025,8 @@ ln -s etbsat.png 1_0_1_1B5A_3FC_1_C00000_0_0_0.png
 
 # ethnictv
 
+# etnotv
+
 # etv
 ln -s etv.png 1_0_1_1A86_7DD_2_11A0000_0_0_0.png
 
@@ -2637,6 +2643,8 @@ ln -s gxt.png 1_0_1_2BCD_1A90_FBFF_820000_0_0_0.png
 
 # gxtplus1
 ln -s gxtplus1.png 1_0_1_2FE7_1D4C_FBFF_820000_0_0_0.png
+
+# haberturktv
 
 # hayatplus
 
@@ -5649,6 +5657,8 @@ ln -s sophiatv.png 1_0_1_1268_3F7_1_C00000_0_0_0.png
 
 # souvenirsfromearthtv
 
+# spardawelt
+
 # speedauctiontv
 ln -s speedauctiontv.png 1_0_1_CD41_902_2_11A0000_0_0_0.png
 
@@ -5928,6 +5938,8 @@ ln -s telemadrid.png 1_0_1_7A47_410_1_C00000_0_0_0.png
 # telenova
 ln -s telenova.png 1_0_1_C_300C_13E_820000_0_0_0.png
 ln -s telenova.png 1_0_1_730_578_13E_820000_0_0_0.png
+
+# telesud
 
 # telesur
 ln -s telesur.png 1_0_1_275B_402_1_C00000_0_0_0.png
@@ -7053,6 +7065,7 @@ ln -s eredivisielive.png 1_0_1_BC_5_1F4_FFFF0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_5604_D9_A018_FFFF0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_5E2A_B5_270F_FFFF0000_0_0_0.png
 ln -s 13thstreet.png 1_0_1_2A_1_85_FFFF0000_0_0_0.png
+ln -s 13thstreet.png 1_0_1_C3BB_2715_F001_FFFF0000_0_0_0.png
 ln -s 13thstreethd.png 1_0_19_6219_137_270F_FFFF0000_0_0_0.png
 ln -s 3sat.png 1_0_1_6D67_437_1_FFFF0000_0_0_0.png
 ln -s 3sat.png 1_0_1_6D67_437_66_FFFF0000_0_0_0.png
@@ -7106,6 +7119,7 @@ ln -s bluemovie.png 1_0_1_201_4_85_FFFF0000_0_0_0.png
 ln -s bluemovie1.png 1_0_1_159_1_85_FFFF0000_0_0_0.png
 ln -s bluemovie2.png 1_0_1_163_1_85_FFFF0000_0_0_0.png
 ln -s bluemovie3.png 1_0_1_16D_1_85_FFFF0000_0_0_0.png
+ln -s bntv.png 1_0_1_5734_EA_A018_FFFF0000_0_0_0.png
 ln -s bodyinbalance.png 1_0_1_69E3_B5_270F_FFFF0000_0_0_0.png
 ln -s bongusto.png 1_0_1_3B00_97_270F_FFFF0000_0_0_0.png
 ln -s bongusto.png 1_0_1_D036_2713_F001_FFFF0000_0_0_0.png
@@ -7126,6 +7140,7 @@ ln -s cartoonnetwork.png 1_0_1_C617_2712_F001_FFFF0000_0_0_0.png
 ln -s cctvnews.png 1_0_1_4E97_C9_270F_FFFF0000_0_0_0.png
 ln -s cctvnews.png 1_0_1_5720_E9_A018_FFFF0000_0_0_0.png
 ln -s centertv.png 1_0_1_5E2B_15F_270F_FFFF0000_0_0_0.png
+ln -s channel1rus.png 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
 ln -s channel21.png 1_0_1_2F30_441_A018_FFFF0000_0_0_0.png
 ln -s channel21.png 1_0_1_5E29_B5_270F_FFFF0000_0_0_0.png
 ln -s classica.png 1_0_1_18_11_85_FFFF0000_0_0_0.png
@@ -7174,6 +7189,7 @@ ln -s espnamerica.png 1_0_1_CF71_2715_F001_FFFF0000_0_0_0.png
 ln -s espnclassic.png 1_0_1_3AFD_97_270F_FFFF0000_0_0_0.png
 ln -s espnclassic.png 1_0_1_C47D_2715_F001_FFFF0000_0_0_0.png
 ln -s espnclassic.png 1_0_1_D09D_2715_F001_FFFF0000_0_0_0.png
+ln -s etnotv.png 1_0_1_5731_EA_A018_FFFF0000_0_0_0.png
 ln -s euronews.png 1_0_1_5661_DD_270F_FFFF0000_0_0_0.png
 ln -s euronews.png 1_0_1_5662_DD_270F_FFFF0000_0_0_0.png
 ln -s euronews.png 1_0_1_5663_DD_270F_FFFF0000_0_0_0.png
@@ -7224,6 +7240,7 @@ ln -s goldstartv.png 1_0_1_206_11_85_FFFF0000_0_0_0.png
 ln -s gotv.png 1_0_1_5737_EA_A018_FFFF0000_0_0_0.png
 ln -s gutelaunetv.png 1_0_1_3337_83_270F_FFFF0000_0_0_0.png
 ln -s gutelaunetv.png 1_0_1_C3BF_2713_F001_FFFF0000_0_0_0.png
+ln -s haberturktv.png 1_0_1_5771_ED_A018_FFFF0000_0_0_0.png
 ln -s hdcampustv.png 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 ln -s heimatkanal.png 1_0_1_16_11_85_FFFF0000_0_0_0.png
 ln -s hessenfernsehen.png 1_0_1_6DCC_44D_A401_FFFF0000_0_0_0.png
@@ -7267,6 +7284,7 @@ ln -s libertytv.png 1_0_1_6DC7_119_270F_FFFF0000_0_0_0.png
 ln -s ligtv.png 1_0_1_5659_DD_270F_FFFF0000_0_0_0.png
 ln -s ligtv.png 1_0_1_D106_70_F001_FFFF0000_0_0_0.png
 ln -s lustpur.png 1_0_1_3B04_8D_270F_FFFF0000_0_0_0.png
+ln -s lustpur.png 1_0_1_C613_2712_F001_FFFF0000_0_0_0.png
 ln -s mad.png 1_0_1_5687_E1_A018_FFFF0000_0_0_0.png
 ln -s mad.png 1_0_1_759F_12D_270F_FFFF0000_0_0_0.png
 ln -s mbc.png 1_0_1_571B_E8_A018_FFFF0000_0_0_0.png
@@ -7441,7 +7459,6 @@ ln -s skyselectde.png 1_0_1_FE_2_85_FFFF0000_0_0_0.png
 ln -s skysport1de.png 1_0_1_DD_4_85_FFFF0000_0_0_0.png
 ln -s skysport2de.png 1_0_1_DE_4_85_FFFF0000_0_0_0.png
 ln -s skysportaustriade.png 1_0_1_1E_1_85_FFFF0000_0_0_0.png
-ln -s skysportde.png 1_0_1_FD_2_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_107_2_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_111_3_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_11B_3_85_FFFF0000_0_0_0.png
@@ -7452,6 +7469,7 @@ ln -s skysportde.png 1_0_1_143_11_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_14D_11_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_16B_1_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_175_1_85_FFFF0000_0_0_0.png
+ln -s skysportde.png 1_0_1_FD_2_85_FFFF0000_0_0_0.png
 ln -s skysporthd1de.png 1_0_19_797D_137_270F_FFFF0000_0_0_0.png
 ln -s skysporthd1de.png 1_0_19_81_6_85_FFFF0000_0_0_0.png
 ln -s skysporthd2de.png 1_0_19_72_D_85_FFFF0000_0_0_0.png
@@ -7465,6 +7483,7 @@ ln -s sonlifetv.png 1_0_1_561E_DA_A018_FFFF0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_55F5_D8_A018_FFFF0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_5E30_B5_270F_FFFF0000_0_0_0.png
 ln -s souvenirsfromearthtv.png 1_0_1_56E0_E6_A018_FFFF0000_0_0_0.png
+ln -s spardawelt.png 1_0_1_56D9_E5_A018_FFFF0000_0_0_0.png
 ln -s spiegelgeschichte.png 1_0_1_34_4_85_FFFF0000_0_0_0.png
 ln -s spiegeltvwissen.png 1_0_1_3718_8D_270F_FFFF0000_0_0_0.png
 ln -s spiegeltvwissen.png 1_0_1_D099_2712_F001_FFFF0000_0_0_0.png
@@ -7487,9 +7506,11 @@ ln -s swr.png 1_0_1_6E47_431_A401_FFFF0000_0_0_0.png
 ln -s syfyhd.png 1_0_19_56EC_E6_A018_FFFF0000_0_0_0.png
 ln -s syfyhd.png 1_0_19_69EA_10F_270F_FFFF0000_0_0_0.png
 ln -s syfyuniversal.png 1_0_1_24_11_85_FFFF0000_0_0_0.png
+ln -s syfyuniversal.png 1_0_1_C3BA_2712_F001_FFFF0000_0_0_0.png
 ln -s tagesschau24.png 1_0_1_7031_41B_A401_FFFF0000_0_0_0.png
 ln -s tele5.png 1_0_1_2F4F_BF_270F_FFFF0000_0_0_0.png
 ln -s tele5.png 1_0_1_55F6_D8_A018_FFFF0000_0_0_0.png
+ln -s telesud.png 1_0_1_570C_E8_A018_FFFF0000_0_0_0.png
 ln -s tf1.png 1_0_1_56F9_E7_A018_FFFF0000_0_0_0.png
 ln -s tgrteu.png 1_0_1_565F_DD_270F_FFFF0000_0_0_0.png
 ln -s thaitvglobalnetwork.png 1_0_1_5722_E9_A018_FFFF0000_0_0_0.png
