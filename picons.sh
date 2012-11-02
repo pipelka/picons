@@ -76,6 +76,8 @@ ln -s 13thstreet.png 1_0_1_17B1_C82_3_EB0000_0_0_0.png
 # 13thstreethd
 ln -s 13thstreethd.png 1_0_19_C354_271D_F001_EB0000_0_0_0.png
 
+# 13thstreetuniversal
+
 # 40latino
 ln -s 40latino.png 1_0_1_7470_3F0_1_C00000_0_0_0.png
 ln -s 40latino.png 1_0_1_7478_3F0_1_C00000_0_0_0.png
@@ -7058,6 +7060,7 @@ ln -s 1-2-3.tv.png 1_0_1_5604_D9_A018_FFFF0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_5E2A_B5_270F_FFFF0000_0_0_0.png
 ln -s 13thstreet.png 1_0_1_2A_1_85_FFFF0000_0_0_0.png
 ln -s 13thstreethd.png 1_0_19_6219_137_270F_FFFF0000_0_0_0.png
+ln -s 13thstreetuniversal.png 1_0_1_C3BB_2715_F001_FFFF0000_0_0_0.png
 ln -s 3sat.png 1_0_1_6D67_437_1_FFFF0000_0_0_0.png
 ln -s 3sat.png 1_0_1_6D67_437_66_FFFF0000_0_0_0.png
 ln -s alaoulainter.png 1_0_1_5768_EC_A018_FFFF0000_0_0_0.png
