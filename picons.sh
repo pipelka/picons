@@ -2670,6 +2670,8 @@ ln -s hbocomedy.png 1_0_1_1AA5_1A90_9E_5A0000_0_0_0.png
 ln -s hbocomedyhd.png 1_0_1_E0A_2D50_13E_820000_0_0_0.png
 ln -s hbocomedyhd.png 1_0_1_3D63_2C88_13E_820000_0_0_0.png
 
+# hdcampustv
+
 # hdsuisse
 ln -s hdsuisse.png 1_0_1_3DE_2134_13E_820000_0_0_0.png
 ln -s hdsuisse.png 1_0_19_3DE_2134_13E_820000_0_0_0.png
@@ -7200,6 +7202,7 @@ ln -s goldstartv.png 1_0_1_206_11_85_FFFF0000_0_0_0.png
 ln -s gotv.png 1_0_1_5737_EA_A018_FFFF0000_0_0_0.png
 ln -s gutelaunetv.png 1_0_1_3337_83_270F_FFFF0000_0_0_0.png
 ln -s gutelaunetv.png 1_0_1_C3BF_2713_F001_FFFF0000_0_0_0.png
+ln -s hdcampustv.png 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 ln -s heimatkanal.png 1_0_1_16_11_85_FFFF0000_0_0_0.png
 ln -s hessenfernsehen.png 1_0_1_6DCC_44D_A401_FFFF0000_0_0_0.png
 ln -s hightv3d.png 1_0_19_4E95_C9_270F_FFFF0000_0_0_0.png
