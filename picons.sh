@@ -846,6 +846,8 @@ ln -s buzmuzik.png 1_0_1_D057_90A_2_11A0000_0_0_0.png
 ln -s calle13hd.png 1_0_19_7824_428_1_C00000_0_0_0.png
 ln -s calle13hd.png 1_0_19_781F_428_1_C00000_0_0_0.png
 
+# cameradeideputati
+
 # canvas
 ln -s canvas.png 1_0_1_31E8_45F_35_C00000_0_0_0.png
 
@@ -7133,6 +7135,7 @@ ln -s bralpha.png 1_0_1_6F47_41B_A401_FFFF0000_0_0_0.png
 ln -s bvn.png 1_0_1_5752_EB_A018_FFFF0000_0_0_0.png
 ln -s bweins.png 1_0_1_57A0_D7_A018_FFFF0000_0_0_0.png
 ln -s bwfamily.png 1_0_1_56AA_E3_A018_FFFF0000_0_0_0.png
+ln -s cameradeideputati.png 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_3B01_97_270F_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_3B07_97_270F_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_C612_2712_F001_FFFF0000_0_0_0.png
