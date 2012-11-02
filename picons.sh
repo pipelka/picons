@@ -5647,6 +5647,8 @@ ln -s sonysab.png 1_0_1_D35B_A2A_2_11A0000_0_0_0.png
 ln -s sophiatv.png 1_0_1_277F_444_1_C00000_0_0_0.png
 ln -s sophiatv.png 1_0_1_1268_3F7_1_C00000_0_0_0.png
 
+# souvenirsfromearthtv
+
 # speedauctiontv
 ln -s speedauctiontv.png 1_0_1_CD41_902_2_11A0000_0_0_0.png
 
@@ -7462,6 +7464,7 @@ ln -s skysportnewshdde.png 1_0_19_90EF_173_270F_FFFF0000_0_0_0.png
 ln -s sonlifetv.png 1_0_1_561E_DA_A018_FFFF0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_55F5_D8_A018_FFFF0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_5E30_B5_270F_FFFF0000_0_0_0.png
+ln -s souvenirsfromearthtv.png 1_0_1_56E0_E6_A018_FFFF0000_0_0_0.png
 ln -s spiegelgeschichte.png 1_0_1_34_4_85_FFFF0000_0_0_0.png
 ln -s spiegeltvwissen.png 1_0_1_3718_8D_270F_FFFF0000_0_0_0.png
 ln -s spiegeltvwissen.png 1_0_1_D099_2712_F001_FFFF0000_0_0_0.png
