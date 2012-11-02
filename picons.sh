@@ -3091,6 +3091,8 @@ ln -s kanalivoulis.png 1_0_1_180_1C84_13E_820000_0_0_0.png
 
 # kazakhtv
 
+# kbsworld
+
 # ketnet
 
 # ketnetop12
@@ -7276,6 +7278,7 @@ ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
 ln -s kabeleinshd.png 1_0_19_7D67_141_270F_FFFF0000_0_0_0.png
 ln -s kabeleinshd.png 1_0_19_EF76_3F9_1_FFFF0000_0_0_0.png
 ln -s kazakhtv.png 1_0_1_71B1_123_270F_FFFF0000_0_0_0.png
+ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 ln -s kidsco.png 1_0_1_526E_D3_270F_FFFF0000_0_0_0.png
 ln -s kidsco.png 1_0_1_5664_DD_A018_FFFF0000_0_0_0.png
 ln -s kika.png 1_0_1_6D68_437_1_FFFF0000_0_0_0.png
