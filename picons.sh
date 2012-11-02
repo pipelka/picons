@@ -746,6 +746,8 @@ ln -s bluemovie3.png 1_0_1_16D_1_85_C00000_0_0_0.png
 
 # bluemoviegay
 
+# bntv
+
 # bodyinbalance
 ln -s bodyinbalance.png 1_0_1_D74B_A2B_2_11A0000_0_0_0.png
 ln -s bodyinbalance.png 1_0_19_17AC_C82_3_EB0000_0_0_0.png
@@ -7113,6 +7115,7 @@ ln -s bluemovie.png 1_0_1_201_4_85_FFFF0000_0_0_0.png
 ln -s bluemovie1.png 1_0_1_159_1_85_FFFF0000_0_0_0.png
 ln -s bluemovie2.png 1_0_1_163_1_85_FFFF0000_0_0_0.png
 ln -s bluemovie3.png 1_0_1_16D_1_85_FFFF0000_0_0_0.png
+ln -s bntv.png 1_0_1_5734_EA_A018_FFFF0000_0_0_0.png
 ln -s bodyinbalance.png 1_0_1_69E3_B5_270F_FFFF0000_0_0_0.png
 ln -s bongusto.png 1_0_1_3B00_97_270F_FFFF0000_0_0_0.png
 ln -s bongusto.png 1_0_1_D036_2713_F001_FFFF0000_0_0_0.png
