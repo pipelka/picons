@@ -5821,22 +5821,22 @@ ln -s syfyhd.png 1_0_19_788A_414_1_C00000_0_0_0.png
 ln -s syfyhd.png 1_0_19_19CB_444_1_C00000_0_0_0.png
 ln -s syfyhd.png 1_0_19_19DF_444_1_C00000_0_0_0.png
 
-# syfyuniversal
-ln -s syfyuniversal.png 1_0_1_D2FF_96C_2_11A0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_19_C3BA_2712_F001_EB0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_19_17A2_C82_3_EB0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_7796_424_1_C00000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_24_11_85_C00000_0_0_0.png
-ln -s syfyuniversal.png 1_0_16_17A2_C82_3_EB0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_17A2_C82_3_EB0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_C3BA_2712_F001_EB0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_CC1A_8FF_2_11A0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_21FF_44C_1_C00000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_4E86_2134_9C_5A0000_0_0_0.png
+# syfy
+ln -s syfy.png 1_0_1_D2FF_96C_2_11A0000_0_0_0.png
+ln -s syfy.png 1_0_19_C3BA_2712_F001_EB0000_0_0_0.png
+ln -s syfy.png 1_0_19_17A2_C82_3_EB0000_0_0_0.png
+ln -s syfy.png 1_0_1_7796_424_1_C00000_0_0_0.png
+ln -s syfy.png 1_0_1_24_11_85_C00000_0_0_0.png
+ln -s syfy.png 1_0_16_17A2_C82_3_EB0000_0_0_0.png
+ln -s syfy.png 1_0_1_17A2_C82_3_EB0000_0_0_0.png
+ln -s syfy.png 1_0_1_C3BA_2712_F001_EB0000_0_0_0.png
+ln -s syfy.png 1_0_1_CC1A_8FF_2_11A0000_0_0_0.png
+ln -s syfy.png 1_0_1_21FF_44C_1_C00000_0_0_0.png
+ln -s syfy.png 1_0_1_4E86_2134_9C_5A0000_0_0_0.png
 
-# syfyuniversalplus1
-ln -s syfyuniversalplus1.png 1_0_1_D2FB_969_2_11A0000_0_0_0.png
-ln -s syfyuniversalplus1.png 1_0_1_CC38_8FF_2_11A0000_0_0_0.png
+# syfyplus1
+ln -s syfyplus1.png 1_0_1_D2FB_969_2_11A0000_0_0_0.png
+ln -s syfyplus1.png 1_0_1_CC38_8FF_2_11A0000_0_0_0.png
 
 # ta3
 ln -s ta3.png 1_0_1_13F3_C87_3_EB0000_0_0_0.png
@@ -6824,7 +6824,7 @@ ln -s hbo2hd.png 1_0_19_EB_21_3E8_FFFF0000_0_0_0.png
 ln -s mgm.png 1_0_1_36B8_E_3E8_FFFF0000_0_0_0.png
 ln -s tcm.png 1_0_1_36B7_E_3E8_FFFF0000_0_0_0.png
 ln -s rtlcrime.png 1_0_1_DA_1F_3E8_FFFF0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_B8_10_3E8_FFFF0000_0_0_0.png
+ln -s syfy.png 1_0_1_B8_10_3E8_FFFF0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_1_FA6_4_3E8_FFFF0000_0_0_0.png
 ln -s crime.png 1_0_1_27_3_3E8_FFFF0000_0_0_0.png
 ln -s zonereality.png 1_0_1_55F4_16_3E8_FFFF0000_0_0_0.png
@@ -6963,7 +6963,7 @@ ln -s hbo2hd.png 1_0_19_EB_1D_1F4_FFFF0000_0_0_0.png
 ln -s mgm.png 1_0_1_1F42_8_1F4_FFFF0000_0_0_0.png
 ln -s tcm.png 1_0_1_3A9F_F_1F4_FFFF0000_0_0_0.png
 ln -s rtlcrime.png 1_0_1_DA_F_1F4_FFFF0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_B8_12_1F4_FFFF0000_0_0_0.png
+ln -s syfy.png 1_0_1_B8_12_1F4_FFFF0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_1_FA6_4_1F4_FFFF0000_0_0_0.png
 ln -s crime.png 1_0_1_BBB_3_1F4_FFFF0000_0_0_0.png
 ln -s zonereality.png 1_0_1_59DC_17_1F4_FFFF0000_0_0_0.png
@@ -7508,8 +7508,8 @@ ln -s swr.png 1_0_1_6DD1_44D_A401_FFFF0000_0_0_0.png
 ln -s swr.png 1_0_1_6E47_431_A401_FFFF0000_0_0_0.png
 ln -s syfyhd.png 1_0_19_56EC_E6_A018_FFFF0000_0_0_0.png
 ln -s syfyhd.png 1_0_19_69EA_10F_270F_FFFF0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_24_11_85_FFFF0000_0_0_0.png
-ln -s syfyuniversal.png 1_0_1_C3BA_2712_F001_FFFF0000_0_0_0.png
+ln -s syfy.png 1_0_1_24_11_85_FFFF0000_0_0_0.png
+ln -s syfy.png 1_0_1_C3BA_2712_F001_FFFF0000_0_0_0.png
 ln -s tagesschau24.png 1_0_1_7031_41B_A401_FFFF0000_0_0_0.png
 ln -s tele5.png 1_0_1_2F4F_BF_270F_FFFF0000_0_0_0.png
 ln -s tele5.png 1_0_1_55F6_D8_A018_FFFF0000_0_0_0.png
