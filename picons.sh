@@ -7374,6 +7374,7 @@ ln -s rainews.png 1_0_1_D10D_2714_F001_FFFF0000_0_0_0.png
 ln -s raistoria.png 1_0_1_D10F_2714_F001_FFFF0000_0_0_0.png
 ln -s rbb.png 1_0_1_6E2D_431_A401_FFFF0000_0_0_0.png
 ln -s rbb.png 1_0_1_6E2E_431_A401_FFFF0000_0_0_0.png
+ln -s recordinternacional.png 1_0_1_5730_EA_A018_FFFF0000_0_0_0.png
 ln -s recordinternacional.png 1_0_1_71AD_123_270F_FFFF0000_0_0_0.png
 ln -s rocktv.png 1_0_1_CF73_2714_F001_FFFF0000_0_0_0.png
 ln -s romancetv.png 1_0_1_372B_8D_270F_FFFF0000_0_0_0.png
