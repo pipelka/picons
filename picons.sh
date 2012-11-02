@@ -7272,6 +7272,7 @@ ln -s libertytv.png 1_0_1_6DC7_119_270F_FFFF0000_0_0_0.png
 ln -s ligtv.png 1_0_1_5659_DD_270F_FFFF0000_0_0_0.png
 ln -s ligtv.png 1_0_1_D106_70_F001_FFFF0000_0_0_0.png
 ln -s lustpur.png 1_0_1_3B04_8D_270F_FFFF0000_0_0_0.png
+ln -s lustpur.png 1_0_1_C613_2712_F001_FFFF0000_0_0_0.png
 ln -s mad.png 1_0_1_5687_E1_A018_FFFF0000_0_0_0.png
 ln -s mad.png 1_0_1_759F_12D_270F_FFFF0000_0_0_0.png
 ln -s mbc.png 1_0_1_571B_E8_A018_FFFF0000_0_0_0.png
