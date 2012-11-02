@@ -7494,6 +7494,7 @@ ln -s swr.png 1_0_1_6E47_431_A401_FFFF0000_0_0_0.png
 ln -s syfyhd.png 1_0_19_56EC_E6_A018_FFFF0000_0_0_0.png
 ln -s syfyhd.png 1_0_19_69EA_10F_270F_FFFF0000_0_0_0.png
 ln -s syfyuniversal.png 1_0_1_24_11_85_FFFF0000_0_0_0.png
+ln -s syfyuniversal.png 1_0_1_C3BA_2712_F001_FFFF0000_0_0_0.png
 ln -s tagesschau24.png 1_0_1_7031_41B_A401_FFFF0000_0_0_0.png
 ln -s tele5.png 1_0_1_2F4F_BF_270F_FFFF0000_0_0_0.png
 ln -s tele5.png 1_0_1_55F6_D8_A018_FFFF0000_0_0_0.png
