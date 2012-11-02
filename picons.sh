@@ -2021,7 +2021,7 @@ ln -s etbsat.png 1_0_1_1B5A_3FC_1_C00000_0_0_0.png
 
 # ethnictv
 
-# etnotv.png
+# etnotv
 
 # etv
 ln -s etv.png 1_0_1_1A86_7DD_2_11A0000_0_0_0.png
