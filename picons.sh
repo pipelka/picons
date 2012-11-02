@@ -2640,6 +2640,8 @@ ln -s gxt.png 1_0_1_2BCD_1A90_FBFF_820000_0_0_0.png
 # gxtplus1
 ln -s gxtplus1.png 1_0_1_2FE7_1D4C_FBFF_820000_0_0_0.png
 
+# haberturktv
+
 # hayatplus
 
 # hbo
@@ -7230,6 +7232,7 @@ ln -s goldstartv.png 1_0_1_206_11_85_FFFF0000_0_0_0.png
 ln -s gotv.png 1_0_1_5737_EA_A018_FFFF0000_0_0_0.png
 ln -s gutelaunetv.png 1_0_1_3337_83_270F_FFFF0000_0_0_0.png
 ln -s gutelaunetv.png 1_0_1_C3BF_2713_F001_FFFF0000_0_0_0.png
+ln -s haberturktv.png 1_0_1_5771_ED_A018_FFFF0000_0_0_0.png
 ln -s hdcampustv.png 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 ln -s heimatkanal.png 1_0_1_16_11_85_FFFF0000_0_0_0.png
 ln -s hessenfernsehen.png 1_0_1_6DCC_44D_A401_FFFF0000_0_0_0.png
