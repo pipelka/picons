@@ -7447,7 +7447,6 @@ ln -s skyselectde.png 1_0_1_FE_2_85_FFFF0000_0_0_0.png
 ln -s skysport1de.png 1_0_1_DD_4_85_FFFF0000_0_0_0.png
 ln -s skysport2de.png 1_0_1_DE_4_85_FFFF0000_0_0_0.png
 ln -s skysportaustriade.png 1_0_1_1E_1_85_FFFF0000_0_0_0.png
-ln -s skysportde.png 1_0_1_FD_2_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_107_2_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_111_3_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_11B_3_85_FFFF0000_0_0_0.png
@@ -7458,6 +7457,7 @@ ln -s skysportde.png 1_0_1_143_11_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_14D_11_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_16B_1_85_FFFF0000_0_0_0.png
 ln -s skysportde.png 1_0_1_175_1_85_FFFF0000_0_0_0.png
+ln -s skysportde.png 1_0_1_FD_2_85_FFFF0000_0_0_0.png
 ln -s skysporthd1de.png 1_0_19_797D_137_270F_FFFF0000_0_0_0.png
 ln -s skysporthd1de.png 1_0_19_81_6_85_FFFF0000_0_0_0.png
 ln -s skysporthd2de.png 1_0_19_72_D_85_FFFF0000_0_0_0.png
