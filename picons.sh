@@ -846,6 +846,8 @@ ln -s buzmuzik.png 1_0_1_D057_90A_2_11A0000_0_0_0.png
 ln -s calle13hd.png 1_0_19_7824_428_1_C00000_0_0_0.png
 ln -s calle13hd.png 1_0_19_781F_428_1_C00000_0_0_0.png
 
+# cameradeideputati
+
 # canvas
 ln -s canvas.png 1_0_1_31E8_45F_35_C00000_0_0_0.png
 
@@ -3088,6 +3090,8 @@ ln -s kabeleinshd.png 1_0_19_14B6_407_1_C00000_0_0_0.png
 ln -s kanalivoulis.png 1_0_1_180_1C84_13E_820000_0_0_0.png
 
 # kazakhtv
+
+# kbsworld
 
 # ketnet
 
@@ -7133,6 +7137,7 @@ ln -s bralpha.png 1_0_1_6F47_41B_A401_FFFF0000_0_0_0.png
 ln -s bvn.png 1_0_1_5752_EB_A018_FFFF0000_0_0_0.png
 ln -s bweins.png 1_0_1_57A0_D7_A018_FFFF0000_0_0_0.png
 ln -s bwfamily.png 1_0_1_56AA_E3_A018_FFFF0000_0_0_0.png
+ln -s cameradeideputati.png 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_3B01_97_270F_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_3B07_97_270F_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_C612_2712_F001_FFFF0000_0_0_0.png
@@ -7273,6 +7278,7 @@ ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
 ln -s kabeleinshd.png 1_0_19_7D67_141_270F_FFFF0000_0_0_0.png
 ln -s kabeleinshd.png 1_0_19_EF76_3F9_1_FFFF0000_0_0_0.png
 ln -s kazakhtv.png 1_0_1_71B1_123_270F_FFFF0000_0_0_0.png
+ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 ln -s kidsco.png 1_0_1_526E_D3_270F_FFFF0000_0_0_0.png
 ln -s kidsco.png 1_0_1_5664_DD_A018_FFFF0000_0_0_0.png
 ln -s kika.png 1_0_1_6D68_437_1_FFFF0000_0_0_0.png
@@ -7368,6 +7374,7 @@ ln -s rainews.png 1_0_1_D10D_2714_F001_FFFF0000_0_0_0.png
 ln -s raistoria.png 1_0_1_D10F_2714_F001_FFFF0000_0_0_0.png
 ln -s rbb.png 1_0_1_6E2D_431_A401_FFFF0000_0_0_0.png
 ln -s rbb.png 1_0_1_6E2E_431_A401_FFFF0000_0_0_0.png
+ln -s recordinternacional.png 1_0_1_5730_EA_A018_FFFF0000_0_0_0.png
 ln -s recordinternacional.png 1_0_1_71AD_123_270F_FFFF0000_0_0_0.png
 ln -s rocktv.png 1_0_1_CF73_2714_F001_FFFF0000_0_0_0.png
 ln -s romancetv.png 1_0_1_372B_8D_270F_FFFF0000_0_0_0.png
