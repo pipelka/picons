@@ -5598,6 +5598,8 @@ ln -s smartlivecasino.png 1_0_1_CB96_8FE_2_11A0000_0_0_0.png
 # smashhits
 ln -s smashhits.png 1_0_1_2EF4_7F8_2_11A0000_0_0_0.png
 
+# sonlifetv
+
 # sonnenklartv
 ln -s sonnenklartv.png 1_0_19_D16F_2713_F001_EB0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_20_21_85_C00000_0_0_0.png
@@ -7434,6 +7436,7 @@ ln -s skysportnewsde.png 1_0_1_11_3_85_FFFF0000_0_0_0.png
 ln -s skysportnewsde.png 1_0_1_F1_3_85_FFFF0000_0_0_0.png
 ln -s skysportnewshdde.png 1_0_19_6C_C_85_FFFF0000_0_0_0.png
 ln -s skysportnewshdde.png 1_0_19_90EF_173_270F_FFFF0000_0_0_0.png
+ln -s sonlifetv.png 1_0_1_561E_DA_A018_FFFF0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_55F5_D8_A018_FFFF0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_5E30_B5_270F_FFFF0000_0_0_0.png
 ln -s spiegelgeschichte.png 1_0_1_34_4_85_FFFF0000_0_0_0.png
