@@ -5929,6 +5929,8 @@ ln -s telemadrid.png 1_0_1_7A47_410_1_C00000_0_0_0.png
 ln -s telenova.png 1_0_1_C_300C_13E_820000_0_0_0.png
 ln -s telenova.png 1_0_1_730_578_13E_820000_0_0_0.png
 
+# telesud
+
 # telesur
 ln -s telesur.png 1_0_1_275B_402_1_C00000_0_0_0.png
 ln -s telesur.png 1_0_1_35A9_1388_13E_820000_0_0_0.png
@@ -7490,6 +7492,7 @@ ln -s syfyuniversal.png 1_0_1_24_11_85_FFFF0000_0_0_0.png
 ln -s tagesschau24.png 1_0_1_7031_41B_A401_FFFF0000_0_0_0.png
 ln -s tele5.png 1_0_1_2F4F_BF_270F_FFFF0000_0_0_0.png
 ln -s tele5.png 1_0_1_55F6_D8_A018_FFFF0000_0_0_0.png
+ln -s telesud.png 1_0_1_570C_E8_A018_FFFF0000_0_0_0.png
 ln -s tf1.png 1_0_1_56F9_E7_A018_FFFF0000_0_0_0.png
 ln -s tgrteu.png 1_0_1_565F_DD_270F_FFFF0000_0_0_0.png
 ln -s thaitvglobalnetwork.png 1_0_1_5722_E9_A018_FFFF0000_0_0_0.png
