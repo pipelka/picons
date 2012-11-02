@@ -1091,6 +1091,8 @@ ln -s challenger.png 1_0_1_1335_33F4_13E_820000_0_0_0.png
 # chambertv
 ln -s chambertv.png 1_0_1_1464_C98_3_EB0000_0_0_0.png
 
+# channel1rus
+
 # channel4
 ln -s channel4.png 1_0_1_23FB_7F9_2_11A0000_0_0_0.png
 ln -s channel4.png 1_0_1_23FC_7F9_2_11A0000_0_0_0.png
@@ -7138,6 +7140,7 @@ ln -s cartoonnetwork.png 1_0_1_C617_2712_F001_FFFF0000_0_0_0.png
 ln -s cctvnews.png 1_0_1_4E97_C9_270F_FFFF0000_0_0_0.png
 ln -s cctvnews.png 1_0_1_5720_E9_A018_FFFF0000_0_0_0.png
 ln -s centertv.png 1_0_1_5E2B_15F_270F_FFFF0000_0_0_0.png
+ln -s channel1rus.png 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
 ln -s channel21.png 1_0_1_2F30_441_A018_FFFF0000_0_0_0.png
 ln -s channel21.png 1_0_1_5E29_B5_270F_FFFF0000_0_0_0.png
 ln -s classica.png 1_0_1_18_11_85_FFFF0000_0_0_0.png
