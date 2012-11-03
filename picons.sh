@@ -4896,36 +4896,6 @@ ln -s sixxhd.png 1_0_19_1A0_1964_9C_5A0000_0_0_0.png
 # skai
 ln -s skai.png 1_0_1_16A_1C84_13E_820000_0_0_0.png
 
-# skylivinguk
-ln -s skylivinguk.png 1_0_1_1771_7D2_2_11A0000_0_0_0.png
-ln -s skylivinguk.png 1_0_1_178C_7EE_2_11A0000_0_0_0.png
-ln -s skylivinguk.png 1_0_1_178B_7E9_2_11A0000_0_0_0.png
-ln -s skylivinguk.png 1_0_1_1794_7E5_2_11A0000_0_0_0.png
-
-# skylivinghduk
-ln -s skylivinghduk.png 1_0_19_F1A_7D5_2_11A0000_0_0_0.png
-
-# skylivingituk
-ln -s skylivingituk.png 1_0_1_1777_7D2_2_11A0000_0_0_0.png
-ln -s skylivingituk.png 1_0_1_178E_968_2_11A0000_0_0_0.png
-
-# skylivingithduk
-
-# skylivingitplus1uk
-ln -s skylivingitplus1uk.png 1_0_1_CC06_8FF_2_11A0000_0_0_0.png
-ln -s skylivingitplus1uk.png 1_0_1_1774_7D2_2_11A0000_0_0_0.png
-ln -s skylivingitplus1uk.png 1_0_1_1789_966_2_11A0000_0_0_0.png
-
-# skylivinglovesuk
-ln -s skylivinglovesuk.png 1_0_1_1773_7D2_2_11A0000_0_0_0.png
-ln -s skylivinglovesuk.png 1_0_1_1790_966_2_11A0000_0_0_0.png
-
-# skylivingplus1uk
-ln -s skylivingplus1uk.png 1_0_1_1775_7D2_2_11A0000_0_0_0.png
-ln -s skylivingplus1uk.png 1_0_1_178D_7E9_2_11A0000_0_0_0.png
-ln -s skylivingplus1uk.png 1_0_1_1793_7EE_2_11A0000_0_0_0.png
-ln -s skylivingplus1uk.png 1_0_1_1788_963_2_11A0000_0_0_0.png
-
 # sky1hduk
 ln -s sky1hduk.png 1_0_19_F15_7F1_2_11A0000_0_0_0.png
 
@@ -5006,18 +4976,13 @@ ln -s skyatlantichduk.png 1_0_19_F0D_7F1_2_11A0000_0_0_0.png
 # skyatlantichdde
 ln -s skyatlantichdde.png 1_0_19_6E_D_85_C00000_0_0_0.png
 
+# skybigbrotherde
+
 # skyboxofficehd1uk
 ln -s skyboxofficehd1uk.png 1_0_87_F27_7F0_2_11A0000_0_0_0.png
 
 # skyboxofficehd2uk
 ln -s skyboxofficehd2uk.png 1_0_87_EE3_7D5_2_11A0000_0_0_0.png
-
-# skymoviesboxofficehduk
-ln -s skymoviesboxofficehduk.png 1_0_19_F27_7F2_2_11A0000_0_0_0.png
-ln -s skymoviesboxofficehduk.png 1_0_19_EE3_7F2_2_11A0000_0_0_0.png
-ln -s skymoviesboxofficehduk.png 1_0_87_F27_7F2_2_11A0000_0_0_0.png
-ln -s skymoviesboxofficehduk.png 1_0_87_EE3_7EC_2_11A0000_0_0_0.png
-ln -s skymoviesboxofficehduk.png 1_0_87_EE3_7F2_2_11A0000_0_0_0.png
 
 # skyboxofficeuk
 ln -s skyboxofficeuk.png 1_0_0_132A_963_2_11A0000_0_0_0.png
@@ -5272,6 +5237,36 @@ ln -s skyhdretailchanneluk.png 1_0_19_ED9_7F2_2_11A0000_0_0_0.png
 # skykrimide
 ln -s skykrimide.png 1_0_1_17_1_85_C00000_0_0_0.png
 
+# skylivinguk
+ln -s skylivinguk.png 1_0_1_1771_7D2_2_11A0000_0_0_0.png
+ln -s skylivinguk.png 1_0_1_178C_7EE_2_11A0000_0_0_0.png
+ln -s skylivinguk.png 1_0_1_178B_7E9_2_11A0000_0_0_0.png
+ln -s skylivinguk.png 1_0_1_1794_7E5_2_11A0000_0_0_0.png
+
+# skylivinghduk
+ln -s skylivinghduk.png 1_0_19_F1A_7D5_2_11A0000_0_0_0.png
+
+# skylivingituk
+ln -s skylivingituk.png 1_0_1_1777_7D2_2_11A0000_0_0_0.png
+ln -s skylivingituk.png 1_0_1_178E_968_2_11A0000_0_0_0.png
+
+# skylivingithduk
+
+# skylivingitplus1uk
+ln -s skylivingitplus1uk.png 1_0_1_CC06_8FF_2_11A0000_0_0_0.png
+ln -s skylivingitplus1uk.png 1_0_1_1774_7D2_2_11A0000_0_0_0.png
+ln -s skylivingitplus1uk.png 1_0_1_1789_966_2_11A0000_0_0_0.png
+
+# skylivinglovesuk
+ln -s skylivinglovesuk.png 1_0_1_1773_7D2_2_11A0000_0_0_0.png
+ln -s skylivinglovesuk.png 1_0_1_1790_966_2_11A0000_0_0_0.png
+
+# skylivingplus1uk
+ln -s skylivingplus1uk.png 1_0_1_1775_7D2_2_11A0000_0_0_0.png
+ln -s skylivingplus1uk.png 1_0_1_178D_7E9_2_11A0000_0_0_0.png
+ln -s skylivingplus1uk.png 1_0_1_1793_7EE_2_11A0000_0_0_0.png
+ln -s skylivingplus1uk.png 1_0_1_1788_963_2_11A0000_0_0_0.png
+
 # skymeteo24it
 ln -s skymeteo24it.png 1_0_1_10E1_1644_FBFF_820000_0_0_0.png
 
@@ -5280,6 +5275,13 @@ ln -s skymoviesactionhduk.png 1_0_19_EE6_7EC_2_11A0000_0_0_0.png
 
 # skymoviesactionuk
 ln -s skymoviesactionuk.png 1_0_1_10CE_7D7_2_11A0000_0_0_0.png
+
+# skymoviesboxofficehduk
+ln -s skymoviesboxofficehduk.png 1_0_19_F27_7F2_2_11A0000_0_0_0.png
+ln -s skymoviesboxofficehduk.png 1_0_19_EE3_7F2_2_11A0000_0_0_0.png
+ln -s skymoviesboxofficehduk.png 1_0_87_F27_7F2_2_11A0000_0_0_0.png
+ln -s skymoviesboxofficehduk.png 1_0_87_EE3_7EC_2_11A0000_0_0_0.png
+ln -s skymoviesboxofficehduk.png 1_0_87_EE3_7F2_2_11A0000_0_0_0.png
 
 # skymoviesclassicshduk
 ln -s skymoviesclassicshduk.png 1_0_19_EE4_7F3_2_11A0000_0_0_0.png
@@ -7554,6 +7556,7 @@ ln -s skyactionde.png 1_0_1_9_2_85_FFFF0000_0_0_0.png
 ln -s skyactionhdde.png 1_0_19_6A_C_85_FFFF0000_0_0_0.png
 ln -s skyatlantichdde.png 1_0_19_6E_D_85_FFFF0000_0_0_0.png
 ln -s skyatlantichdde.png 1_0_19_90F0_173_270F_FFFF0000_0_0_0.png
+ln -s skybigbrotherde.png 1_0_1_5735_EA_A018_FFFF0000_0_0_0.png
 ln -s skycinemade.png 1_0_1_A_2_85_FFFF0000_0_0_0.png
 ln -s skycinemahdde.png 1_0_19_83_6_85_FFFF0000_0_0_0.png
 ln -s skycinemahdde.png 1_0_19_90ED_173_270F_FFFF0000_0_0_0.png
