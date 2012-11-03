@@ -174,6 +174,8 @@ ln -s alaoulainter.png 1_0_1_2_2E18_B0_820000_0_0_0.png
 # alarabiya
 ln -s alarabiya.png 1_0_1_2529_13EF_13E_820000_0_0_0.png
 
+# albanianscreen
+
 # alfayhaa
 ln -s alfayhaa.png 1_0_1_125E_3458_13E_820000_0_0_0.png
 
@@ -7131,6 +7133,7 @@ ln -s 3sat.png 1_0_1_6D67_437_1_FFFF0000_0_0_0.png
 ln -s 3sat.png 1_0_1_6D67_437_66_FFFF0000_0_0_0.png
 ln -s alaoulainter.png 1_0_1_5768_EC_A018_FFFF0000_0_0_0.png
 ln -s alarabiya.png 1_0_1_571A_E8_A018_FFFF0000_0_0_0.png
+ln -s albanianscreen.png 1_0_1_563A_DB_A018_FFFF0000_0_0_0.png
 ln -s aljazeera.png 1_0_1_4E90_C9_270F_FFFF0000_0_0_0.png
 ln -s aljazeera.png 1_0_1_561B_DA_A018_FFFF0000_0_0_0.png
 ln -s aljazeera.png 1_0_1_5784_EE_A018_FFFF0000_0_0_0.png
