@@ -7355,6 +7355,7 @@ ln -s kanal7avrupa.png 1_0_1_5658_DD_270F_FFFF0000_0_0_0.png
 ln -s kanal7avrupa.png 1_0_1_D100_70_F001_FFFF0000_0_0_0.png
 ln -s kanalavrupa.png 1_0_1_71AF_123_270F_FFFF0000_0_0_0.png
 ln -s kanald.png 1_0_1_5A41_E7_270F_FFFF0000_0_0_0.png
+ln -s kanald.png 1_0_1_CFD5_2711_F001_FFFF0000_0_0_0.png
 ln -s kazakhtv.png 1_0_1_71B1_123_270F_FFFF0000_0_0_0.png
 ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 ln -s kidsco.png 1_0_1_526E_D3_270F_FFFF0000_0_0_0.png
