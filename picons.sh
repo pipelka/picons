@@ -6515,41 +6515,41 @@ ln -s viajarhd.png 1_0_19_74CE_3F8_1_C00000_0_0_0.png
 # viasat3
 ln -s viasat3.png 1_0_1_1A9A_1A90_9E_5A0000_0_0_0.png
 
-#viasat3d
+# viasat3d
 ln -s viasat3d.png 1_0_19_113A_18_56_320000_0_0_0.png
 ln -s viasat3d.png 1_0_19_AB4_23_56_320000_0_0_0.png
 
-#viasatfilm
+# viasatfilm
 ln -s viasatfilm.png 1_0_1_474_3_56_320000_0_0_0.png
 
-#viasatfilmhd
+# viasatfilmhd
 ln -s viasatfilmhd.png 1_0_19_640_1B_56_320000_0_0_0.png
 
-#viasatfilmaction
+# viasatfilmaction
 ln -s viasatfilmaction.png 1_0_1_47E_3_56_320000_0_0_0.png
 
-#viasatfilmactionhd
+# viasatfilmactionhd
 ln -s viasatfilmactionhd.png 1_0_19_898_21_56_320000_0_0_0.png
 
-#viasatfilmclassic
+# viasatfilmclassic
 ln -s viasatfilmclassic.png 1_0_1_C3A_5_56_320000_0_0_0.png
 
-#viasatfilmdrama
+# viasatfilmdrama
 ln -s viasatfilmdrama.png 1_0_1_4AB_3_56_320000_0_0_0.png
 
-#viasatfilmdramahd
+# viasatfilmdramahd
 ln -s viasatfilmdramahd.png 1_0_19_8A2_21_56_320000_0_0_0.png
 
-#viasatfilmfamily
+# viasatfilmfamily
 ln -s viasatfilmfamily.png 1_0_1_C26_5_56_320000_0_0_0.png
 
-#viasatfilmfamilyhd
+# viasatfilmfamilyhd
 ln -s viasatfilmfamilyhd.png 1_0_19_8AC_21_56_320000_0_0_0.png
 
-#viasatfilmnordic
+# viasatfilmnordic
 ln -s viasatfilmnordic.png 1_0_1_C30_5_56_320000_0_0_0.png
 
-#viasatfilmnordichd
+# viasatfilmnordichd
 ln -s viasatfilmnordic.png 1_0_19_8B6_21_56_320000_0_0_0.png
 
 # viasatexplorer
@@ -6557,16 +6557,16 @@ ln -s viasatexplorer.png 1_0_1_1416_C8A_3_EB0000_0_0_0.png
 ln -s viasatexplorer.png 1_0_1_13DA_C8A_3_EB0000_0_0_0.png
 ln -s viasatexplorer.png 1_0_1_1B8A_9_56_320000_0_0_0.png
 
-#viasatfotboll
+# viasatfotboll
 ln -s viasatfotboll.png 1_0_1_EF6_17_56_320000_0_0_0.png
 
-#viasatfotbollhd
+# viasatfotbollhd
 ln -s viasatfotbollhd.png 1_0_19_AA0_23_56_320000_0_0_0.png
 
-#viasatgolf
+# viasatgolf
 ln -s viasatgolf.png 1_0_1_744_1E_56_320000_0_0_0.png
 
-#viasatgolfhd
+# viasatgolfhd
 ln -s viasatgolfhd.png 1_0_19_AAA_23_56_320000_0_0_0.png
 
 # viasathistory
@@ -6577,13 +6577,13 @@ ln -s viasathistory.png 1_0_1_1417_C8A_3_EB0000_0_0_0.png
 ln -s viasathistory.png 1_0_1_13DB_C8A_3_EB0000_0_0_0.png
 ln -s viasathistory.png 1_0_1_17A2_8_56_320000_0_0_0.png
 
-#viasathockey
+# viasathockey
 ln -s viasathockey.png 1_0_1_85C_4_56_320000_0_0_0.png
 
-#viasathockeyhd
+# viasathockeyhd
 ln -s viasathockeyhd.png 1_0_19_A96_23_56_320000_0_0_0.png
 
-#viasatmotor
+# viasatmotor
 ln -s viasatmotor.png 1_0_1_D66_15_56_320000_0_0_0.png
 
 # viasatnature
