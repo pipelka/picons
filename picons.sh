@@ -7151,7 +7151,6 @@ ln -s channel1rus.png 1_0_1_5660_DD_270F_FFFF0000_0_0_0.png
 ln -s channel1rus.png 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
 ln -s channel21.png 1_0_1_2F30_441_A018_FFFF0000_0_0_0.png
 ln -s channel21.png 1_0_1_5E29_B5_270F_FFFF0000_0_0_0.png
-ln -s classica.png 1_0_1_18_11_85_FFFF0000_0_0_0.png
 ln -s cnbc.png 1_0_1_3717_8D_270F_FFFF0000_0_0_0.png
 ln -s cnbc.png 1_0_1_D0A2_2714_F001_FFFF0000_0_0_0.png
 ln -s cnn.png 1_0_1_5694_E2_A018_FFFF0000_0_0_0.png
@@ -7559,6 +7558,8 @@ ln -s tvpolonia.png 1_0_1_CFD4_2711_F001_FFFF0000_0_0_0.png
 ln -s tvromaniainternational.png 1_0_1_5767_EC_A018_FFFF0000_0_0_0.png
 ln -s tvsilesia.png 1_0_1_5610_D9_A018_FFFF0000_0_0_0.png
 ln -s tvsilesia.png 1_0_1_759D_12D_270F_FFFF0000_0_0_0.png
+ln -s unitelclassica.png 1_0_1_620F_F1_270F_FFFF0000_0_0_0.png
+ln -s unitelclassica.png 1_0_1_18_11_85_FFFF0000_0_0_0.png
 ln -s unitelclassicahd.png 1_0_19_56B0_E3_A018_FFFF0000_0_0_0.png
 ln -s unitelclassicahd.png 1_0_19_759C_12D_270F_FFFF0000_0_0_0.png
 ln -s unitymedia.png 1_0_1_620D_B5_270F_FFFF0000_0_0_0.png
