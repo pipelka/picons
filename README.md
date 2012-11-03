@@ -41,7 +41,7 @@ Logo:
   * Name: correct name according to "picons.sh"
   * Type: transparent png
   * Mode: RGB (no indexed color)
-  * Resolution: as high as possible
+  * Resolution: as high as possible (try to get it 256px or more)
   * Quality: as high as possible
   * When adding a new logo, also ad the "# channelname" in the DVB-S/S2 section when it's a new DVB-C or DVB-T channel.
 
