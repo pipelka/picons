@@ -3238,6 +3238,8 @@ ln -s libertytv.png 1_0_1_2F58_454_1_C00000_0_0_0.png
 
 # ligtv
 
+# ligtv2
+
 # liverpoolfctv
 ln -s liverpoolfctv.png 1_0_1_C5C1_967_2_11A0000_0_0_0.png
 
@@ -7378,6 +7380,7 @@ ln -s kinowelttvhd.png 1_0_19_75A4_15F_270F_FFFF0000_0_0_0.png
 ln -s libertytv.png 1_0_1_6DC7_119_270F_FFFF0000_0_0_0.png
 ln -s ligtv.png 1_0_1_5659_DD_270F_FFFF0000_0_0_0.png
 ln -s ligtv.png 1_0_1_D106_70_F001_FFFF0000_0_0_0.png
+ln -s ligtv2.png 1_0_1_D10B_2711_F001_FFFF0000_0_0_0.png
 ln -s lustpur.png 1_0_1_3B04_8D_270F_FFFF0000_0_0_0.png
 ln -s lustpur.png 1_0_1_C613_2712_F001_FFFF0000_0_0_0.png
 ln -s mad.png 1_0_1_5687_E1_A018_FFFF0000_0_0_0.png
