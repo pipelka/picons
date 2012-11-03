@@ -7498,6 +7498,7 @@ ln -s spardawelt.png 1_0_1_56D9_E5_A018_FFFF0000_0_0_0.png
 ln -s spiegelgeschichte.png 1_0_1_34_4_85_FFFF0000_0_0_0.png
 ln -s spiegeltvwissen.png 1_0_1_3718_8D_270F_FFFF0000_0_0_0.png
 ln -s spiegeltvwissen.png 1_0_1_D099_2712_F001_FFFF0000_0_0_0.png
+ln -s spiegeltvwissen.png 1_0_19_621B_137_270F_FFFF0000_0_0_0.png
 ln -s sport1.png 1_0_1_55F1_D8_A018_FFFF0000_0_0_0.png
 ln -s sport1de.png 1_0_1_2F4C_BF_270F_FFFF0000_0_0_0.png
 ln -s sport1hd.png 1_0_19_5639_DB_A018_FFFF0000_0_0_0.png
