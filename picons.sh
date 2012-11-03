@@ -4479,6 +4479,8 @@ ln -s rheinmaintv.png 1_0_1_3146_459_1_C00000_0_0_0.png
 ln -s ric.png 1_0_1_32DB_45D_1_C00000_0_0_0.png
 ln -s ric.png 1_0_1_33AB_3EB_1_C00000_0_0_0.png
 
+# rik
+
 # rnfplus
 ln -s rnfplus.png 1_0_1_300_7_85_C00000_0_0_0.png
 
@@ -7379,6 +7381,7 @@ ln -s rbb.png 1_0_1_6E2D_431_A401_FFFF0000_0_0_0.png
 ln -s rbb.png 1_0_1_6E2E_431_A401_FFFF0000_0_0_0.png
 ln -s recordinternacional.png 1_0_1_5730_EA_A018_FFFF0000_0_0_0.png
 ln -s recordinternacional.png 1_0_1_71AD_123_270F_FFFF0000_0_0_0.png
+ln -s rik.png 1_0_1_579E_D7_A018_FFFF0000_0_0_0.png
 ln -s rocktv.png 1_0_1_CF73_2714_F001_FFFF0000_0_0_0.png
 ln -s romancetv.png 1_0_1_372B_8D_270F_FFFF0000_0_0_0.png
 ln -s romancetv.png 1_0_1_D0A5_2714_F001_FFFF0000_0_0_0.png
