@@ -2995,6 +2995,8 @@ ln -s itv4hd.png 1_0_19_F5E_7D3_2_11A0000_0_0_0.png
 # itv4plus1
 ln -s itv4plus1.png 1_0_1_271F_801_2_11A0000_0_0_0.png
 
+# itvn
+
 # itvpolska
 ln -s itvpolska.png 1_0_1_13F5_5DC_13E_820000_0_0_0.png
 
@@ -3087,6 +3089,12 @@ ln -s kabeleinshd.png 1_0_19_131_1EDC_9C_5A0000_0_0_0.png
 ln -s kabeleinshd.png 1_0_19_14B6_407_1_C00000_0_0_0.png
 
 # kanaalz
+
+# kanal7avrupa
+
+# kanalavrupa
+
+# kanald
 
 # kanalivoulis
 ln -s kanalivoulis.png 1_0_1_180_1C84_13E_820000_0_0_0.png
@@ -3345,6 +3353,8 @@ ln -s mcmtop.png 1_0_1_20AD_432_1_C00000_0_0_0.png
 ln -s mdr.png 1_0_1_6E44_431_1_C00000_0_0_0.png
 ln -s mdr.png 1_0_1_6E45_431_1_C00000_0_0_0.png
 ln -s mdr.png 1_0_1_6E46_431_1_C00000_0_0_0.png
+
+# mediasetitalia
 
 # meinfritztv
 ln -s meinfritztv.png 1_0_1_14A4_C98_3_EB0000_0_0_0.png
@@ -3622,6 +3632,8 @@ ln -s n24hd.png 1_0_19_527E_41D_1_C00000_0_0_0.png
 
 # nauticalchannel
 ln -s nauticalchannel.png 1_0_1_219F_448_1_C00000_0_0_0.png
+
+# nashekino
 
 # nasn
 ln -s nasn.png 1_0_1_6C2_1388_9C_5A0000_0_0_0.png
@@ -4162,6 +4174,12 @@ ln -s picktv.png 1_0_1_13EF_7EB_2_11A0000_0_0_0.png
 ln -s picktv.png 1_0_1_13EF_961_2_11A0000_0_0_0.png
 ln -s picktv.png 1_0_1_128F_7EA_2_11A0000_0_0_0.png
 
+# pinkextra
+
+# pinkmusic
+
+# pinkplus
+
 # pinktv
 ln -s pinktv.png 1_0_1_24C1_43C_1_C00000_0_0_0.png
 ln -s pinktv.png 1_0_1_190A_3FA_1_C00000_0_0_0.png
@@ -4502,6 +4520,8 @@ ln -s romancetv.png 1_0_1_3ABE_514_13E_820000_0_0_0.png
 
 # romancetvhd
 
+# rtcg
+
 # rtf1
 
 # rtl
@@ -4674,6 +4694,8 @@ ln -s samadubai.png 1_0_1_251F_13EF_13E_820000_0_0_0.png
 # saharaone
 ln -s saharaone.png 1_0_1_CF79_908_2_11A0000_0_0_0.png
 
+# samanyolutv
+
 # sangat
 ln -s sangat.png 1_0_1_2540_A34_2_11A0000_0_0_0.png
 
@@ -4805,6 +4827,8 @@ ln -s sharqiya.png 1_0_1_2526_13EF_13E_820000_0_0_0.png
 
 # shortstv
 ln -s shortstv.png 1_0_1_12FC_7E9_2_11A0000_0_0_0.png
+
+# showturk
 
 # sikhchannel
 ln -s sikhchannel.png 1_0_1_C5B2_967_2_11A0000_0_0_0.png
@@ -5932,6 +5956,8 @@ ln -s telecinco.png 1_0_1_77C3_40A_1_C00000_0_0_0.png
 # teledeporte
 ln -s teledeporte.png 1_0_1_76CC_40E_1_C00000_0_0_0.png
 
+# teleklub
+
 # telelombardia
 ln -s telelombardia.png 1_0_1_E20_708_C8_820000_0_0_0.png
 
@@ -6184,6 +6210,8 @@ ln -s turkmax.png 1_0_19_D107_2713_F001_EB0000_0_0_0.png
 ln -s turkmax.png 1_0_1_640_1FA4_9C_5A0000_0_0_0.png
 ln -s turkmax.png 1_0_1_D107_70_F001_EB0000_0_0_0.png
 ln -s turkmax.png 1_0_1_D107_2713_F001_EB0000_0_0_0.png
+
+# tuerkshowtv
 
 # tvdisco
 ln -s tvdisco.png 1_0_1_2982_3D54_13E_820000_0_0_0.png
