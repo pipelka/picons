@@ -38,11 +38,11 @@ Order:
   * Sorted A-Z as best as possible
 
 Logo:
-  * Type: png
-  * Resolution: 256x154px
-  * Properly aligned
-  * Highest quality possible
-  * Margin: 15px
+  * Name: correct name according to "picons.sh"
+  * Type: transparent png
+  * Mode: RGB (no indexed color)
+  * Resolution: as high as possible
+  * Quality: as high as possible
   * When adding a new logo, also ad the "# channelname" in the DVB-S/S2 section when it's a new DVB-C or DVB-T channel.
 
 
