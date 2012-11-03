@@ -174,6 +174,8 @@ ln -s alaoulainter.png 1_0_1_2_2E18_B0_820000_0_0_0.png
 # alarabiya
 ln -s alarabiya.png 1_0_1_2529_13EF_13E_820000_0_0_0.png
 
+# albanianscreen
+
 # alfayhaa
 ln -s alfayhaa.png 1_0_1_125E_3458_13E_820000_0_0_0.png
 
@@ -1340,6 +1342,8 @@ ln -s crimehd.png 1_0_19_F30_7EC_2_11A0000_0_0_0.png
 # crimeplus1
 ln -s crimeplus1.png 1_0_1_CBC9_8FD_2_11A0000_0_0_0.png
 
+# croatianmusicchannel
+
 # cubavisioninternacional
 ln -s cubavisioninternacional.png 1_0_1_1B60_3FC_1_C00000_0_0_0.png
 
@@ -1793,6 +1797,8 @@ ln -s dhammakayamediachannel.png 1_0_1_1D23_2FA8_13E_820000_0_0_0.png
 # dmdigital
 ln -s dmdigital.png 1_0_1_D3CB_A2B_2_11A0000_0_0_0.png
 
+# dmsat
+
 # dorceltv
 ln -s dorceltv.png 1_0_1_4285_446_1_C00000_0_0_0.png
 ln -s dorceltv.png 1_0_1_42A3_446_1_C00000_0_0_0.png
@@ -1829,6 +1835,10 @@ ln -s ducktv.png 1_0_1_141A_C8A_3_EB0000_0_0_0.png
 ln -s ducktv.png 1_0_1_13D6_C8A_3_EB0000_0_0_0.png
 
 # ducktvhd
+
+# duna
+
+# dunaworld
 
 # dwtv
 ln -s dwtv.png 1_0_1_25F_3C8C_13E_820000_0_0_0.png
@@ -2648,6 +2658,8 @@ ln -s gxtplus1.png 1_0_1_2FE7_1D4C_FBFF_820000_0_0_0.png
 
 # haberturktv
 
+# hayat
+
 # hayatplus
 
 # hbo
@@ -2813,6 +2825,8 @@ ln -s horrorchannelplus1.png 1_0_1_CB22_907_2_11A0000_0_0_0.png
 
 # horseandcountry
 ln -s horseandcountry.png 1_0_1_D37C_A2A_2_11A0000_0_0_0.png
+
+# hrttv1
 
 # hse24
 ln -s hse24.png 1_0_19_D17E_2718_F001_EB0000_0_0_0.png
@@ -4178,6 +4192,10 @@ ln -s picktv.png 1_0_1_128F_7EA_2_11A0000_0_0_0.png
 
 # pinkextra
 
+# pinkfilm
+
+# pinkfolk
+
 # pinkmusic
 
 # pinkplus
@@ -4499,6 +4517,8 @@ ln -s rheinmaintv.png 1_0_1_3146_459_1_C00000_0_0_0.png
 ln -s ric.png 1_0_1_32DB_45D_1_C00000_0_0_0.png
 ln -s ric.png 1_0_1_33AB_3EB_1_C00000_0_0_0.png
 
+# rik
+
 # rnfplus
 ln -s rnfplus.png 1_0_1_300_7_85_C00000_0_0_0.png
 
@@ -4525,6 +4545,8 @@ ln -s romancetv.png 1_0_1_3ABE_514_13E_820000_0_0_0.png
 # rtcg
 
 # rtf1
+
+# rtk1
 
 # rtl
 ln -s rtl.png 1_0_19_D161_2717_F001_EB0000_0_0_0.png
@@ -4640,6 +4662,8 @@ ln -s rtpi.png 1_0_1_CFD6_271A_F001_EB0000_0_0_0.png
 ln -s rtpi.png 1_0_1_11FB_2B5C_13E_820000_0_0_0.png
 
 # rtrplaneta
+
+# rtv21
 
 # rtvi
 
@@ -6207,6 +6231,8 @@ ln -s trwam.png 1_0_1_1C80_457_1_C00000_0_0_0.png
 # tunis7
 ln -s tunis7.png 1_0_1_1C22_1C20_13E_820000_0_0_0.png
 
+# tunisiatv1
+
 # turkmax
 ln -s turkmax.png 1_0_19_D107_2713_F001_EB0000_0_0_0.png
 ln -s turkmax.png 1_0_1_640_1FA4_9C_5A0000_0_0_0.png
@@ -6214,12 +6240,6 @@ ln -s turkmax.png 1_0_1_D107_70_F001_EB0000_0_0_0.png
 ln -s turkmax.png 1_0_1_D107_2713_F001_EB0000_0_0_0.png
 
 # tuerkshowtv
-
-# tvdisco
-ln -s tvdisco.png 1_0_1_2982_3D54_13E_820000_0_0_0.png
-
-# tvglobo
-ln -s tvglobo.png 1_0_1_34D6_3C28_13E_820000_0_0_0.png
 
 # tv3cat
 ln -s tv3cat.png 1_0_1_2757_402_1_C00000_0_0_0.png
@@ -6263,6 +6283,11 @@ ln -s tvbreizh.png 1_0_1_446F_3264_13E_820000_0_0_0.png
 
 # tvcanaria
 
+# tvchile
+
+# tvdisco
+ln -s tvdisco.png 1_0_1_2982_3D54_13E_820000_0_0_0.png
+
 # tvdrenthe
 ln -s tvdrenthe.png 1_0_1_514C_C8B_3_EB0000_0_0_0.png
 ln -s tvdrenthe.png 1_0_16_514C_C8B_3_EB0000_0_0_0.png
@@ -6279,6 +6304,9 @@ ln -s tvgalicia.png 1_0_1_1B6A_3FC_1_C00000_0_0_0.png
 
 # tvgelderland
 ln -s tvgelderland.png 1_0_1_5150_C8B_3_EB0000_0_0_0.png
+
+# tvglobo
+ln -s tvglobo.png 1_0_1_34D6_3C28_13E_820000_0_0_0.png
 
 # tvgusto
 ln -s tvgusto.png 1_0_19_19A_1964_9C_5A0000_0_0_0.png
@@ -7107,6 +7135,7 @@ ln -s 3sat.png 1_0_1_6D67_437_1_FFFF0000_0_0_0.png
 ln -s 3sat.png 1_0_1_6D67_437_66_FFFF0000_0_0_0.png
 ln -s alaoulainter.png 1_0_1_5768_EC_A018_FFFF0000_0_0_0.png
 ln -s alarabiya.png 1_0_1_571A_E8_A018_FFFF0000_0_0_0.png
+ln -s albanianscreen.png 1_0_1_563A_DB_A018_FFFF0000_0_0_0.png
 ln -s aljazeera.png 1_0_1_4E90_C9_270F_FFFF0000_0_0_0.png
 ln -s aljazeera.png 1_0_1_561B_DA_A018_FFFF0000_0_0_0.png
 ln -s aljazeera.png 1_0_1_5784_EE_A018_FFFF0000_0_0_0.png
@@ -7128,9 +7157,12 @@ ln -s astrotv.png 1_0_1_71B4_10F_270F_FFFF0000_0_0_0.png
 ln -s atvavrupa.png 1_0_1_5A3D_E7_270F_FFFF0000_0_0_0.png
 ln -s atvavrupa.png 1_0_1_CFD3_2711_F001_FFFF0000_0_0_0.png
 ln -s automotorsport.png 1_0_1_4AAB_BF_270F_FFFF0000_0_0_0.png
+ln -s automotorsport.png 1_0_1_5638_DB_A018_FFFF0000_0_0_0.png
 ln -s automotorsporthd.png 1_0_19_621A_137_270F_FFFF0000_0_0_0.png
 ln -s axn.png 1_0_1_3335_83_270F_FFFF0000_0_0_0.png
 ln -s axn.png 1_0_1_3336_83_270F_FFFF0000_0_0_0.png
+ln -s axn.png 1_0_1_C480_2715_F001_FFFF0000_0_0_0.png
+ln -s axn.png 1_0_1_D09A_2715_F001_FFFF0000_0_0_0.png
 ln -s babyfirsttv.png 1_0_1_5270_D3_270F_FFFF0000_0_0_0.png
 ln -s babytv.png 1_0_1_5271_D3_270F_FFFF0000_0_0_0.png
 ln -s babytv.png 1_0_1_5663_DD_A018_FFFF0000_0_0_0.png
@@ -7147,6 +7179,7 @@ ln -s beateuhsetv.png 1_0_1_15_11_85_FFFF0000_0_0_0.png
 ln -s bibeltv.png 1_0_1_3B06_97_270F_FFFF0000_0_0_0.png
 ln -s bibeltv.png 1_0_1_5605_D9_A018_FFFF0000_0_0_0.png
 ln -s bio.png 1_0_1_6210_6F_270F_FFFF0000_0_0_0.png
+ln -s bio.png 1_0_1_C619_2712_F001_FFFF0000_0_0_0.png
 ln -s bloomberg.png 1_0_1_5692_E2_A018_FFFF0000_0_0_0.png
 ln -s bloomberg.png 1_0_1_5E2E_F1_270F_FFFF0000_0_0_0.png
 ln -s bluehustler.png 1_0_1_3B05_97_270F_FFFF0000_0_0_0.png
@@ -7170,6 +7203,7 @@ ln -s bvn.png 1_0_1_5752_EB_A018_FFFF0000_0_0_0.png
 ln -s bweins.png 1_0_1_57A0_D7_A018_FFFF0000_0_0_0.png
 ln -s bwfamily.png 1_0_1_56AA_E3_A018_FFFF0000_0_0_0.png
 ln -s cameradeideputati.png 1_0_1_575B_EC_A018_FFFF0000_0_0_0.png
+ln -s canal24horas.png 1_0_1_D105_2711_F001_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_3B01_97_270F_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_3B07_97_270F_FFFF0000_0_0_0.png
 ln -s cartoonnetwork.png 1_0_1_C612_2712_F001_FFFF0000_0_0_0.png
@@ -7185,6 +7219,7 @@ ln -s cnbc.png 1_0_1_3717_8D_270F_FFFF0000_0_0_0.png
 ln -s cnbc.png 1_0_1_D0A2_2714_F001_FFFF0000_0_0_0.png
 ln -s cnn.png 1_0_1_5694_E2_A018_FFFF0000_0_0_0.png
 ln -s cnn.png 1_0_1_5E2D_B5_270F_FFFF0000_0_0_0.png
+ln -s croatianmusicchannel.png 1_0_1_5776_ED_A018_FFFF0000_0_0_0.png
 ln -s daf.png 1_0_1_46C4_B5_270F_FFFF0000_0_0_0.png
 ln -s daf.png 1_0_1_5606_D9_A018_FFFF0000_0_0_0.png
 ln -s daserste.png 1_0_1_6DCA_44D_A401_FFFF0000_0_0_0.png
@@ -7212,7 +7247,10 @@ ln -s disneyxd.png 1_0_1_CF74_2714_F001_FFFF0000_0_0_0.png
 ln -s dmax.png 1_0_1_55F0_D8_A018_FFFF0000_0_0_0.png
 ln -s dmax.png 1_0_1_5E2C_B5_270F_FFFF0000_0_0_0.png
 ln -s dmdigital.png 1_0_1_571E_E9_A018_FFFF0000_0_0_0.png
+ln -s dmsat.png 1_0_1_5774_ED_A018_FFFF0000_0_0_0.png
 ln -s ducktv.png 1_0_1_5662_DD_A018_FFFF0000_0_0_0.png
+ln -s duna.png 1_0_1_5781_EE_A018_FFFF0000_0_0_0.png
+ln -s dunaworld.png 1_0_1_5780_EE_A018_FFFF0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_3B03_97_270F_FFFF0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_C3B8_2715_F001_FFFF0000_0_0_0.png
 ln -s einsfestival.png 1_0_1_7032_41B_A401_FFFF0000_0_0_0.png
@@ -7278,6 +7316,7 @@ ln -s gotv.png 1_0_1_5737_EA_A018_FFFF0000_0_0_0.png
 ln -s gutelaunetv.png 1_0_1_3337_83_270F_FFFF0000_0_0_0.png
 ln -s gutelaunetv.png 1_0_1_C3BF_2713_F001_FFFF0000_0_0_0.png
 ln -s haberturktv.png 1_0_1_5771_ED_A018_FFFF0000_0_0_0.png
+ln -s hayat.png 1_0_1_5658_DD_A018_FFFF0000_0_0_0.png   
 ln -s hayatplus.png 1_0_1_65FE_105_270F_FFFF0000_0_0_0.png
 ln -s hdcampustv.png 1_0_19_570D_E8_A018_FFFF0000_0_0_0.png
 ln -s heimatkanal.png 1_0_1_16_11_85_FFFF0000_0_0_0.png
@@ -7286,6 +7325,7 @@ ln -s hightv3d.png 1_0_19_4E95_C9_270F_FFFF0000_0_0_0.png
 ln -s history.png 1_0_1_332E_83_270F_FFFF0000_0_0_0.png
 ln -s history.png 1_0_1_D035_2713_F001_FFFF0000_0_0_0.png
 ln -s historyhd.png 1_0_19_71_D_85_FFFF0000_0_0_0.png
+ln -s hrttv1.png 1_0_1_5775_ED_A018_FFFF0000_0_0_0.png   
 ln -s hse24.png 1_0_1_55F3_D8_A018_FFFF0000_0_0_0.png
 ln -s hse24.png 1_0_1_5E28_79_270F_FFFF0000_0_0_0.png
 ln -s hse24extra.png 1_0_1_560C_D9_A018_FFFF0000_0_0_0.png
@@ -7296,6 +7336,7 @@ ln -s im1.png 1_0_1_4E8B_AB_270F_FFFF0000_0_0_0.png
 ln -s im1.png 1_0_1_5609_D9_A018_FFFF0000_0_0_0.png
 ln -s inforegiotv.png 1_0_1_5794_EE_A018_FFFF0000_0_0_0.png
 ln -s itvn.png 1_0_1_5657_DD_270F_FFFF0000_0_0_0.png
+ln -s itvn.png 1_0_1_CF72_70_F001_FFFF0000_0_0_0.png
 ln -s jstveurope.png 1_0_1_65F6_105_270F_FFFF0000_0_0_0.png
 ln -s jukebox.png 1_0_1_CF70_2715_F001_FFFF0000_0_0_0.png
 ln -s junior.png 1_0_1_13_11_85_FFFF0000_0_0_0.png
@@ -7313,8 +7354,10 @@ ln -s kabeleinsclassics.png 1_0_1_D0A4_2714_F001_FFFF0000_0_0_0.png
 ln -s kabeleinshd.png 1_0_19_7D67_141_270F_FFFF0000_0_0_0.png
 ln -s kabeleinshd.png 1_0_19_EF76_3F9_1_FFFF0000_0_0_0.png
 ln -s kanal7avrupa.png 1_0_1_5658_DD_270F_FFFF0000_0_0_0.png
+ln -s kanal7avrupa.png 1_0_1_D100_70_F001_FFFF0000_0_0_0.png
 ln -s kanalavrupa.png 1_0_1_71AF_123_270F_FFFF0000_0_0_0.png
 ln -s kanald.png 1_0_1_5A41_E7_270F_FFFF0000_0_0_0.png
+ln -s kanald.png 1_0_1_CFD5_2711_F001_FFFF0000_0_0_0.png
 ln -s kazakhtv.png 1_0_1_71B1_123_270F_FFFF0000_0_0_0.png
 ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 ln -s kidsco.png 1_0_1_526E_D3_270F_FFFF0000_0_0_0.png
@@ -7337,6 +7380,7 @@ ln -s mdr.png 1_0_1_6E44_431_A401_FFFF0000_0_0_0.png
 ln -s mdr.png 1_0_1_6E45_431_A401_FFFF0000_0_0_0.png
 ln -s mdr.png 1_0_1_6E46_431_A401_FFFF0000_0_0_0.png
 ln -s mediasetitalia.png 1_0_1_6605_105_270F_FFFF0000_0_0_0.png
+ln -s mediasetitalia.png 1_0_1_D10C_2714_F001_FFFF0000_0_0_0.png
 ln -s mgm.png 1_0_1_203_3_85_FFFF0000_0_0_0.png
 ln -s motorstv.png 1_0_1_371D_8D_270F_FFFF0000_0_0_0.png
 ln -s motorstv.png 1_0_1_C3B6_2713_F001_FFFF0000_0_0_0.png
@@ -7357,6 +7401,7 @@ ln -s n-tv.png 1_0_1_2F4D_A1_270F_FFFF0000_0_0_0.png
 ln -s n24.png 1_0_1_2F4E_A1_270F_FFFF0000_0_0_0.png
 ln -s n24.png 1_0_1_445F_453_A018_FFFF0000_0_0_0.png
 ln -s nashekino.png 1_0_1_5A42_E7_270F_FFFF0000_0_0_0.png
+ln -s nashekino.png 1_0_1_CFD2_2711_F001_FFFF0000_0_0_0.png
 ln -s natgeowild.png 1_0_1_C_4_85_FFFF0000_0_0_0.png
 ln -s natgeowildhd.png 1_0_19_86_4_85_FFFF0000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_C614_2712_F001_FFFF0000_0_0_0.png
@@ -7384,8 +7429,13 @@ ln -s orf2.png 1_0_1_56FA_E7_A018_FFFF0000_0_0_0.png
 ln -s pcne.png 1_0_1_574D_EB_A018_FFFF0000_0_0_0.png
 ln -s penthousehd.png 1_0_19_5697_E2_A018_FFFF0000_0_0_0.png
 ln -s phoenix.png 1_0_1_7035_41B_A401_FFFF0000_0_0_0.png
+ln -s pinkextra.png 1_0_1_5655_DD_A018_FFFF0000_0_0_0.png
 ln -s pinkextra.png 1_0_1_65FD_105_270F_FFFF0000_0_0_0.png
+ln -s pinkfilm.png 1_0_1_5659_DD_A018_FFFF0000_0_0_0.png
+ln -s pinkfolk.png 1_0_1_565A_DD_A018_FFFF0000_0_0_0.png
+ln -s pinkmusic.png 1_0_1_5657_DD_A018_FFFF0000_0_0_0.png
 ln -s pinkmusic.png 1_0_1_65FF_105_270F_FFFF0000_0_0_0.png
+ln -s pinkplus.png 1_0_1_5654_DD_A018_FFFF0000_0_0_0.png
 ln -s pinkplus.png 1_0_1_65FC_105_270F_FFFF0000_0_0_0.png
 ln -s planetde.png 1_0_1_3330_F1_270F_FFFF0000_0_0_0.png
 ln -s planetde.png 1_0_1_C3B9_2713_F001_FFFF0000_0_0_0.png
@@ -7419,12 +7469,15 @@ ln -s rbb.png 1_0_1_6E2D_431_A401_FFFF0000_0_0_0.png
 ln -s rbb.png 1_0_1_6E2E_431_A401_FFFF0000_0_0_0.png
 ln -s recordinternacional.png 1_0_1_5730_EA_A018_FFFF0000_0_0_0.png
 ln -s recordinternacional.png 1_0_1_71AD_123_270F_FFFF0000_0_0_0.png
+ln -s rik.png 1_0_1_579E_D7_A018_FFFF0000_0_0_0.png
 ln -s rocktv.png 1_0_1_CF73_2714_F001_FFFF0000_0_0_0.png
 ln -s romancetv.png 1_0_1_372B_8D_270F_FFFF0000_0_0_0.png
 ln -s romancetv.png 1_0_1_D0A5_2714_F001_FFFF0000_0_0_0.png
 ln -s romancetvhd.png 1_0_19_797F_137_270F_FFFF0000_0_0_0.png
+ln -s rtcg.png 1_0_1_5744_EA_A018_FFFF0000_0_0_0.png
 ln -s rtcg.png 1_0_1_6600_105_270F_FFFF0000_0_0_0.png
 ln -s rtf1.png 1_0_1_579F_D7_A018_FFFF0000_0_0_0.png
+ln -s rtk1.png 1_0_1_5686_E1_A018_FFFF0000_0_0_0.png
 ln -s rtl.png 1_0_1_2EE3_441_A018_FFFF0000_0_0_0.png
 ln -s rtl.png 1_0_1_2F45_A1_270F_FFFF0000_0_0_0.png
 ln -s rtl2.png 1_0_1_2EF4_441_A018_FFFF0000_0_0_0.png
@@ -7445,10 +7498,12 @@ ln -s rtpi.png 1_0_1_CFD6_2711_F001_FFFF0000_0_0_0.png
 ln -s rtrplaneta.png 1_0_1_5A44_E7_270F_FFFF0000_0_0_0.png
 ln -s rtrplaneta.png 1_0_1_CFDC_2711_F001_FFFF0000_0_0_0.png
 ln -s rtssat.png 1_0_1_5743_EA_A018_FFFF0000_0_0_0.png
+ln -s rtv21.png 1_0_1_568E_E1_A018_FFFF0000_0_0_0.png
 ln -s rtvi.png 1_0_1_5A45_E7_270F_FFFF0000_0_0_0.png
 ln -s rtvi.png 1_0_1_CFD1_2711_F001_FFFF0000_0_0_0.png
 ln -s russiatoday.png 1_0_1_4E93_C9_270F_FFFF0000_0_0_0.png
 ln -s russiatoday.png 1_0_1_561D_DA_A018_FFFF0000_0_0_0.png
+ln -s samanyolutv.png 1_0_1_5772_ED_A018_FFFF0000_0_0_0.png
 ln -s samanyolutv.png 1_0_1_6214_F1_270F_FFFF0000_0_0_0.png
 ln -s sat1.png 1_0_1_2F46_A1_270F_FFFF0000_0_0_0.png
 ln -s sat1.png 1_0_1_445C_453_A018_FFFF0000_0_0_0.png
@@ -7463,6 +7518,7 @@ ln -s servustvhd.png 1_0_19_71B5_123_270F_FFFF0000_0_0_0.png
 ln -s sf1.png 1_0_1_56F7_E7_A018_FFFF0000_0_0_0.png
 ln -s sf2.png 1_0_1_56F8_E7_A018_FFFF0000_0_0_0.png
 ln -s showturk.png 1_0_1_565D_DD_270F_FFFF0000_0_0_0.png
+ln -s showturk.png 1_0_1_D0FD_70_F001_FFFF0000_0_0_0.png
 ln -s silverline.png 1_0_1_3334_F1_270F_FFFF0000_0_0_0.png
 ln -s silverline.png 1_0_1_C481_2715_F001_FFFF0000_0_0_0.png
 ln -s sixx.png 1_0_1_4460_453_A018_FFFF0000_0_0_0.png
@@ -7586,11 +7642,13 @@ ln -s travelchannel.png 1_0_1_5742_EA_A018_FFFF0000_0_0_0.png
 ln -s trtturk.png 1_0_1_5A48_E7_270F_FFFF0000_0_0_0.png
 ln -s trtturk.png 1_0_1_576F_ED_A018_FFFF0000_0_0_0.png
 ln -s tuerkshowtv.png 1_0_1_71AE_123_270F_FFFF0000_0_0_0.png
+ln -s tunisiatv1.png 1_0_1_5790_EE_A018_FFFF0000_0_0_0.png
 ln -s turkmax.png 1_0_1_565E_DD_270F_FFFF0000_0_0_0.png
 ln -s turkmax.png 1_0_1_D107_70_F001_FFFF0000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_1_56AE_E3_A018_FFFF0000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_1_620E_B5_270F_FFFF0000_0_0_0.png
 ln -s tv8.png 1_0_1_574A_EB_A018_FFFF0000_0_0_0.png
+ln -s tvchile.png 1_0_1_573C_EA_A018_FFFF0000_0_0_0.png
 ln -s tve24horas.png 1_0_1_5A3E_E7_270F_FFFF0000_0_0_0.png
 ln -s tveinternacional.png 1_0_1_5A47_E7_270F_FFFF0000_0_0_0.png
 ln -s tveinternacional.png 1_0_1_D104_2711_F001_FFFF0000_0_0_0.png
