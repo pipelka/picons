@@ -7734,7 +7734,7 @@ ln -s wdr.png 1_0_1_103_1C00_2114_EEEE0000_0_0_0
 ln -s wdr.png 1_0_1_105_1C00_2114_EEEE0000_0_0_0
 ln -s zdf.png 1_0_1_202_202_2114_EEEE0000_0_0_0
 ln -s zdfinfo.png 1_0_1_204_202_2114_EEEE0000_0_0_0
-ln -s zdfneo.png 1_0_1_205_202_2114_EEEE0000_0_0_0
+ln -s zdfneo_kika.png 1_0_1_205_202_2114_EEEE0000_0_0_0
 
 # RADIO
 
