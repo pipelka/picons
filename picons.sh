@@ -2875,8 +2875,7 @@ ln -s iconcertshd.png 1_0_1_3F5_5_AA_5A0000_0_0_0.png
 # iconcerts
 ln -s iconcerts.png 1_0_19_DAE_16A8_9C_5A0000_0_0_0.png
 
-# inspirationtv
-ln -s inspirationtv.png 1_0_1_C74B_96B_2_11A0000_0_0_0.png
+# inforegiotv
 
 # informationtv
 ln -s informationtv.png 1_0_1_C6C0_969_2_11A0000_0_0_0.png
@@ -2887,6 +2886,9 @@ ln -s infosport+.png 1_0_1_2011_430_1_C00000_0_0_0.png
 
 # innsattv
 ln -s innsattv.png 1_0_1_3330_45B_1_C00000_0_0_0.png
+
+# inspirationtv
+ln -s inspirationtv.png 1_0_1_C74B_96B_2_11A0000_0_0_0.png
 
 # investigationdiscovery
 ln -s investigationdiscovery.png 1_0_1_CCB0_90B_2_11A0000_0_0_0.png
@@ -7261,6 +7263,7 @@ ln -s hse24trend.png 1_0_1_42DC_AB_270F_FFFF0000_0_0_0.png
 ln -s htv1.png 1_0_1_65FB_105_270F_FFFF0000_0_0_0.png
 ln -s im1.png 1_0_1_4E8B_AB_270F_FFFF0000_0_0_0.png
 ln -s im1.png 1_0_1_5609_D9_A018_FFFF0000_0_0_0.png
+ln -s inforegiotv.png 1_0_1_5794_EE_A018_FFFF0000_0_0_0.png
 ln -s jstveurope.png 1_0_1_65F6_105_270F_FFFF0000_0_0_0.png
 ln -s jukebox.png 1_0_1_CF70_2715_F001_FFFF0000_0_0_0.png
 ln -s junior.png 1_0_1_13_11_85_FFFF0000_0_0_0.png
