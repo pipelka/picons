@@ -4311,6 +4311,9 @@ ln -s privatespice.png 1_0_1_1D7A_2F44_13E_820000_0_0_0.png
 ln -s privatespice.png 1_0_1_17B8_C82_3_EB0000_0_0_0.png
 ln -s privatespice.png 1_0_16_17B8_C82_3_EB0000_0_0_0.png
 
+# propellertv
+ln -s propellertv.png 1_0_1_D7E6_900_2_11A0000_0_0_0.png
+
 # prosieben
 ln -s prosieben.png 1_0_19_D175_2718_F001_EB0000_0_0_0.png
 ln -s prosieben.png 1_0_1_4E21_43A_1_C00000_0_0_0.png
@@ -4329,8 +4332,7 @@ ln -s prosiebenhd.png 1_0_19_14B5_407_1_C00000_0_0_0.png
 
 # prosiebenfunhd
 
-# propellertv
-ln -s propellertv.png 1_0_1_D7E6_900_2_11A0000_0_0_0.png
+# protvinternational
 
 # psychictv
 
@@ -7457,6 +7459,7 @@ ln -s prosiebenfun.png 1_0_1_75A3_12D_270F_FFFF0000_0_0_0.png
 ln -s prosiebenfunhd.png 1_0_19_94D5_17D_270F_FFFF0000_0_0_0.png
 ln -s prosiebenhd.png 1_0_19_7D66_141_270F_FFFF0000_0_0_0.png
 ln -s prosiebenhd.png 1_0_19_EF75_3F9_1_FFFF0000_0_0_0.png
+ln -s protvinternational.png 1_0_1_5763_EC_A018_FFFF0000_0_0_0.png
 ln -s qvc.png 1_0_1_55F4_D8_A018_FFFF0000_0_0_0.png
 ln -s qvc.png 1_0_1_5E27_79_270F_FFFF0000_0_0_0.png
 ln -s qvcbeauty.png 1_0_1_D03F_2713_F001_FFFF0000_0_0_0.png
