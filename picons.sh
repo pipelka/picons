@@ -3141,6 +3141,8 @@ ln -s kika.png 1_0_1_6D68_437_1_C00000_0_0_0.png
 ln -s kikahd.png 1_0_1_2B98_3F2_1_C00000_0_0_0.png
 ln -s kikahd.png 1_0_19_2B98_3F2_1_C00000_0_0_0.png
 
+# kika_zdfneo
+
 # kinowelttv
 ln -s kinowelttv.png 1_0_19_C3BC_2713_F001_EB0000_0_0_0.png
 ln -s kinowelttv.png 1_0_1_3C_9_85_C00000_0_0_0.png
@@ -7717,6 +7719,7 @@ ln -s daserste.png 1_0_1_100_1800_2114_EEEE0000_0_0_0
 ln -s einsfestival.png 1_0_1_5_1800_2114_EEEE0000_0_0_0
 ln -s eurosport.png 1_0_1_4024_2203_2114_EEEE0000_0_0_0
 ln -s kabeleins.png 1_0_1_400A_2201_2114_EEEE0000_0_0_0
+ln -s kika_zdfneo.png 1_0_1_205_202_2114_EEEE0000_0_0_0
 ln -s mdr.png 1_0_1_64_1C00_2114_EEEE0000_0_0_0
 ln -s n24.png 1_0_1_400E_2201_2114_EEEE0000_0_0_0
 ln -s ndr.png 1_0_1_81_1C00_2114_EEEE0000_0_0_0
@@ -7734,7 +7737,6 @@ ln -s wdr.png 1_0_1_103_1C00_2114_EEEE0000_0_0_0
 ln -s wdr.png 1_0_1_105_1C00_2114_EEEE0000_0_0_0
 ln -s zdf.png 1_0_1_202_202_2114_EEEE0000_0_0_0
 ln -s zdfinfo.png 1_0_1_204_202_2114_EEEE0000_0_0_0
-ln -s zdfneo_kika.png 1_0_1_205_202_2114_EEEE0000_0_0_0
 
 # RADIO
 
