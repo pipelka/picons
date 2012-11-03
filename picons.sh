@@ -3130,6 +3130,8 @@ ln -s ketnetop12.png 1_0_16_5286_C96_3_EB0000_0_0_0.png
 # kerrang
 ln -s kerrang.png 1_0_1_2EEF_7F8_2_11A0000_0_0_0.png
 
+# khabartv
+
 # kiss
 ln -s kiss.png 1_0_1_2EEA_7F8_2_11A0000_0_0_0.png
 
@@ -7363,6 +7365,7 @@ ln -s kanald.png 1_0_1_CFD5_2711_F001_FFFF0000_0_0_0.png
 ln -s kapitalnetwork.png 1_0_1_576D_ED_A018_FFFF0000_0_0_0.png
 ln -s kazakhtv.png 1_0_1_71B1_123_270F_FFFF0000_0_0_0.png
 ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
+ln -s khabartv.png 1_0_1_5758_EC_A018_FFFF0000_0_0_0.png
 ln -s kidsco.png 1_0_1_526E_D3_270F_FFFF0000_0_0_0.png
 ln -s kidsco.png 1_0_1_5664_DD_A018_FFFF0000_0_0_0.png
 ln -s kika.png 1_0_1_6D68_437_1_FFFF0000_0_0_0.png
