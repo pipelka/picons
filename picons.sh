@@ -258,6 +258,8 @@ ln -s animalplanethd.png 1_0_1_3B66_12C_13E_820000_0_0_0.png
 # animalplanetplus1
 ln -s animalplanetplus1.png 1_0_1_CCB5_90B_2_11A0000_0_0_0.png
 
+# animalplanethdplus1
+
 # animalplanet_tlc
 ln -s animalplanet_tlc.png 1_0_1_7E4_449_35_C00000_0_0_0.png
 
