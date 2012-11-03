@@ -3117,6 +3117,8 @@ ln -s kanalivoulis.png 1_0_1_180_1C84_13E_820000_0_0_0.png
 
 # kapitalnetwork
 
+# karaokechannel
+
 # kazakhtv
 
 # kbsworld
@@ -7373,6 +7375,7 @@ ln -s kanalavrupa.png 1_0_1_71AF_123_270F_FFFF0000_0_0_0.png
 ln -s kanald.png 1_0_1_5A41_E7_270F_FFFF0000_0_0_0.png
 ln -s kanald.png 1_0_1_CFD5_2711_F001_FFFF0000_0_0_0.png
 ln -s kapitalnetwork.png 1_0_1_576D_ED_A018_FFFF0000_0_0_0.png
+ln -s karaokechannel.png 1_0_1_5634_DB_A018_FFFF0000_0_0_0.png
 ln -s kazakhtv.png 1_0_1_71B1_123_270F_FFFF0000_0_0_0.png
 ln -s kbsworld.png 1_0_1_575E_EC_A018_FFFF0000_0_0_0.png
 ln -s khabartv.png 1_0_1_5758_EC_A018_FFFF0000_0_0_0.png
