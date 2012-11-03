@@ -7147,6 +7147,7 @@ ln -s cartoonnetwork.png 1_0_1_C617_2712_F001_FFFF0000_0_0_0.png
 ln -s cctvnews.png 1_0_1_4E97_C9_270F_FFFF0000_0_0_0.png
 ln -s cctvnews.png 1_0_1_5720_E9_A018_FFFF0000_0_0_0.png
 ln -s centertv.png 1_0_1_5E2B_15F_270F_FFFF0000_0_0_0.png
+ln -s channel1rus.png 1_0_1_5660_DD_270F_FFFF0000_0_0_0.png
 ln -s channel1rus.png 1_0_1_D108_70_F001_FFFF0000_0_0_0.png
 ln -s channel21.png 1_0_1_2F30_441_A018_FFFF0000_0_0_0.png
 ln -s channel21.png 1_0_1_5E29_B5_270F_FFFF0000_0_0_0.png
