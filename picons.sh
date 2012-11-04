@@ -3087,8 +3087,6 @@ ln -s k2.png 1_0_1_3A0B_1FA4_13E_820000_0_0_0.png
 
 # kabelbw
 
-# kabelbwvideothek
-
 # kabeleins
 ln -s kabeleins.png 1_0_19_D176_2718_F001_EB0000_0_0_0.png
 ln -s kabeleins.png 1_0_1_4E23_43A_1_C00000_0_0_0.png
@@ -7476,9 +7474,7 @@ ln -s juwelotv.png 1_0_1_4E8C_AB_270F_FFFF0000_0_0_0.png
 ln -s juwelotv.png 1_0_1_5607_D9_A018_FFFF0000_0_0_0.png
 ln -s k-tv.png 1_0_1_560A_D9_A018_FFFF0000_0_0_0.png
 ln -s k-tv.png 1_0_1_568F_E1_A018_FFFF0000_0_0_0.png
-ln -s kabelbw.png 1_0_1_5622_DA_A018_FFFF0000_0_0_0.png
 ln -s kabelbw.png 1_0_19_5793_EE_A018_FFFF0000_0_0_0.png
-ln -s kabelbwvideothek.png 1_0_1_5623_DA_A018_FFFF0000_0_0_0.png
 ln -s kabeleins.png 1_0_1_2F4A_A1_270F_FFFF0000_0_0_0.png
 ln -s kabeleins.png 1_0_1_445E_453_A018_FFFF0000_0_0_0.png
 ln -s kabeleinsclassics.png 1_0_1_3338_83_270F_FFFF0000_0_0_0.png
@@ -7805,6 +7801,7 @@ ln -s unitelclassica.png 1_0_1_620F_F1_270F_FFFF0000_0_0_0.png
 ln -s unitelclassica.png 1_0_1_18_11_85_FFFF0000_0_0_0.png
 ln -s unitelclassicahd.png 1_0_19_56B0_E3_A018_FFFF0000_0_0_0.png
 ln -s unitelclassicahd.png 1_0_19_759C_12D_270F_FFFF0000_0_0_0.png
+ln -s unitymediainfokanal.png 1_0_1_5622_DA_A018_FFFF0000_0_0_0.png
 ln -s unitymediainfokanal.png 1_0_1_620D_B5_270F_FFFF0000_0_0_0.png
 ln -s unitymediakinovorschau.png 1_0_1_5A49_79_270F_FFFF0000_0_0_0.png
 ln -s unitymediakinoaufabruf01.png 1_0_1_4AA7_6F_270F_FFFF0000_0_0_0.png
@@ -7830,6 +7827,7 @@ ln -s unitymediakinoaufabruf20.png 1_0_1_42D4_155_270F_FFFF0000_0_0_0.png
 ln -s unitymediakinohd.png 1_0_19_4E88_155_270F_FFFF0000_0_0_0.png
 ln -s unitymediaschnupperkanal.png 1_0_1_75A1_12D_270F_FFFF0000_0_0_0.png
 ln -s unitymediavideothek.png 1_0_1_3351_83_270F_FFFF0000_0_0_0.png
+ln -s unitymediavideothek.png 1_0_1_5623_DA_A018_FFFF0000_0_0_0.png
 ln -s vh1classic.png 1_0_1_3B08_97_270F_FFFF0000_0_0_0.png
 ln -s vh1classic.png 1_0_1_C47E_2715_F001_FFFF0000_0_0_0.png
 ln -s vh1classic.png 1_0_1_CF7B_2715_F001_FFFF0000_0_0_0.png
