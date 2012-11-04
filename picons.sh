@@ -1479,6 +1479,7 @@ ln -s d8.png 1_0_1_2F8E_454_1_C00000_0_0_0.png
 ln -s d8.png 1_0_1_2F8F_454_1_C00000_0_0_0.png
 ln -s d8.png 1_0_1_22AD_238C_13E_820000_0_0_0.png
 ln -s d8.png 1_0_1_22B0_238C_13E_820000_0_0_0.png
+ln -s d8.png 1_0_1_134_3E1C_13F_820000_0_0_0.png
 
 # d17
 ln -s d17.png 1_0_1_23F1_452_1_C00000_0_0_0.png
@@ -1903,6 +1904,7 @@ ln -s eentertainment.png 1_0_1_E2E_1E14_9E_5A0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_E38_1E14_9E_5A0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_6D8_1388_9C_5A0000_0_0_0.png
 ln -s eentertainment.png 1_0_19_FBC_807_2_11A0000_0_0_0.png
+ln -s eentertainment.png 1_0_1_4462_1F40_13E_820000_0_0_0.png
 
 # einsextra
 ln -s einsextra.png 1_0_1_7031_0_0_EBB18C_0_0_0.png
@@ -3230,6 +3232,7 @@ ln -s latrois.png 1_0_1_147B_40D_1_C00000_0_0_0.png
 
 # lci
 ln -s lci.png 1_0_1_1FDC_434_1_C00000_0_0_0.png
+ln -s lci.png 1_0_1_446B_1F40_13E_820000_0_0_0.png
 
 # lcp
 ln -s lcp.png 1_0_1_23F2_452_1_C00000_0_0_0.png
@@ -3374,6 +3377,7 @@ ln -s mcm.png 1_0_1_1FAE_2454_13E_820000_0_0_0.png
 
 # mcmpop
 ln -s mcmpop.png 1_0_1_20A2_432_1_C00000_0_0_0.png
+ln -s mcmpop.png 1_0_1_4464_1F40_13E_820000_0_0_0.png
 
 # mcmtop
 ln -s mcmtop.png 1_0_1_20AD_432_1_C00000_0_0_0.png
@@ -5364,6 +5368,7 @@ ln -s skynewsuk.png 1_0_1_24E5_2260_FBFF_820000_0_0_0.png
 ln -s skynewsuk.png 1_0_1_20D0_7EA_2_11A0000_0_0_0.png
 ln -s skynewsuk.png 1_0_82_1263_7EA_2_11A0000_0_0_0.png
 ln -s skynewsuk.png 1_0_82_201A_7EA_2_11A0000_0_0_0.png
+ln -s skynewsuk.png 1_0_1_1FAC_189C_FBFF_820000_0_0_0.png
 
 # skynewshd
 ln -s skynewshduk.png 1_0_19_F0A_7F7_2_11A0000_0_0_0.png
@@ -5840,6 +5845,9 @@ ln -s stvhd.png 1_0_19_F0F_808_2_11A0000_0_0_0.png
 
 # stvnews
 
+# stylia
+ln -s stylia.png 1_0_1_428D_446_1_C00000_0_0_0.png
+
 # sudwestfernsehenbadenwurtemberg
 ln -s sudwestfernsehenbadenwurtemberg.png 1_0_1_6DD1_44D_1_C00000_0_0_0.png
 
@@ -6137,6 +6145,7 @@ ln -s tiroltv.png 1_0_1_3355_45B_1_C00000_0_0_0.png
 ln -s tmc.png 1_0_1_1FD8_434_1_C00000_0_0_0.png
 ln -s tmc.png 1_0_1_1FEB_434_1_C00000_0_0_0.png
 ln -s tmc.png 1_0_1_1F9_26AC_13F_820000_0_0_0.png
+ln -s tmc.png 1_0_1_136_3E1C_13F_820000_0_0_0.png
 
 # tmf be
 
