@@ -336,8 +336,12 @@ ln -s arynews.png 1_0_1_C486_964_2_11A0000_0_0_0.png
 # aryentertainment
 ln -s aryentertainment.png 1_0_1_C4EF_965_2_11A0000_0_0_0.png
 
+# arymusik
+
 # aryqtv
 ln -s aryqtv.png 1_0_1_CD37_902_2_11A0000_0_0_0.png
+
+# aryzauq
 
 # astra
 ln -s astra.png 1_0_19_14BE_C84_3_EB0000_0_0_0.png
