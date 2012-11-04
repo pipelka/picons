@@ -797,7 +797,6 @@ ln -s boomerang.png 1_0_1_1FAF_2454_13E_820000_0_0_0.png
 ln -s boomerang.png 1_0_1_F0A_17_56_300000_0_0_0.png
 ln -s boomerang.png 1_0_1_25_8_31_CE40000_0_0_0.png
 ln -s boomerang.png 1_0_1_3C_100_16E_300000_0_0_0.png
-ln -s boomerang.png 1_0_1_445F_1F40_13E_820000_0_0_0.png
 ln -s boomerang.png 1_0_1_967_2_46_E080000_0_0_0.png
 ln -s boomerang.png 1_0_1_7A_0_0_1863115_0_0_0.png
 ln -s boomerang.png 1_0_1_7B_1_D5_1C20000_0_0_0.png
@@ -2572,6 +2571,7 @@ ln -s gamberorosso.png 1_0_19_DB7_2DB4_FBFF_820000_0_0_0.png
 # gameone
 ln -s gameone.png 1_0_1_6FF7_42A_1_C00000_0_0_0.png
 ln -s gameone.png 1_0_1_6B1_3138_13E_820000_0_0_0.png
+ln -s gameone.png 1_0_1_1F8_26AC_13F_820000_0_0_0.png
 
 # gayxchange
 ln -s gayxchange.png 1_0_1_C535_965_2_11A0000_0_0_0.png
@@ -3188,6 +3188,9 @@ ln -s kosmicatv.png 1_0_1_36EC_C8E_3_EB0000_0_0_0.png
 
 # kto
 ln -s kto.png 1_0_1_1AF6_3FE_1_C00000_0_0_0.png
+
+# kztv
+ln -s kztv.png 1_0_1_445F_1F40_13E_820000_0_0_0.png
 
 # k-tv
 ln -s k-tv.png 1_0_1_1_14_2_EBB172_0_0_0.png
@@ -6748,7 +6751,6 @@ ln -s vtv4.png 1_0_1_43A9_2CEC_13E_820000_0_0_0.png
 ln -s w9.png 1_0_1_20A4_432_1_C00000_0_0_0.png
 ln -s w9.png 1_0_1_20B5_432_1_C00000_0_0_0.png
 ln -s w9.png 1_0_19_4490_1F40_13E_820000_0_0_0.png
-ln -s w9.png 1_0_1_1F8_26AC_13F_820000_0_0_0.png
 ln -s w9.png 1_0_1_4490_1F40_13E_820000_0_0_0.png
 ln -s w9.png 1_0_1_135_3E1C_13F_820000_0_0_0.png
 ln -s w9.png 1_0_1_CB_19C8_9E_5A0000_0_0_0.png
