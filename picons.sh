@@ -1949,15 +1949,13 @@ ln -s eptnet.png 1_0_1_178_1C84_13E_820000_0_0_0.png
 # equi8
 ln -s equi8.png 1_0_1_381_21_85_C00000_0_0_0.png
 
-# equidia
-ln -s equidia.png 1_0_1_1C39_1C20_13E_820000_0_0_0.png
-ln -s equidia.png 1_0_1_22C9_45A_1_C00000_0_0_0.png
-ln -s equidia.png 1_0_1_446A_1F40_13E_820000_0_0_0.png
-
 # equidialife
 ln -s equidialife.png 1_0_1_2526_456_1_C00000_0_0_0.png
 
 # equidialive
+ln -s equidialive.png 1_0_1_1C39_1C20_13E_820000_0_0_0.png
+ln -s equidialive.png 1_0_1_22C9_45A_1_C00000_0_0_0.png
+ln -s equidialive.png 1_0_1_446A_1F40_13E_820000_0_0_0.png
 
 # eredivisielive
 ln -s eredivisielive.png 1_0_1_13A6_455_35_C00000_0_0_0.png
