@@ -4270,18 +4270,18 @@ ln -s planetde.png 1_0_1_7FC_449_35_C00000_0_0_0.png
 
 # planethdde
 
-# planete
-ln -s planete.png 1_0_1_1FD9_434_1_C00000_0_0_0.png
-ln -s planete.png 1_0_1_1136_2AF8_13E_820000_0_0_0.png
+# planete+
+ln -s planete+.png 1_0_1_1FD9_434_1_C00000_0_0_0.png
+ln -s planete+.png 1_0_1_1136_2AF8_13E_820000_0_0_0.png
 
-# planetejustice
-ln -s planetejustice.png 1_0_1_2588_458_1_C00000_0_0_0.png
+# planete+justice
+ln -s planete+justice.png 1_0_1_2588_458_1_C00000_0_0_0.png
 
-# planetenolimit
-ln -s planetenolimit.png 1_0_1_2203_44C_1_C00000_0_0_0.png
+# planete+nolimit
+ln -s planete+nolimit.png 1_0_1_2203_44C_1_C00000_0_0_0.png
 
-# planetethalassa
-ln -s planetethalassa.png 1_0_1_2138_400_1_C00000_0_0_0.png
+# planete+thalassa
+ln -s planete+thalassa.png 1_0_1_2138_400_1_C00000_0_0_0.png
 
 # playboyone
 
