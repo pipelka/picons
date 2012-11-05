@@ -1352,6 +1352,9 @@ ln -s crimeplus1.png 1_0_1_CBC9_8FD_2_11A0000_0_0_0.png
 # cubavisioninternacional
 ln -s cubavisioninternacional.png 1_0_1_1B60_3FC_1_C00000_0_0_0.png
 
+# cuisine+
+ln -s cuisine+.png 1_0_1_2587_458_1_C00000_0_0_0.png
+
 # cuisinetv
 ln -s cuisinetv.png 1_0_1_24BA_43C_1_C00000_0_0_0.png
 
@@ -1950,6 +1953,11 @@ ln -s equi8.png 1_0_1_381_21_85_C00000_0_0_0.png
 ln -s equidia.png 1_0_1_1C39_1C20_13E_820000_0_0_0.png
 ln -s equidia.png 1_0_1_22C9_45A_1_C00000_0_0_0.png
 ln -s equidia.png 1_0_1_446A_1F40_13E_820000_0_0_0.png
+
+# equidialife
+ln -s equidialife.png 1_0_1_2526_456_1_C00000_0_0_0.png
+
+# equidialive
 
 # eredivisielive
 ln -s eredivisielive.png 1_0_1_13A6_455_35_C00000_0_0_0.png
@@ -2595,6 +2603,9 @@ ln -s geotv.png 1_0_1_CD14_902_2_11A0000_0_0_0.png
 
 # geschiedenis24
 
+# girondinstv
+ln -s girondinstv.png 1_0_1_1908_3FA_1_C00000_0_0_0.png
+
 # glitzde
 
 # glitzhdde
@@ -3204,6 +3215,9 @@ ln -s la8.png 1_0_1_A_300C_13E_820000_0_0_0.png
 # la9
 ln -s la9.png 1_0_1_B_300C_13E_820000_0_0_0.png
 
+# lachainemeteo
+ln -s lachainemeteo.png 1_0_1_22C6_45A_1_C00000_0_0_0.png
+
 # lasexta
 ln -s lasexta.png 1_0_1_77BF_40A_1_C00000_0_0_0.png
 
@@ -3347,6 +3361,9 @@ ln -s machainesporthd.png 1_0_19_24CF_43C_1_C00000_0_0_0.png
 ln -s massiverandb.png 1_0_1_C6C2_969_2_11A0000_0_0_0.png
 ln -s massiverandb.png 1_0_1_D74A_A34_2_11A0000_0_0_0.png
 
+# maison+
+ln -s maison+.png 1_0_1_21FD_44C_1_C00000_0_0_0.png
+
 # man-ga
 ln -s man-ga.png 1_0_1_DB3_2DB4_FBFF_820000_0_0_0.png
 
@@ -3381,6 +3398,9 @@ ln -s mcmpop.png 1_0_1_4464_1F40_13E_820000_0_0_0.png
 
 # mcmtop
 ln -s mcmtop.png 1_0_1_20AD_432_1_C00000_0_0_0.png
+
+# mcsbienetre
+ln -s mcsbienetre.png 1_0_1_213C_400_1_C00000_0_0_0.png
 
 # mdr
 ln -s mdr.png 1_0_1_6E44_431_1_C00000_0_0_0.png
@@ -4254,6 +4274,9 @@ ln -s planetde.png 1_0_1_7FC_449_35_C00000_0_0_0.png
 ln -s planete.png 1_0_1_1FD9_434_1_C00000_0_0_0.png
 ln -s planete.png 1_0_1_1136_2AF8_13E_820000_0_0_0.png
 
+# planetejustice
+ln -s planetejustice.png 1_0_1_2588_458_1_C00000_0_0_0.png
+
 # planetenolimit
 ln -s planetenolimit.png 1_0_1_2203_44C_1_C00000_0_0_0.png
 
@@ -4805,6 +4828,9 @@ ln -s sct.png 1_0_1_35CA_1388_13E_820000_0_0_0.png
 
 # scuzz
 ln -s scuzz.png 1_0_1_D03E_90A_2_11A0000_0_0_0.png
+
+# seasons
+ln -s seasons.png 1_0_1_2521_456_1_C00000_0_0_0.png
 
 # selectkino
 ln -s selectkino.png 1_0_19_C490_2716_F001_EB0000_0_0_0.png
@@ -6020,7 +6046,8 @@ ln -s telelombardia.png 1_0_1_E20_708_C8_820000_0_0_0.png
 ln -s telemadrid.png 1_0_1_2755_402_1_C00000_0_0_0.png
 ln -s telemadrid.png 1_0_1_7A47_410_1_C00000_0_0_0.png
 
-# telemaison
+# telemelody
+ln -s telemelody.png 1_0_1_2135_400_1_C00000_0_0_0.png
 
 # telenova
 ln -s telenova.png 1_0_1_C_300C_13E_820000_0_0_0.png
