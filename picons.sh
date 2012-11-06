@@ -7964,31 +7964,31 @@ ln -s servustv.png 1_0_1_2C28_14A_2028_EEEE0000_0_0_0.png
 
 # TV
 
-ln -s 3sat.png 1_0_1_203_202_2114_EEEE0000_0_0_0
-ln -s arte.png 1_0_1_2_1800_2114_EEEE0000_0_0_0
-ln -s cnn.png 1_0_1_4006_2203_2114_EEEE0000_0_0_0
-ln -s daserste.png 1_0_1_100_1800_2114_EEEE0000_0_0_0
-ln -s einsfestival.png 1_0_1_5_1800_2114_EEEE0000_0_0_0
-ln -s eurosport.png 1_0_1_4024_2203_2114_EEEE0000_0_0_0
-ln -s kabeleins.png 1_0_1_400A_2201_2114_EEEE0000_0_0_0
-ln -s kika_zdfneo.png 1_0_1_205_202_2114_EEEE0000_0_0_0
-ln -s mdr.png 1_0_1_64_1C00_2114_EEEE0000_0_0_0
-ln -s n24.png 1_0_1_400E_2201_2114_EEEE0000_0_0_0
-ln -s ndr.png 1_0_1_81_1C00_2114_EEEE0000_0_0_0
-ln -s phoenix.png 1_0_1_3_1800_2114_EEEE0000_0_0_0
-ln -s prosieben.png 1_0_1_4013_2201_2114_EEEE0000_0_0_0
-ln -s rtl.png 1_0_1_4015_2202_2114_EEEE0000_0_0_0
-ln -s rtl2.png 1_0_1_4016_2202_2114_EEEE0000_0_0_0
-ln -s sat1.png 1_0_1_4018_2201_2114_EEEE0000_0_0_0
-ln -s superrtl.png 1_0_1_401B_2202_2114_EEEE0000_0_0_0
-ln -s swr.png 1_0_1_E2_1C00_2114_EEEE0000_0_0_0
-ln -s tele5.png 1_0_1_401D_2203_2114_EEEE0000_0_0_0
-ln -s viva.png 1_0_1_4020_2203_2114_EEEE0000_0_0_0
-ln -s vox.png 1_0_1_4022_2202_2114_EEEE0000_0_0_0
-ln -s wdr.png 1_0_1_103_1C00_2114_EEEE0000_0_0_0
-ln -s wdr.png 1_0_1_105_1C00_2114_EEEE0000_0_0_0
-ln -s zdf.png 1_0_1_202_202_2114_EEEE0000_0_0_0
-ln -s zdfinfo.png 1_0_1_204_202_2114_EEEE0000_0_0_0
+ln -s 3sat.png 1_0_1_203_202_2114_EEEE0000_0_0_0.png
+ln -s arte.png 1_0_1_2_1800_2114_EEEE0000_0_0_0.png
+ln -s cnn.png 1_0_1_4006_2203_2114_EEEE0000_0_0_0.png
+ln -s daserste.png 1_0_1_100_1800_2114_EEEE0000_0_0_0.png
+ln -s einsfestival.png 1_0_1_5_1800_2114_EEEE0000_0_0_0.png
+ln -s eurosport.png 1_0_1_4024_2203_2114_EEEE0000_0_0_0.png
+ln -s kabeleins.png 1_0_1_400A_2201_2114_EEEE0000_0_0_0.png
+ln -s kika_zdfneo.png 1_0_1_205_202_2114_EEEE0000_0_0_0.png
+ln -s mdr.png 1_0_1_64_1C00_2114_EEEE0000_0_0_0.png
+ln -s n24.png 1_0_1_400E_2201_2114_EEEE0000_0_0_0.png
+ln -s ndr.png 1_0_1_81_1C00_2114_EEEE0000_0_0_0.png
+ln -s phoenix.png 1_0_1_3_1800_2114_EEEE0000_0_0_0.png
+ln -s prosieben.png 1_0_1_4013_2201_2114_EEEE0000_0_0_0.png
+ln -s rtl.png 1_0_1_4015_2202_2114_EEEE0000_0_0_0.png
+ln -s rtl2.png 1_0_1_4016_2202_2114_EEEE0000_0_0_0.png
+ln -s sat1.png 1_0_1_4018_2201_2114_EEEE0000_0_0_0.png
+ln -s superrtl.png 1_0_1_401B_2202_2114_EEEE0000_0_0_0.png
+ln -s swr.png 1_0_1_E2_1C00_2114_EEEE0000_0_0_0.png
+ln -s tele5.png 1_0_1_401D_2203_2114_EEEE0000_0_0_0.png
+ln -s viva.png 1_0_1_4020_2203_2114_EEEE0000_0_0_0.png
+ln -s vox.png 1_0_1_4022_2202_2114_EEEE0000_0_0_0.png
+ln -s wdr.png 1_0_1_103_1C00_2114_EEEE0000_0_0_0.png
+ln -s wdr.png 1_0_1_105_1C00_2114_EEEE0000_0_0_0.png
+ln -s zdf.png 1_0_1_202_202_2114_EEEE0000_0_0_0.png
+ln -s zdfinfo.png 1_0_1_204_202_2114_EEEE0000_0_0_0.png
 
 # RADIO
 
