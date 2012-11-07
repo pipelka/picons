@@ -1830,6 +1830,15 @@ ln -s drdish.png 1_0_1_1523_455_1_C00000_0_0_0.png
 ln -s drdish.png 1_0_16_1523_455_1_C00000_0_0_0.png
 ln -s drdish.png 1_0_19_1523_455_1_C00000_0_0_0.png
 
+# drk
+ls -s drk.png 1_0_1_762_1E_56_320000_0_0_0.png
+
+# drramasjang
+ls -s drramasjang.png 1_0_1_758_1E_56_320000_0_0_0.png
+
+# drupdate
+ls -s drupdate.png 1_0_1_708_1E_56_320000_0_0_0.png
+
 # dubaisports3
 ln -s dubaisports3.png 1_0_1_251E_13EF_13E_820000_0_0_0.png
 
@@ -6296,11 +6305,47 @@ ln -s turkmax.png 1_0_1_D107_2713_F001_EB0000_0_0_0.png
 
 # tuerkshowtv
 
+# tv2charlie
+ls -s tv2charlie.png 1_0_1_71C_1E_56_320000_0_0_0.png
+
+# tv2film
+ls -s tv2film.png 1_0_1_726_1E_56_320000_0_0_0.png
+
+# tv2news
+ls -s tv2news.png 1_0_1_74E_1E_56_320000_0_0_0.png
+
+# tv2sportno
+ls -s tv2sportno.png 1_0_1_730_1E_56_320000_0_0_0.png
+
+# tv2sport2
+ls -s tv2sportno.png 1_0_1_1FA4_A_56_320000_0_0_0.png
+
+# tv2sport3
+ls -s tv2sportno.png 1_0_1_1FAE_A_56_320000_0_0_0.png
+
+# tv2sport4
+ls -s tv2sportno.png 1_0_1_1FC2_A_56_320000_0_0_0.png
+
+# tv2sport5
+ls -s tv2sportno.png 1_0_1_1FCC_A_56_320000_0_0_0.png
+
+# tv2sportpremierleague
+ls -s tv2sportpremierleague.png 1_0_1_73A_1E_56_320000_0_0_0.png
+
+# tv2zulu
+ls -s tv2zulu.png 1_0_1_712_1E_56_320000_0_0_0.png
+
 # tv3cat
 ln -s tv3cat.png 1_0_1_2757_402_1_C00000_0_0_0.png
 
 # tv3ireland
 ln -s tv3ireland.png 1_0_1_2585_7FB_2_11A0000_0_0_0.png
+
+# tv3puls
+ls -s tv3puls.png 1_0_1_1FB8_A_56_320000_0_0_0.png
+
+# tv4
+ls -s tv4.png 1_0_1_1F9A_A_56_320000_0_0_0.png
 
 # tv5
 ln -s tv5.png 1_0_1_CD5F_902_2_11A0000_0_0_0.png
@@ -6685,6 +6730,69 @@ ln -s viasatnature.png 1_0_1_13DC_C8A_3_EB0000_0_0_0.png
 
 # viasatnaturehd
 ln -s viasatnaturehd.png 1_0_1_15E3_C9A_3_EB0000_0_0_0.png
+
+# viasatxtra1
+ls -s viasatxtra.png 1_0_1_1F40_A_56_320000_0_0_0.png
+
+# viasatxtra2
+ls -s viasatxtra.png 1_0_1_1F4A_A_56_320000_0_0_0.png
+
+# viasatxtra3
+ls -s viasatxtra.png 1_0_1_1F54_A_56_320000_0_0_0.png
+
+# viasatxtra4
+ls -s viasatxtra.png 1_0_1_1F5E_A_56_320000_0_0_0.png
+
+# viasatxtra5
+ls -s viasatxtra.png 1_0_1_1F68_A_56_320000_0_0_0.png
+
+# viasatxtra6
+ls -s viasatxtra.png 1_0_1_1F90_A_56_320000_0_0_0.png
+
+# viasatxtra7
+ls -s viasatxtra.png 1_0_1_1F72_A_56_320000_0_0_0.png
+
+# viasatxtranhl1
+ls -s viasatxtra.png 1_0_1_1F22_A_56_320000_0_0_0.png
+
+# viasatxtranhl2
+ls -s viasatxtra.png 1_0_1_1F2C_A_56_320000_0_0_0.png
+
+# viasatxtranhl3
+ls -s viasatxtra.png 1_0_1_1F36_A_56_320000_0_0_0.png
+
+# viasatxtranhl4
+ls -s viasatxtra.png 1_0_1_1FD6_A_56_320000_0_0_0.png
+
+# viasatxtranhl5
+ls -s viasatxtra.png 1_0_1_1FE0_A_56_320000_0_0_0.png
+
+# viasatxtranhl6
+ls -s viasatxtra.png 1_0_1_1FEA_A_56_320000_0_0_0.png
+
+# viasatxtranhl7
+ls -s viasatxtra.png 1_0_1_1FF4_A_56_320000_0_0_0.png
+
+# viasatxtrapremierleague1
+ls -s viasatxtra.png 1_0_1_1EDC_A_56_320000_0_0_0.png
+
+# viasatxtrapremierleague2
+ls -s viasatxtra.png 1_0_1_1EE6_A_56_320000_0_0_0.png
+
+# viasatxtrapremierleague3
+ls -s viasatxtra.png 1_0_1_1EF0_A_56_320000_0_0_0.png
+
+# viasatxtrapremierleague4
+ls -s viasatxtra.png 1_0_1_1EFA_A_56_320000_0_0_0.png
+
+# viasatxtrapremierleague5
+ls -s viasatxtra.png 1_0_1_1F04_A_56_320000_0_0_0.png
+
+# viasatxtrapremierleague7
+ls -s viasatxtra.png 1_0_1_1F0E_A_56_320000_0_0_0.png
+
+# viasatxtrapremierleague7
+ls -s viasatxtra.png 1_0_1_1F18_A_56_320000_0_0_0.png
 
 # videolina
 ln -s videolina.png 1_0_1_44D5_258_13E_820000_0_0_0.png
