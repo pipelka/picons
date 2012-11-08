@@ -6783,7 +6783,7 @@ ln -s viasatnature.png 1_0_1_178E_8_56_320000_0_0_0.png
 ln -s viasatnaturehd.png 1_0_1_15E3_C9A_3_EB0000_0_0_0.png
 
 # viasatsportbaltic
-viasatsportbaltic.png 1_0_1_17AC_8_56_320000_0_0_0.png
+ln -s viasatsportbaltic.png 1_0_1_17AC_8_56_320000_0_0_0.png
 
 # viasatxtra1
 ln -s viasatxtra.png 1_0_1_1F40_A_56_320000_0_0_0.png
