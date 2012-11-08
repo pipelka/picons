@@ -15,6 +15,9 @@ ln -s 1-2-3.tv.png 1_0_19_DD_14B4_9C_5A0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_C3BE_2711_F001_EB0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_DD_14B4_9C_5A0000_0_0_0.png
 
+# 1stbalticmusicchannel
+ln -s 1stbalticmusicchannel.png 1_0_1_1856_D_55_300000_0_0_0.png
+
 # 2be
 ln -s 2be.png 1_0_1_31E4_45F_35_C00000_0_0_0.png
 ln -s 2be.png 1_0_1_5278_C96_3_EB0000_0_0_0.png
@@ -1101,6 +1104,9 @@ ln -s challenger.png 1_0_1_1335_33F4_13E_820000_0_0_0.png
 ln -s chambertv.png 1_0_1_1464_C98_3_EB0000_0_0_0.png
 
 # channel1rus
+ln -s channel1rus.png 1_0_1_1838_D_55_300000_0_0_0.png
+ln -s channel1rus.png 1_0_1_1842_D_55_300000_0_0_0.png
+ln -s channel1rus.png 1_0_1_184C_D_55_300000_0_0_0.png
 
 # channel4
 ln -s channel4.png 1_0_1_23FB_7F9_2_11A0000_0_0_0.png
@@ -1276,6 +1282,7 @@ ln -s cnn.png 1_0_19_E0_14B4_9C_5A0000_0_0_0.png
 ln -s cnn.png 1_0_1_D16D_2715_F001_EB0000_0_0_0.png
 ln -s cnn.png 1_0_1_E0_14B4_9C_5A0000_0_0_0.png
 ln -s cnn.png 1_0_1_2BCB_1A90_FBFF_820000_0_0_0.png
+ln -s cnn.png 1_0_1_1B80_9_56_320000_0_0_0.png
 
 # colors
 ln -s colors.png 1_0_1_CD28_902_2_11A0000_0_0_0.png
@@ -1823,6 +1830,12 @@ ln -s docuboxhd.png 1_0_1_1529_C86_3_EB0000_0_0_0.png
 
 # dovetv
 ln -s dovetv.png 1_0_1_DCF_2DB4_FBFF_820000_0_0_0.png
+
+# dr1
+ln -s dr1.png 1_0_1_1B62_9_56_320000_0_0_0.png
+
+# dr2
+ln -s dr2.png 1_0_1_1B6C_9_56_320000_0_0_0.png
 
 # drdish
 ln -s drdish.png 1_0_1_49_5_85_C00000_0_0_0.png
@@ -3306,6 +3319,9 @@ ln -s leotv.png 1_0_1_333F_C89_3_EB0000_0_0_0.png
 ln -s loveworld.png 1_0_1_D3C3_A2B_2_11A0000_0_0_0.png
 ln -s loveworld.png 1_0_1_34BD_3C28_13E_820000_0_0_0.png
 
+# ltv7
+ln -s ltv7.png 1_0_1_1897_D_55_300000_0_0_0.png
+
 # m6
 ln -s m6.png 1_0_1_20AF_432_1_C00000_0_0_0.png
 ln -s m6.png 1_0_1_20B4_432_1_C00000_0_0_0.png
@@ -3583,6 +3599,8 @@ ln -s mtv.png 1_0_1_77F6_404_1_C00000_0_0_0.png
 ln -s mtv.png 1_0_1_2C83_251C_FBFF_820000_0_0_0.png
 ln -s mtv.png 1_0_1_4EF0_21FC_9C_5A0000_0_0_0.png
 ln -s mtv.png 1_0_16_51D3_C96_3_EB0000_0_0_0.png
+ln -s mtv.png 1_0_1_1B9E_9_56_320000_0_0_0.png
+ln -s mtv.png 1_0_1_1798_8_56_320000_0_0_0.png
 
 # mtvhd
 ln -s mtvhd.png 1_0_19_EF7_7E9_2_11A0000_0_0_0.png
@@ -3990,6 +4008,9 @@ ln -s n-tv.png 1_0_1_CE_1644_9C_5A0000_0_0_0.png
 ln -s ntvbangla.png 1_0_1_D335_A29_2_11A0000_0_0_0.png
 ln -s ntvbangla.png 1_0_1_D6E2_A33_2_11A0000_0_0_0.png
 
+# ntvmir
+ln -s ntvmir.png 1_0_1_187E_D_55_300000_0_0_0.png
+
 # nuvolari
 ln -s nuvolari.png 1_0_1_E30_16A8_FBFF_820000_0_0_0.png
 ln -s nuvolari.png 1_0_1_3426_2710_FBFF_820000_0_0_0.png
@@ -4357,6 +4378,7 @@ ln -s privatespice.png 1_0_1_1D57_2F44_13E_820000_0_0_0.png
 ln -s privatespice.png 1_0_1_1D7A_2F44_13E_820000_0_0_0.png
 ln -s privatespice.png 1_0_1_17B8_C82_3_EB0000_0_0_0.png
 ln -s privatespice.png 1_0_16_17B8_C82_3_EB0000_0_0_0.png
+ln -s privatespice.png 1_0_1_1784_8_56_320000_0_0_0.png
 
 # propellertv
 ln -s propellertv.png 1_0_1_D7E6_900_2_11A0000_0_0_0.png
@@ -4554,6 +4576,9 @@ ln -s regiotv.png 1_0_1_2F_21_85_C00000_0_0_0.png
 # renaulttv
 ln -s renaulttv.png 1_0_1_CBC2_8FE_2_11A0000_0_0_0.png
 ln -s renaulttv.png 1_0_1_1B5E_3FC_1_C00000_0_0_0.png
+
+# rentv
+ln -s rentv.png 1_0_1_1860_D_55_300000_0_0_0.png
 
 # rete4
 ln -s rete4.png 1_0_1_3_1770_110_820000_0_0_0.png
@@ -4932,6 +4957,9 @@ ln -s sixx.png 1_0_1_3332_45B_1_C00000_0_0_0.png
 # sixxhd
 ln -s sixxhd.png 1_0_19_EF77_3F9_1_C00000_0_0_0.png
 ln -s sixxhd.png 1_0_19_1A0_1964_9C_5A0000_0_0_0.png
+
+# sjuan
+ln -s sjuan.png 1_0_1_17C0_8_56_320000_0_0_0.png
 
 # skai
 ln -s skai.png 1_0_1_16A_1C84_13E_820000_0_0_0.png
@@ -5916,6 +5944,12 @@ ln -s supertennishd.png 1_0_1_4485_3264_13E_820000_0_0_0.png
 ln -s suprememaster.png 1_0_1_315A_459_1_C00000_0_0_0.png
 ln -s suprememaster.png 1_0_1_25C_3C8C_13E_820000_0_0_0.png
 
+# svt1
+ln -s svt1.png 1_0_1_A00_B_56_320000_0_0_0.png
+
+# svt2
+ln -s svt2.png 1_0_1_96A_B_56_320000_0_0_0.png
+
 # swr
 ln -s swr.png 1_0_1_6E47_431_1_C00000_0_0_0.png
 
@@ -6311,8 +6345,14 @@ ls -s tv2charlie.png 1_0_1_71C_1E_56_320000_0_0_0.png
 # tv2film
 ls -s tv2film.png 1_0_1_726_1E_56_320000_0_0_0.png
 
+# tv2filmkanalen
+ln -s tv2filmkanalen.png 1_0_1_177A_8_56_320000_0_0_0.png
+
 # tv2news
 ls -s tv2news.png 1_0_1_74E_1E_56_320000_0_0_0.png
+
+# tv2sportdk
+ln -s tv2sportdk.png 1_0_1_1B94_9_56_320000_0_0_0.png
 
 # tv2sportno
 ls -s tv2sportno.png 1_0_1_730_1E_56_320000_0_0_0.png
@@ -6347,6 +6387,9 @@ ls -s tv3puls.png 1_0_1_1FB8_A_56_320000_0_0_0.png
 # tv4
 ls -s tv4.png 1_0_1_1F9A_A_56_320000_0_0_0.png
 
+# tv4film
+ln -s tv4film.png 1_0_1_17CA_8_56_320000_0_0_0.png
+
 # tv5
 ln -s tv5.png 1_0_1_CD5F_902_2_11A0000_0_0_0.png
 
@@ -6366,10 +6409,17 @@ ln -s tv5mondeeurope.png 1_0_19_193_1964_9C_5A0000_0_0_0.png
 
 # tv8
 ln -s tv8.png 1_0_1_13D7_C8A_3_EB0000_0_0_0.png
+ln -s tv8.png 1_0_1_1B76_9_56_320000_0_0_0.png
 
 # tv8mtblanc
 ln -s tv8mtblanc.png 1_0_1_2F67_454_1_C00000_0_0_0.png
 ln -s tv8mtblanc.png 1_0_1_1F6_26AC_13F_820000_0_0_0.png
+
+# tv11
+ln -s tv11.png 1_0_1_1770_8_56_320000_0_0_0.png
+
+# tv1000russkoekino
+ln -s tv1000russkoekino.png 1_0_1_1BA8_9_56_320000_0_0_0.png
 
 # tvbarrandov
 ln -s tvbarrandov.png 1_0_1_13AB_C85_3_EB0000_0_0_0.png
@@ -6727,9 +6777,13 @@ ln -s viasatmotor.png 1_0_1_D66_15_56_320000_0_0_0.png
 # viasatnature
 ln -s viasatnature.png 1_0_1_1418_C8A_3_EB0000_0_0_0.png
 ln -s viasatnature.png 1_0_1_13DC_C8A_3_EB0000_0_0_0.png
+ln -s viasatnature.png 1_0_1_178E_8_56_320000_0_0_0.png
 
 # viasatnaturehd
 ln -s viasatnaturehd.png 1_0_1_15E3_C9A_3_EB0000_0_0_0.png
+
+# viasatsportbaltic
+viasatsportbaltic.png 1_0_1_17AC_8_56_320000_0_0_0.png
 
 # viasatxtra1
 ls -s viasatxtra.png 1_0_1_1F40_A_56_320000_0_0_0.png
