@@ -8091,7 +8091,7 @@ ln -s turkmax.png 1_0_1_565E_DD_270F_FFFF0000_0_0_0.png
 ln -s turkmax.png 1_0_1_D107_70_F001_FFFF0000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_1_56AE_E3_A018_FFFF0000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_1_620E_B5_270F_FFFF0000_0_0_0.png
-ln -s tv8.png 1_0_1_574A_EB_A018_FFFF0000_0_0_0.png
+ln -s tv8lithuania.png 1_0_1_574A_EB_A018_FFFF0000_0_0_0.png
 ln -s tvchile.png 1_0_1_573C_EA_A018_FFFF0000_0_0_0.png
 ln -s tve24horas.png 1_0_1_5A3E_E7_270F_FFFF0000_0_0_0.png
 ln -s tveinternacional.png 1_0_1_5A47_E7_270F_FFFF0000_0_0_0.png
