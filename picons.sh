@@ -3957,6 +3957,9 @@ ln -s nickelodeon.png 1_0_1_183A_1838_9E_5A0000_0_0_0.png
 ln -s nickelodeonplus1.png 1_0_1_2C31_251C_FBFF_820000_0_0_0.png
 ln -s nickelodeonplus1.png 1_0_1_2FF1_1D4C_FBFF_820000_0_0_0.png
 
+# nickelodeon_mtv
+ln -s nickelodeon_mtv.png 1_0_1_D7A_15_56_320000_0_0_0.png
+
 # nick_comedycentral
 ln -s nick_comedycentral.png 1_0_1_D5_14B4_9C_5A0000_0_0_0.png
 ln -s nick_comedycentral.png 1_0_1_3D_7_85_C00000_0_0_0.png
@@ -3966,9 +3969,6 @@ ln -s nick_comedycentral.png 1_0_1_CF0E_2717_F001_EB0000_0_0_0.png
 # nickhd_comedycentralhd
 ln -s nickhd_comedycentralhd.png 1_0_19_5273_41D_1_C00000_0_0_0.png
 ln -s nickhd_comedycentralhd.png 1_0_19_527D_41D_1_C00000_0_0_0.png
-
-# nick_mtv
-ln -s nick_mtv.png 1_0_1_D7A_15_56_320000_0_0_0.png
 
 # nickelodeonreplay
 ln -s nickelodeonreplay.png 1_0_1_15B9_804_2_11A0000_0_0_0.png
@@ -6435,16 +6435,12 @@ ln -s tv2zulu.png 1_0_1_712_1E_56_320000_0_0_0.png
 # tv3cat
 ln -s tv3cat.png 1_0_1_2757_402_1_C00000_0_0_0.png
 
-# tv3etonia
-ln -s tv3latvia.png 1_0_1_18BA_E_55_320000_0_0_0.png
-
 # tv3ireland
 ln -s tv3ireland.png 1_0_1_2585_7FB_2_11A0000_0_0_0.png
 
 # tv3latvia
 ln -s tv3latvia.png 1_0_1_189C_E_55_320000_0_0_0.png
-
-# tv3lithuania
+ln -s tv3latvia.png 1_0_1_18BA_E_55_320000_0_0_0.png
 ln -s tv3latvia.png 1_0_1_18C4_E_55_320000_0_0_0.png
 
 # tv3puls
@@ -6471,7 +6467,7 @@ ln -s tv4guld.png 1_0_1_13C4_7_56_320000_0_0_0.png
 # tv4news
 ln -s tv4news.png 1_0_1_E4C_16_56_320000_0_0_0.png
 
-# tv4sportxtrahd
+# tv4sportxtra
 ln -s tv4sportxtra.png 1_0_19_E42_16_56_320000_0_0_0.png
 
 # tv5
@@ -6491,11 +6487,9 @@ ln -s tv5mondeeurope.png 1_0_1_1B03_3FE_1_C00000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_1_1C9A_332C_13E_820000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_19_193_1964_9C_5A0000_0_0_0.png
 
-# tv8
-ln -s tv8.png 1_0_1_13D7_C8A_3_EB0000_0_0_0.png
-ln -s tv8.png 1_0_1_1B76_9_56_320000_0_0_0.png
-
-# tv8lithuania.png
+# tv8lithuania
+ln -s tv8lithuania.png 1_0_1_13D7_C8A_3_EB0000_0_0_0.png
+ln -s tv8lithuania.png 1_0_1_1B76_9_56_320000_0_0_0.png
 ln -s tv8lithuania.png 1_0_1_1AEA_12_55_320000_0_0_0.png
 
 # tv8mtblanc
@@ -6814,6 +6808,8 @@ ln -s viasat6.png 1_0_1_18BF_E_55_320000_0_0_0.png
 ln -s viasat6.png 1_0_1_18CE_E_55_320000_0_0_0.png
 ln -s viasat6.png 1_0_1_18D3_E_55_320000_0_0_0.png
 
+# viasatcrime
+
 # viasatfilm
 ln -s viasatfilm.png 1_0_1_474_3_56_320000_0_0_0.png
 
@@ -6892,8 +6888,8 @@ ln -s viasatnature.png 1_0_1_178E_8_56_320000_0_0_0.png
 # viasatnaturehd
 ln -s viasatnaturehd.png 1_0_1_15E3_C9A_3_EB0000_0_0_0.png
 
-# viasatnature_crime_playboy
-ln -s viasatnature_crime_playboy.png 1_0_1_83E_4_56_320000_0_0_0.png
+# viasatnature_viasatcrime_playboytv
+ln -s viasatnature_viasatcrime_playboytv.png 1_0_1_83E_4_56_320000_0_0_0.png
 
 # viasatsport
 ln -s viasatsport.png 1_0_1_D70_15_56_320000_0_0_0.png
