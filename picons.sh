@@ -6467,8 +6467,8 @@ ln -s tv4guld.png 1_0_1_13C4_7_56_320000_0_0_0.png
 # tv4news
 ln -s tv4news.png 1_0_1_E4C_16_56_320000_0_0_0.png
 
-# tv4sportxtra
-ln -s tv4sportxtra.png 1_0_19_E42_16_56_320000_0_0_0.png
+# tv4sportxtrahd
+ln -s tv4sportxtrahd.png 1_0_19_E42_16_56_320000_0_0_0.png
 
 # tv5
 ln -s tv5.png 1_0_1_CD5F_902_2_11A0000_0_0_0.png
@@ -6487,10 +6487,12 @@ ln -s tv5mondeeurope.png 1_0_1_1B03_3FE_1_C00000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_1_1C9A_332C_13E_820000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_19_193_1964_9C_5A0000_0_0_0.png
 
+# tv8sweden
+ln -s tv8sweden.png 1_0_1_1B76_9_56_320000_0_0_0.png
+ln -s tv8sweden.png 1_0_1_1AEA_12_55_320000_0_0_0.png
+
 # tv8lithuania
 ln -s tv8lithuania.png 1_0_1_13D7_C8A_3_EB0000_0_0_0.png
-ln -s tv8lithuania.png 1_0_1_1B76_9_56_320000_0_0_0.png
-ln -s tv8lithuania.png 1_0_1_1AEA_12_55_320000_0_0_0.png
 
 # tv8mtblanc
 ln -s tv8mtblanc.png 1_0_1_2F67_454_1_C00000_0_0_0.png
@@ -8091,7 +8093,7 @@ ln -s turkmax.png 1_0_1_565E_DD_270F_FFFF0000_0_0_0.png
 ln -s turkmax.png 1_0_1_D107_70_F001_FFFF0000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_1_56AE_E3_A018_FFFF0000_0_0_0.png
 ln -s tv5mondeeurope.png 1_0_1_620E_B5_270F_FFFF0000_0_0_0.png
-ln -s tv8lithuania.png 1_0_1_574A_EB_A018_FFFF0000_0_0_0.png
+ln -s tv8sweden.png 1_0_1_574A_EB_A018_FFFF0000_0_0_0.png
 ln -s tvchile.png 1_0_1_573C_EA_A018_FFFF0000_0_0_0.png
 ln -s tve24horas.png 1_0_1_5A3E_E7_270F_FFFF0000_0_0_0.png
 ln -s tveinternacional.png 1_0_1_5A47_E7_270F_FFFF0000_0_0_0.png
