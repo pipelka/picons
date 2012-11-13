@@ -1320,9 +1320,6 @@ ln -s clubrtl.png 1_0_1_1484_40D_1_C00000_0_0_0.png
 # cmoreaction
 ln -s cmoreaction.png 1_0_1_CEB_21_46_7120000_0_0_0.png
 
-# cmoreaitio
-ln -s cmoreaitio.png 1_0_1_196A_41_46_7120000_0_0_0.png
-
 # cmoreemotion
 ln -s cmoreemotion.png 1_0_1_135_3_46_7120000_0_0_0.png
 
@@ -1381,9 +1378,6 @@ ln -s cmoresporthd.png 1_0_19_57C_E_46_7120000_0_0_0.png
 
 # cmoretennis
 ln -s cmoretennis.png 1_0_1_CEC_21_46_7120000_0_0_0.png
-
-# cmoreurheilu
-ln -s cmoreurheilu.png 1_0_1_131_41_46_7120000_0_0_0.png
 
 # cnbc
 ln -s cnbc.png 1_0_1_CB8F_8FD_2_11A0000_0_0_0.png
@@ -3826,6 +3820,12 @@ ln -s mtv3leffa.png 1_0_1_132A_41_46_7120000_0_0_0.png
 
 # mtv3max
 ln -s mtv3max.png 1_0_1_1325_41_46_7120000_0_0_0.png
+
+# mtv3maxsport1
+ln -s mtv3maxsport1.png 1_0_1_131_41_46_7120000_0_0_0.png
+
+# mtv3maxsport2
+ln -s mtv3maxsport2.png 1_0_1_196A_41_46_7120000_0_0_0.png
 
 # mtv3sarja
 ln -s mtv3sarja.png 1_0_1_1328_41_46_7120000_0_0_0.png
@@ -8614,10 +8614,8 @@ ln -s 4pro1.png 1_0_1_C1_3001_20F6_EEEE0000_0_0_0.png
 ln -s 4pro2.png 1_0_1_91_3001_20F6_EEEE0000_0_0_0.png
 ln -s ava.png 1_0_1_9B_1001_20F6_EEEE0000_0_0_0.png
 ln -s bc-tv.png 1_0_1_441_3001_20F6_EEEE0000_0_0_0.png
-ln -s cmoreaitio.png 1_0_1_1D1_3001_20F6_EEEE0000_0_0_0.png
 ln -s cmorefirst.png 1_0_1_1A1_3001_20F6_EEEE0000_0_0_0.png
 ln -s cmoreseries.png 1_0_1_1B1_3001_20F6_EEEE0000_0_0_0.png
-ln -s cmoreurheilu.png 1_0_1_1C1_3001_20F6_EEEE0000_0_0_0.png
 ln -s digiviihde.png 1_0_1_451_3001_20F6_EEEE0000_0_0_0.png
 ln -s discovery.png 1_0_1_111_5001_20F6_EEEE0000_0_0_0.png
 ln -s disneychannel.png 1_0_1_191_3001_20F6_EEEE0000_0_0_0.png
@@ -8632,6 +8630,8 @@ ln -s mtv3.png 1_0_1_31_2001_20F6_EEEE0000_0_0_0.png
 ln -s mtv3fakta.png 1_0_1_E1_5001_20F6_EEEE0000_0_0_0.png
 ln -s mtv3juniori.png 1_0_1_101_2001_20F6_EEEE0000_0_0_0.png
 ln -s mtv3max.png 1_0_1_D1_2001_20F6_EEEE0000_0_0_0.png
+ln -s mtv3maxsport1.png 1_0_1_1C1_3001_20F6_EEEE0000_0_0_0.png
+ln -s mtv3maxsport2.png 1_0_1_1D1_3001_20F6_EEEE0000_0_0_0.png
 ln -s mtv3leffa.png 1_0_1_F1_2001_20F6_EEEE0000_0_0_0.png
 ln -s mtv.png 1_0_1_131_5001_20F6_EEEE0000_0_0_0.png
 ln -s nelonen.png 1_0_1_41_2001_20F6_EEEE0000_0_0_0.png
