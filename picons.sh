@@ -1323,10 +1323,10 @@ ln -s comedycentralhd.png 1_0_19_F10_7E4_2_11A0000_0_0_0.png
 
 # comedycentralhdplus1
 
-# comedycentral_kindernet
-ln -s comedycentral_kindernet.png 1_0_1_7F4_449_35_C00000_0_0_0.png
-ln -s comedycentral_kindernet.png 1_0_1_1397_455_35_C00000_0_0_0.png
-ln -s comedycentral_kindernet.png 1_0_16_515A_C8B_3_EB0000_0_0_0.png
+# comedycentral_nickelodeonkindernet
+ln -s comedycentral_nickelodeonkindernet.png 1_0_1_7F4_449_35_C00000_0_0_0.png
+ln -s comedycentral_nickelodeonkindernet.png 1_0_1_1397_455_35_C00000_0_0_0.png
+ln -s comedycentral_nickelodeonkindernet.png 1_0_16_515A_C8B_3_EB0000_0_0_0.png
 
 # communitychannel
 ln -s communitychannel.png 1_0_1_16AA_7EB_2_11A0000_0_0_0.png
@@ -3974,6 +3974,8 @@ ln -s nickhd_comedycentralhd.png 1_0_19_527D_41D_1_C00000_0_0_0.png
 ln -s nickelodeonreplay.png 1_0_1_15B9_804_2_11A0000_0_0_0.png
 ln -s nickelodeonreplay.png 1_0_1_15B9_7D3_2_5A2DE3_0_0_0.png
 ln -s nickelodeonreplay.png 1_0_1_15B9_7D3_2_11A0000_0_0_0.png
+
+# nickelodeonkindernet
 
 # nickhd
 ln -s nickhd.png 1_0_19_F1D_7E4_2_11A0000_0_0_0.png
@@ -7240,7 +7242,7 @@ ln -s animalplanet_tlc.png 1_0_1_19F_4_F3C_FFFF0000_0_0_0.png
 ln -s ned1hd.png 1_0_19_238D_9_F3C_FFFF0000_0_0_0.png
 ln -s ned2hd.png 1_0_19_238E_9_F3C_FFFF0000_0_0_0.png
 ln -s ned3hd.png 1_0_19_2777_A_F3C_FFFF0000_0_0_0.png
-ln -s comedycentral_kindernet.png 1_0_1_1A4_4_F3C_FFFF0000_0_0_0.png
+ln -s comedycentral_nickelodeonkindernet.png 1_0_1_1A4_4_F3C_FFFF0000_0_0_0.png
 ln -s rtvutrecht.png 1_0_1_2E2_7_F3C_FFFF0000_0_0_0.png
 ln -s ketnetop12.png 1_0_1_2725_A_F3C_FFFF0000_0_0_0.png
 ln -s tvoost.png 1_0_1_416_A_F3C_FFFF0000_0_0_0.png
@@ -7264,7 +7266,7 @@ ln -s rtl7hd.png 1_0_19_CF_20_3E8_FFFF0000_0_0_0.png
 ln -s veronicahd_disneyxdhd.png 1_0_19_8A0_20_3E8_FFFF0000_0_0_0.png
 ln -s net5hd.png 1_0_19_D1_19_3E8_FFFF0000_0_0_0.png
 ln -s rtl8hd.png 1_0_19_D2_19_3E8_FFFF0000_0_0_0.png
-ln -s comedycentral_kindernet.png 1_0_19_F0_12_3E8_FFFF0000_0_0_0.png
+ln -s comedycentral_nickelodeonkindernet.png 1_0_19_F0_12_3E8_FFFF0000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_10_6_3E8_FFFF0000_0_0_0.png
 ln -s disneychannel.png 1_0_1_D5_1F_3E8_FFFF0000_0_0_0.png
 ln -s discoveryhdshowcase.png 1_0_19_EF_13_3E8_FFFF0000_0_0_0.png
@@ -7374,7 +7376,7 @@ ln -s rtl8.png 1_0_1_3AA2_F_3E8_FFFF0000_0_0_0.png
 ln -s eurosport.png 1_0_1_11_6_3E8_FFFF0000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_FA9_4_3E8_FFFF0000_0_0_0.png
 ln -s foxlife.png 1_0_1_C4_5_3E8_FFFF0000_0_0_0.png
-ln -s comedycentral_kindernet.png 1_0_1_14_6_3E8_FFFF0000_0_0_0.png
+ln -s comedycentral_nickelodeonkindernet.png 1_0_1_14_6_3E8_FFFF0000_0_0_0.png
 ln -s een.png 1_0_1_16_3_3E8_FFFF0000_0_0_0.png
 ln -s canvas.png 1_0_1_17_3_3E8_FFFF0000_0_0_0.png
 ln -s discovery.png 1_0_1_FA8_4_3E8_FFFF0000_0_0_0.png
@@ -7402,7 +7404,7 @@ ln -s rtl7hd.png 1_0_19_CF_3_1F4_FFFF0000_0_0_0.png
 ln -s veronicahd_disneyxdhd.png 1_0_19_D0_5_1F4_FFFF0000_0_0_0.png
 ln -s net5hd.png 1_0_19_36B1_E_1F4_FFFF0000_0_0_0.png
 ln -s rtl8hd.png 1_0_19_D2_11_1F4_FFFF0000_0_0_0.png
-ln -s comedycentral_kindernet.png 1_0_19_F0_B_1F4_FFFF0000_0_0_0.png
+ln -s comedycentral_nickelodeonkindernet.png 1_0_19_F0_B_1F4_FFFF0000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_1B6D_7_1F4_FFFF0000_0_0_0.png
 ln -s disneychannel.png 1_0_1_D5_9_1F4_FFFF0000_0_0_0.png
 ln -s discoveryhdshowcase.png 1_0_19_EF_16_1F4_FFFF0000_0_0_0.png
@@ -7513,7 +7515,7 @@ ln -s rtl8.png 1_0_1_1774_6_1F4_FFFF0000_0_0_0.png
 ln -s eurosport.png 1_0_1_2EE7_C_1F4_FFFF0000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_7D3_2_1F4_FFFF0000_0_0_0.png
 ln -s foxlife.png 1_0_1_C4_F_1F4_FFFF0000_0_0_0.png
-ln -s comedycentral_kindernet.png 1_0_1_1775_6_1F4_FFFF0000_0_0_0.png
+ln -s comedycentral_nickelodeonkindernet.png 1_0_1_1775_6_1F4_FFFF0000_0_0_0.png
 ln -s een.png 1_0_1_1773_6_1F4_FFFF0000_0_0_0.png
 ln -s canvas.png 1_0_1_3A9E_F_1F4_FFFF0000_0_0_0.png
 ln -s discovery.png 1_0_1_2EE4_C_1F4_FFFF0000_0_0_0.png
