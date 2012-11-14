@@ -4290,6 +4290,8 @@ ln -s penthousehd1.png 1_0_1_425_5_AA_5A0000_0_0_0.png
 ln -s penthousehd2.png 1_0_1_15E2_C9A_3_EB0000_0_0_0.png
 ln -s penthousehd2.png 1_0_19_1E_1A2C_1_5A2F16_0_0_0.png
 
+# penthousetv
+
 # phoenix
 ln -s phoenix.png 1_0_1_7035_41B_1_C00000_0_0_0.png
 
@@ -7582,14 +7584,13 @@ ln -s bbcentertainment.png 1_0_1_CF6D_2714_F001_FFFF0000_0_0_0.png
 ln -s bbcparliament.png 1_0_1_571D_E9_A018_FFFF0000_0_0_0.png
 ln -s bbcworldnews.png 1_0_1_2B61_79_270F_FFFF0000_0_0_0.png
 ln -s bbcworldnews.png 1_0_1_5693_E2_A018_FFFF0000_0_0_0.png
-ln -s beateuhsetv.png 1_0_2_15_1_85_FFFF0000_0_0_0.png
+ln -s beateuhsetv.png 1_0_1_15_1_85_FFFF0000_0_0_0.png
 ln -s bibeltv.png 1_0_1_3B06_97_270F_FFFF0000_0_0_0.png
 ln -s bibeltv.png 1_0_1_5605_D9_A018_FFFF0000_0_0_0.png
 ln -s bio.png 1_0_1_6210_6F_270F_FFFF0000_0_0_0.png
 ln -s bio.png 1_0_1_C619_2712_F001_FFFF0000_0_0_0.png
 ln -s bloomberg.png 1_0_1_5692_E2_A018_FFFF0000_0_0_0.png
 ln -s bloomberg.png 1_0_1_5E2E_F1_270F_FFFF0000_0_0_0.png
-ln -s bluehustler.png 1_0_1_3B05_97_270F_FFFF0000_0_0_0.png
 ln -s bluehustler.png 1_0_1_562C_DB_A018_FFFF0000_0_0_0.png
 ln -s bluemovie.png 1_0_1_201_4_85_FFFF0000_0_0_0.png
 ln -s bluemovie1.png 1_0_1_159_2_85_FFFF0000_0_0_0.png
@@ -7636,6 +7637,7 @@ ln -s dasvierte.png 1_0_1_55F7_D8_A018_FFFF0000_0_0_0.png
 ln -s deluxeloungehd.png 1_0_19_563B_DB_A018_FFFF0000_0_0_0.png
 ln -s deluxeloungehd.png 1_0_1_759B_12D_270F_FFFF0000_0_0_0.png
 ln -s deluxemusic.png 1_0_1_561F_DA_A018_FFFF0000_0_0_0.png
+ln -s deluxemusic.png 1_0_1_69DE_AB_270F_FFFF0000_0_0_0.png
 ln -s detskijmir.png 1_0_1_5656_DD_270F_FFFF0000_0_0_0.png
 ln -s detskijmir.png 1_0_1_D0FF_2711_F001_FFFF0000_0_0_0.png
 ln -s deutscheswetterfernsehen.png 1_0_1_4AAA_6F_270F_FFFF0000_0_0_0.png
@@ -7839,6 +7841,7 @@ ln -s ntvavrupa.png 1_0_1_71B3_10F_270F_FFFF0000_0_0_0.png
 ln -s ocko.png 1_0_1_5754_EB_A018_FFFF0000_0_0_0.png
 ln -s orf2.png 1_0_1_56FA_E7_A018_FFFF0000_0_0_0.png
 ln -s pcne.png 1_0_1_574D_EB_A018_FFFF0000_0_0_0.png
+ln -s penthousetv.png 1_0_1_3B05_97_270F_FFFF0000_0_0_0.png
 ln -s penthousehd.png 1_0_19_5697_E2_A018_FFFF0000_0_0_0.png
 ln -s phoenix.png 1_0_1_7035_41B_A401_FFFF0000_0_0_0.png
 ln -s pinkextra.png 1_0_1_5655_DD_A018_FFFF0000_0_0_0.png
@@ -8080,7 +8083,7 @@ ln -s tvromaniainternational.png 1_0_1_5767_EC_A018_FFFF0000_0_0_0.png
 ln -s tvsilesia.png 1_0_1_5610_D9_A018_FFFF0000_0_0_0.png
 ln -s tvsilesia.png 1_0_1_759D_12D_270F_FFFF0000_0_0_0.png
 ln -s unitelclassica.png 1_0_1_620F_F1_270F_FFFF0000_0_0_0.png
-ln -s unitelclassica.png 1_0_2_18_1_85_FFFF0000_0_0_0.png
+ln -s unitelclassica.png 1_0_1_18_1_85_FFFF0000_0_0_0.png
 ln -s unitelclassicahd.png 1_0_19_56B0_E3_A018_FFFF0000_0_0_0.png
 ln -s unitelclassicahd.png 1_0_19_759C_12D_270F_FFFF0000_0_0_0.png
 ln -s unitymediakabelbwinfokanal.png 1_0_1_5622_DA_A018_FFFF0000_0_0_0.png
