@@ -6581,8 +6581,6 @@ ln -s tmc.png 1_0_1_136_3E1C_13F_820000_0_0_0.png
 ln -s tnt.png 1_0_1_77C9_40A_1_C00000_0_0_0.png
 ln -s tnt.png 1_0_19_1D55_2134_6B2_5A0000_0_0_0.png
 ln -s tnt.png 1_0_1_77BD_40A_1_C00000_0_0_0.png
-ln -s tnt.png 1_0_1_D4A_2_46_7120000_0_0_0.png
-ln -s tnt.png 1_0_1_D4A_42_46_7120000_0_0_0.png
 
 # tnthd
 ln -s tnthd.png 1_0_19_7883_414_1_C00000_0_0_0.png
@@ -6599,6 +6597,10 @@ ln -s tntfilm.png 1_0_1_23_F_85_C00000_0_0_0.png
 
 # tntfilmhd
 ln -s tntfilmhd.png 1_0_19_C352_271D_F001_EB0000_0_0_0.png
+
+# tntnordic
+ln -s tntnordic.png 1_0_1_D4A_2_46_7120000_0_0_0.png
+ln -s tntnordic.png 1_0_1_D4A_42_46_7120000_0_0_0.png
 
 # tntserie
 ln -s tntserie.png 1_0_19_C47F_2715_F001_EB0000_0_0_0.png
