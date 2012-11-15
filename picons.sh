@@ -2814,14 +2814,12 @@ ln -s girondinstv.png 1_0_1_1908_3FA_1_C00000_0_0_0.png
 # glorytv
 ln -s glorytv.png 1_0_1_D39A_A2A_2_11A0000_0_0_0.png
 
-# godeurope
-ln -s godeurope.png 1_0_1_C75B_96B_2_11A0000_0_0_0.png
-ln -s godeurope.png 1_0_1_306_7_85_C00000_0_0_0.png
-ln -s godeurope.png 1_0_1_F_300C_13E_820000_0_0_0.png
-ln -s godeurope.png 1_0_1_2988_3D54_13E_820000_0_0_0.png
-
-# godtvscandinavia
-ln -s godtvscandinavia.png 1_0_1_FDC_6_56_300000_0_0_0.png
+# godtv
+ln -s godtv.png 1_0_1_C75B_96B_2_11A0000_0_0_0.png
+ln -s godtv.png 1_0_1_306_7_85_C00000_0_0_0.png
+ln -s godtv.png 1_0_1_F_300C_13E_820000_0_0_0.png
+ln -s godtv.png 1_0_1_2988_3D54_13E_820000_0_0_0.png
+ln -s godtv.png 1_0_1_FDC_6_56_300000_0_0_0.png
 
 # gospelchannel
 ln -s gospelchannel.png 1_0_1_CBBE_8FE_2_11A0000_0_0_0.png
@@ -4215,6 +4213,8 @@ ln -s nickelodeon.png 1_0_1_3EA_5_1111_7120000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_CE_A_46_7120000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_401_A_46_7120000_0_0_0.png
 
+# nickelodeonhd
+
 # nickelodeonplus1
 ln -s nickelodeonplus1.png 1_0_1_2C31_251C_FBFF_820000_0_0_0.png
 ln -s nickelodeonplus1.png 1_0_1_2FF1_1D4C_FBFF_820000_0_0_0.png
@@ -4246,6 +4246,8 @@ ln -s nickelodeonreplay.png 1_0_1_15B9_7D3_2_5A2DE3_0_0_0.png
 ln -s nickelodeonreplay.png 1_0_1_15B9_7D3_2_11A0000_0_0_0.png
 
 # nickelodeonkindernet
+
+# nick
 
 # nickhd
 ln -s nickhd.png 1_0_19_F1D_7E4_2_11A0000_0_0_0.png
@@ -8136,7 +8138,7 @@ ln -s franceo.png 1_0_1_5748_EB_A018_FFFF0000_0_0_0.png
 ln -s glitzde.png 1_0_1_5608_D9_A018_FFFF0000_0_0_0.png
 ln -s glitzde.png 1_0_1_6606_105_270F_FFFF0000_0_0_0.png
 ln -s glitzhdde.png 1_0_19_94D6_17D_270F_FFFF0000_0_0_0.png
-ln -s godeurope.png 1_0_1_69E4_10F_270F_FFFF0000_0_0_0.png
+ln -s godtv.png 1_0_1_69E4_10F_270F_FFFF0000_0_0_0.png
 ln -s goldstartv.png 1_0_1_206_1_85_FFFF0000_0_0_0.png
 ln -s gotv.png 1_0_1_5737_EA_A018_FFFF0000_0_0_0.png
 ln -s gutelaunetv.png 1_0_1_3337_83_270F_FFFF0000_0_0_0.png
