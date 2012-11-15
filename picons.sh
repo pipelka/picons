@@ -7163,6 +7163,7 @@ ln -s viasat3d.png 1_0_19_AB4_23_56_300000_0_0_0.png
 
 # viasat4
 ln -s viasat4.png 1_0_1_870_4_56_300000_0_0_0.png
+ln -s viasat4.png 1_0_1_9D2_19_46_7120000_0_0_0.png
 
 # viasat6
 ln -s viasat6.png 1_0_1_18BF_E_55_300000_0_0_0.png
@@ -7224,9 +7225,6 @@ ln -s viasatgolf.png 1_0_1_744_1E_56_300000_0_0_0.png
 
 # viasatgolfhd
 ln -s viasatgolfhd.png 1_0_19_AAA_23_56_300000_0_0_0.png
-
-# viasat4
-ln -s viasat4.png 1_0_1_9D2_19_46_7120000_0_0_0.png
 
 # viasathistory
 ln -s viasathistory.png 1_0_1_2330_C8F_3_EB0000_0_0_0.png
