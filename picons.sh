@@ -1389,6 +1389,9 @@ ln -s cnbc.png 1_0_1_1405_5DC_13E_820000_0_0_0.png
 ln -s cnbc.png 1_0_1_E1_14B4_9C_5A0000_0_0_0.png
 ln -s cnbc.png 1_0_1_43D_4_AA_5A0000_0_0_0.png
 
+# cnbceurope
+ln -s cnbceurope.png 1_0_1_1054_6_56_300000_0_0_0.png
+
 # cnn
 ln -s cnn.png 1_0_1_1BE4_7E2_2_11A0000_0_0_0.png
 ln -s cnn.png 1_0_19_D16D_2715_F001_EB0000_0_0_0.png
@@ -1806,6 +1809,7 @@ ln -s disneychannel.png 1_0_19_17B1_C82_3_EB0000_0_0_0.png
 ln -s disneychannel.png 1_0_16_17B1_C82_3_EB0000_0_0_0.png
 ln -s disneychannel.png 1_0_1_114E_18_56_300000_0_0_0.png
 ln -s disneychannel.png 1_0_1_1158_18_56_300000_0_0_0.png
+ln -s disneychannel.png 1_0_1_C6C_5_56_300000_0_0_0.png
 ln -s disneychannel.png 1_0_1_C86_3E_46_7120000_0_0_0.png
 ln -s disneychannel.png 1_0_1_3F9_1_1_7120000_0_0_0.png
 
@@ -1906,6 +1910,7 @@ ln -s disneyxd.png 1_0_1_DBA_2D50_13E_820000_0_0_0.png
 ln -s disneyxd.png 1_0_1_1A94_7E5_2_11A0000_0_0_0.png
 ln -s disneyxd.png 1_0_1_2333_803_2_11A0000_0_0_0.png
 ln -s disneyxd.png 1_0_1_1180_18_56_300000_0_0_0.png
+ln -s disneyxd.png 1_0_1_C76_5_56_300000_0_0_0.png
 ln -s disneyxd.png 1_0_1_C87_3E_46_7120000_0_0_0.png
 ln -s disneyxd.png 1_0_1_CD0_A_1_7120000_0_0_0.png
 
@@ -2081,6 +2086,7 @@ ln -s eentertainment.png 1_0_1_E38_1E14_9E_5A0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_6D8_1388_9C_5A0000_0_0_0.png
 ln -s eentertainment.png 1_0_19_FBC_807_2_11A0000_0_0_0.png
 ln -s eentertainment.png 1_0_1_4462_1F40_13E_820000_0_0_0.png
+ln -s eentertainment.png 1_0_1_C1C_5_56_300000_0_0_0.png
 
 # einsextra
 ln -s einsextra.png 1_0_1_7031_0_0_EBB18C_0_0_0.png
@@ -2268,6 +2274,7 @@ ln -s euronews.png 1_0_1_CFE1_70_F001_EB0000_0_0_0.png
 ln -s euronews.png 1_0_1_CFE2_70_F001_EB0000_0_0_0.png
 ln -s euronews.png 1_0_1_D7F0_900_2_11A0000_0_0_0.png
 ln -s euronews.png 1_0_1_438_2_AA_5A0000_0_0_0.png
+ln -s euronews.png 1_0_1_FB4_6_56_300000_0_0_0.png
 
 # eurosport
 ln -s eurosport.png 1_0_1_1797_7EE_2_11A0000_0_0_0.png
@@ -2813,6 +2820,9 @@ ln -s godeurope.png 1_0_1_306_7_85_C00000_0_0_0.png
 ln -s godeurope.png 1_0_1_F_300C_13E_820000_0_0_0.png
 ln -s godeurope.png 1_0_1_2988_3D54_13E_820000_0_0_0.png
 
+# godtvscandinavia
+ln -s godtvscandinavia.png 1_0_1_FDC_6_56_300000_0_0_0.png
+
 # gospelchannel
 ln -s gospelchannel.png 1_0_1_CBBE_8FE_2_11A0000_0_0_0.png
 ln -s gospelchannel.png 1_0_1_D6D9_A33_2_11A0000_0_0_0.png
@@ -3323,9 +3333,6 @@ ln -s kabeleinshd.png 1_0_19_EF76_3F9_1_C00000_0_0_0.png
 ln -s kabeleinshd.png 1_0_19_131_1EDC_9C_5A0000_0_0_0.png
 ln -s kabeleinshd.png 1_0_19_14B6_407_1_C00000_0_0_0.png
 
-# kanal10norge
-ln -s kanal10norge.png 1_0_1_17D5_20_46_7120000_0_0_0.png
-
 # kanal4dk
 ln -s kanal4dk.png 1_0_1_C8A_20_46_7120000_0_0_0.png
 
@@ -3334,6 +3341,12 @@ ln -s kanal5hd.png 1_0_19_100B_43_46_7120000_0_0_0.png
 ln -s kanal5hd.png 1_0_19_B6C_43_46_7120000_0_0_0.png
 ln -s kanal5hd.png 1_0_19_1A92_43_46_7120000_0_0_0.png
 ln -s kanal5hd.png 1_0_19_1A91_43_46_7120000_0_0_0.png
+
+# kanal10norge
+ln -s kanal10norge.png 1_0_1_17D5_20_46_7120000_0_0_0.png
+
+# kanal10sverige
+ln -s kanal10sverige.png 1_0_1_FD2_6_56_300000_0_0_0.png
 
 # kanaalz
 
@@ -4131,6 +4144,7 @@ ln -s nationalgeographic.png 1_0_1_13DD_C8A_3_EB0000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_12C5_968_2_11A0000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_E6A_16_56_300000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_E38_16_56_300000_0_0_0.png
+ln -s nationalgeographic.png 1_0_1_C62_5_56_300000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_60D_47_46_7120000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_C9_2_46_7120000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_407_3_1_7120000_0_0_0.png
@@ -4176,6 +4190,7 @@ ln -s nationalgeographicplus1.png 1_0_1_12C6_968_2_11A0000_0_0_0.png
 ln -s nhkworld.png 1_0_1_C7A4_96C_2_11A0000_0_0_0.png
 ln -s nhkworld.png 1_0_1_1B66_3FC_1_C00000_0_0_0.png
 ln -s nhkworld.png 1_0_1_1C9F_332C_13E_820000_0_0_0.png
+ln -s nhkworld.png 1_0_1_FC8_6_56_300000_0_0_0.png
 
 # nhkworldhd
 ln -s nhkworldhd.png 1_0_1_CF9B_908_2_11A0000_0_0_0.png
@@ -4203,6 +4218,9 @@ ln -s nickelodeon.png 1_0_1_401_A_46_7120000_0_0_0.png
 # nickelodeonplus1
 ln -s nickelodeonplus1.png 1_0_1_2C31_251C_FBFF_820000_0_0_0.png
 ln -s nickelodeonplus1.png 1_0_1_2FF1_1D4C_FBFF_820000_0_0_0.png
+
+# nickelodeon_comedycentral
+ln -s nickelodeon_comedycentral.png 1_0_1_C58_5_56_300000_0_0_0.png
 
 # nickelodeon_mtv
 ln -s nickelodeon_mtv.png 1_0_1_D7A_15_56_300000_0_0_0.png
@@ -4304,13 +4322,32 @@ ln -s nrk1.png 1_0_1_5F1_23_46_7120000_0_0_0.png
 ln -s nrk1.png 1_0_1_DAE_23_46_7120000_0_0_0.png
 ln -s nrk1.png 1_0_1_DB5_23_46_7120000_0_0_0.png
 ln -s nrk1.png 1_0_1_7DE_14_46_7120000_0_0_0.png
+ln -s nrk1.png 1_0_1_5DD_1C_56_300000_0_0_0.png
+ln -s nrk1.png 1_0_1_5F1_1C_56_300000_0_0_0.png
+ln -s nrk1.png 1_0_1_DAE_1C_56_300000_0_0_0.png
+ln -s nrk1.png 1_0_1_DAF_1C_56_300000_0_0_0.png
+ln -s nrk1.png 1_0_1_DB0_1C_56_300000_0_0_0.png
+ln -s nrk1.png 1_0_1_DB1_1C_56_300000_0_0_0.png
+ln -s nrk1.png 1_0_1_DB2_1C_56_300000_0_0_0.png
+ln -s nrk1.png 1_0_1_DB3_1C_56_300000_0_0_0.png
+ln -s nrk1.png 1_0_1_5F0_1C_56_300000_0_0_0.png
+ln -s nrk1.png 1_0_1_DB4_1C_56_300000_0_0_0.png
+ln -s nrk1.png 1_0_1_DB5_1C_56_300000_0_0_0.png
 
 # nrk1hd
 ln -s nrk1hd.png 1_0_1_DBB_23_46_7120000_0_0_0.png
 ln -s nrk1hd.png 1_0_19_DBB_23_46_7120000_0_0_0.png
+ln -s nrk1hd.png 1_0_19_DBB_1C_56_300000_0_0_0.png
 
 # nrk2
 ln -s nrk2.png 1_0_1_5DE_23_46_7120000_0_0_0.png
+ln -s nrk2.png 1_0_1_5DE_1C_56_300000_0_0_0.png
+
+# nrksuper_nrk3
+ln -s nrksuper_nrk3.png 1_0_1_DB6_1C_56_300000_0_0_0.png
+
+# nrktegnsprak
+ln -s nrktegnsprak.png 1_0_1_5EC_1C_56_300000_0_0_0.png
 
 # nt1
 ln -s nt1.png 1_0_1_4290_446_1_C00000_0_0_0.png
@@ -5120,6 +5157,7 @@ ln -s russiatoday.png 1_0_1_CF7F_2718_F001_EB0000_0_0_0.png
 ln -s russiatoday.png 1_0_1_DB_14B4_9C_5A0000_0_0_0.png
 ln -s russiatoday.png 1_0_1_43E_2_AA_5A0000_0_0_0.png
 ln -s russiatoday.png 1_0_1_7A46_410_1_C00000_0_0_0.png
+ln -s russiatoday.png 1_0_1_FF0_6_56_300000_0_0_0.png
 
 # s4c
 ln -s s4c.png 1_0_1_1C85_7E6_2_11A0000_0_0_0.png
@@ -6601,6 +6639,7 @@ ln -s tntfilmhd.png 1_0_19_C352_271D_F001_EB0000_0_0_0.png
 # tntnordic
 ln -s tntnordic.png 1_0_1_D4A_2_46_7120000_0_0_0.png
 ln -s tntnordic.png 1_0_1_D4A_42_46_7120000_0_0_0.png
+ln -s tntnordic.png 1_0_1_FFA_6_56_300000_0_0_0.png
 
 # tntserie
 ln -s tntserie.png 1_0_19_C47F_2715_F001_EB0000_0_0_0.png
@@ -6873,6 +6912,7 @@ ln -s tvbreizh.png 1_0_1_446F_3264_13E_820000_0_0_0.png
 # tvcanaria
 
 # tvchile
+ln -s tvchile.png 1_0_1_FA0_6_56_300000_0_0_0.png
 
 # tvdisco
 ln -s tvdisco.png 1_0_1_2982_3D54_13E_820000_0_0_0.png
@@ -7308,6 +7348,7 @@ ln -s vintagetv.png 1_0_1_D3CE_A2B_2_11A0000_0_0_0.png
 
 # visjonnorge
 ln -s visjonnorge.png 1_0_1_711_20_46_7120000_0_0_0.png
+ln -s visjonnorge.png 1_0_1_FAA_6_56_300000_0_0_0.png
 
 # vitaya
 ln -s vitaya.png 1_0_1_31E9_45F_35_C00000_0_0_0.png
