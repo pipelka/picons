@@ -2740,6 +2740,8 @@ ln -s hbo3.png 1_0_1_17B4_C82_3_EB0000_0_0_0.png
 ln -s hbo3.png 1_0_19_17B4_C82_3_EB0000_0_0_0.png
 ln -s hbo3.png 1_0_16_17B4_C82_3_EB0000_0_0_0.png
 
+# hbo3hd
+
 # hbo2hd
 ln -s hbo2hd.png 1_0_1_E09_2D50_13E_820000_0_0_0.png
 
