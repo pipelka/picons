@@ -6828,8 +6828,10 @@ ln -s tv2sportpremierleague.png 1_0_19_1905_44_46_7120000_0_0_0.png
 # tv2zulu
 ln -s tv2zulu.png 1_0_1_712_1E_56_300000_0_0_0.png
 
-# tv3cat
-ln -s tv3cat.png 1_0_1_2757_402_1_C00000_0_0_0.png
+# tv3catalunya
+ln -s tv3catalunya.png 1_0_1_2757_402_1_C00000_0_0_0.png
+
+# tv3hdcatalunya
 
 # tv3hdnorge
 
