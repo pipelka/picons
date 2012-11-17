@@ -4334,7 +4334,6 @@ ln -s nrjhits.png 1_0_1_1906_3FA_1_C00000_0_0_0.png
 
 # nrk1
 ln -s nrk1.png 1_0_1_5DD_23_46_7120000_0_0_0.png
-ln -s nrk1.png 1_0_1_5EC_23_46_7120000_0_0_0.png
 ln -s nrk1.png 1_0_1_DB4_23_46_7120000_0_0_0.png
 ln -s nrk1.png 1_0_1_5F0_23_46_7120000_0_0_0.png
 ln -s nrk1.png 1_0_1_DB3_23_46_7120000_0_0_0.png
@@ -4372,6 +4371,7 @@ ln -s nrksuper_nrk3.png 1_0_1_DB6_1C_56_300000_0_0_0.png
 
 # nrktegnsprak
 ln -s nrktegnsprak.png 1_0_1_5EC_1C_56_300000_0_0_0.png
+ln -s nrktegnsprak.png 1_0_1_5EC_23_46_7120000_0_0_0.png
 
 # nt1
 ln -s nt1.png 1_0_1_4290_446_1_C00000_0_0_0.png
