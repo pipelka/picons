@@ -6902,8 +6902,6 @@ ln -s tv4sportxtrahd.png 1_0_19_E42_16_56_300000_0_0_0.png
 # tv5
 ln -s tv5.png 1_0_1_CD5F_902_2_11A0000_0_0_0.png
 
-# tv5fi
-
 # tv5monde
 ln -s tv5monde.png 1_0_1_1901_3FA_1_C00000_0_0_0.png
 ln -s tv5monde.png 1_0_1_1C99_332C_13E_820000_0_0_0.png
@@ -8759,7 +8757,7 @@ ln -s mtv.png 1_0_1_131_5001_20F6_EEEE0000_0_0_0.png
 ln -s nelonen.png 1_0_1_41_2001_20F6_EEEE0000_0_0_0.png
 ln -s nickelodeon.png 1_0_1_151_5001_20F6_EEEE0000_0_0_0.png
 ln -s sub.png 1_0_1_61_2001_20F6_EEEE0000_0_0_0.png
-ln -s tv5fi.png 1_0_1_A1_3001_20F6_EEEE0000_0_0_0.png
+ln -s kanal5.png 1_0_1_A1_3001_20F6_EEEE0000_0_0_0.png
 ln -s urhotv.png 1_0_1_1E1_2001_20F6_EEEE0000_0_0_0.png
 ln -s ylefem.png 1_0_1_51_1001_20F6_EEEE0000_0_0_0.png
 ln -s yleteema.png 1_0_1_71_1001_20F6_EEEE0000_0_0_0.png
