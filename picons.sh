@@ -3356,7 +3356,7 @@ ln -s kanal5hd.png 1_0_19_B6C_43_46_7120000_0_0_0.png
 ln -s kanal5hd.png 1_0_19_1A92_43_46_7120000_0_0_0.png
 ln -s kanal5hd.png 1_0_19_1A91_43_46_7120000_0_0_0.png
 
-# kanal5hdse.png
+# kanal5hdse
 ln -s kanal5hdse.png 1_0_19_5AA_20_56_300000_0_0_0.png
 
 # kanal10norge
