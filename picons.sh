@@ -7365,7 +7365,7 @@ ln -s viasat4.png 1_0_1_870_4_56_300000_0_0_0.png
 ln -s viasat4.png 1_0_1_9D2_19_46_7120000_0_0_0.png
 
 # viasat4hd
-ln -ls viasat4hd.png 1_0_19_A46_22_56_300000_0_0_0.png
+ln -s viasat4hd.png 1_0_19_A46_22_56_300000_0_0_0.png
 
 # viasat6
 ln -s viasat6.png 1_0_1_18BF_E_55_300000_0_0_0.png
