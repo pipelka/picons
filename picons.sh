@@ -4378,6 +4378,14 @@ ln -s nrk2.png 1_0_1_5DE_1C_56_300000_0_0_0.png
 # nrk2hd
 ln -s nrk2hd.png 1_0_19_582_20_56_300000_0_0_0.png
 
+# nrk3
+
+# nrk3hd
+
+# nrksuper
+
+# nrksuperhd
+
 # nrksuper_nrk3
 ln -s nrksuper_nrk3.png 1_0_1_DB6_1C_56_300000_0_0_0.png
 
