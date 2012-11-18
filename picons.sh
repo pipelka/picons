@@ -2713,6 +2713,8 @@ ln -s france3.png 1_0_1_2262_438_1_C00000_0_0_0.png
 ln -s france3.png 1_0_1_2276_438_1_C00000_0_0_0.png
 ln -s france3.png 1_0_1_12F_3E1C_13F_820000_0_0_0.png
 
+# france3hd
+
 # france4
 ln -s france4.png 1_0_1_23F3_452_1_C00000_0_0_0.png
 ln -s france4.png 1_0_1_2407_452_1_C00000_0_0_0.png
