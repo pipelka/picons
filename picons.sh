@@ -6956,6 +6956,12 @@ ln -s tv2ostjylland.png 1_0_1_120C_1A_56_300000_0_0_0.png
 ln -s tv2premierleaguehd.png 1_0_19_532_1F_56_300000_0_0_0.png
 ln -s tv2premierleaguehd.png 1_0_19_53C_1F_56_300000_0_0_0.png
 ln -s tv2premierleaguehd.png 1_0_19_6D6_19_56_300000_0_0_0.png
+ln -s tv2premierleaguehd.png 1_0_19_40A_44_46_7120000_0_0_0.png
+ln -s tv2premierleaguehd.png 1_0_19_40C_44_46_7120000_0_0_0.png
+ln -s tv2premierleaguehd.png 1_0_19_40B_44_46_7120000_0_0_0.png
+ln -s tv2premierleaguehd.png 1_0_19_40D_44_46_7120000_0_0_0.png
+ln -s tv2premierleaguehd.png 1_0_19_1904_44_46_7120000_0_0_0.png
+ln -s tv2premierleaguehd.png 1_0_19_1905_44_46_7120000_0_0_0.png
 
 # tv2sportdk
 ln -s tv2sportdk.png 1_0_1_1B94_9_56_300000_0_0_0.png
@@ -6985,12 +6991,6 @@ ln -s tv2sportno.png 1_0_1_73B_A_46_7120000_0_0_0.png
 
 # tv2sportpremierleague
 ln -s tv2sportpremierleague.png 1_0_1_73A_1E_56_300000_0_0_0.png
-ln -s tv2sportpremierleague.png 1_0_19_40A_44_46_7120000_0_0_0.png
-ln -s tv2sportpremierleague.png 1_0_19_40C_44_46_7120000_0_0_0.png
-ln -s tv2sportpremierleague.png 1_0_19_40B_44_46_7120000_0_0_0.png
-ln -s tv2sportpremierleague.png 1_0_19_40D_44_46_7120000_0_0_0.png
-ln -s tv2sportpremierleague.png 1_0_19_1904_44_46_7120000_0_0_0.png
-ln -s tv2sportpremierleague.png 1_0_19_1905_44_46_7120000_0_0_0.png
 
 # tv2syd
 ln -s tv2syd.png 1_0_1_1216_1A_56_300000_0_0_0.png
