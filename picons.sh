@@ -1060,6 +1060,9 @@ ln -s canal+gol.png 1_0_1_1147_2AF8_13E_820000_0_0_0.png
 # canal+golhd
 ln -s canal+golhd.png 1_0_19_377A_44C_13E_820000_0_0_0.png
 
+# canal+golf
+ln -s canal+golf.png 1_0_1_7789_424_1_C00000_0_0_0.png
+
 # canal+sport2
 
 # canal+sporthd
@@ -2890,7 +2893,6 @@ ln -s goldstartv.png 1_0_1_206_11_85_C00000_0_0_0.png
 ln -s golfchannel.png 1_0_1_445E_1F40_13E_820000_0_0_0.png
 
 # golf+
-ln -s golf+.png 1_0_1_7789_424_1_C00000_0_0_0.png
 ln -s golf+.png 1_0_1_23F9_452_1_C00000_0_0_0.png
 
 # golf+hd
