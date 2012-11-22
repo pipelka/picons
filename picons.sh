@@ -2890,11 +2890,11 @@ ln -s goldstartv.png 1_0_1_206_11_85_C00000_0_0_0.png
 ln -s golfchannel.png 1_0_1_445E_1F40_13E_820000_0_0_0.png
 
 # golf+
-ln -s canal+golf.png 1_0_1_7789_424_1_C00000_0_0_0.png
-ln -s canal+golf.png 1_0_1_23F9_452_1_C00000_0_0_0.png
+ln -s golf+.png 1_0_1_7789_424_1_C00000_0_0_0.png
+ln -s golf+.png 1_0_1_23F9_452_1_C00000_0_0_0.png
 
 # golf+hd
-ln -s canal+golfhd.png 1_0_19_26B9_45C_1_C00000_0_0_0.png
+ln -s golf+hd.png 1_0_19_26B9_45C_1_C00000_0_0_0.png
 
 # goodfood
 ln -s goodfood.png 1_0_1_196C_7D6_2_11A0000_0_0_0.png
