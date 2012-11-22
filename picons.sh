@@ -4376,6 +4376,9 @@ ln -s nicktoonsreplay.png 1_0_1_D7D3_900_2_11A0000_0_0_0.png
 # noetv
 ln -s noetv.png 1_0_1_1F48_BC6_3_EB0000_0_0_0.png
 
+# nonstoppeople
+ln -s nonstoppeople.png 1_0_19_24BD_43C_1_C00000_0_0_0.png
+
 # noortv
 ln -s noortv.png 1_0_1_D3BB_A2B_2_11A0000_0_0_0.png
 ln -s noortv.png 1_0_1_32F_3BC4_13E_820000_0_0_0.png
