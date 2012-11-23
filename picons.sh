@@ -1732,10 +1732,6 @@ ln -s discoveryhomeandhealth.png 1_0_1_1840_7D9_2_11A0000_0_0_0.png
 # discoveryhomeandhealthplus1
 ln -s discoveryhomeandhealthplus1.png 1_0_1_CCE2_90B_2_11A0000_0_0_0.png
 
-# discoveryknowledge
-
-# discoveryknowledgeplus1
-
 # discoveryplus1
 ln -s discoveryplus1.png 1_0_1_183C_7D9_2_11A0000_0_0_0.png
 ln -s discoveryplus1.png 1_0_1_3BE3_64_FBFF_820000_0_0_0.png
