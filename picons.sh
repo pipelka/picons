@@ -15,11 +15,20 @@ ln -s 1-2-3.tv.png 1_0_19_DD_14B4_9C_5A0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_C3BE_2711_F001_EB0000_0_0_0.png
 ln -s 1-2-3.tv.png 1_0_1_DD_14B4_9C_5A0000_0_0_0.png
 
+# 1+1international
+ln -s 1+1international.png 1_0_19_17ED_C_55_300000_0_0_0.png
+
+# 1auto
+ln -s 1auto.png 1_0_1_1978_F_55_300000_0_0_0.png
+
 # 1musicchannel
 ln -s 1musicchannel.png 1_0_1_401_C_1_7120000_0_0_0.png
 
 # 1stbalticmusicchannel
 ln -s 1stbalticmusicchannel.png 1_0_1_1856_D_55_300000_0_0_0.png
+
+# 2+2
+ln -s 2+2.png 1_0_1_17E8_C_55_300000_0_0_0.png
 
 # 2be
 ln -s 2be.png 1_0_1_31E4_45F_35_C00000_0_0_0.png
@@ -323,6 +332,9 @@ ln -s anixehd.png 1_0_19_EF12_421_1_C00000_0_0_0.png
 ln -s anixehd.png 1_0_19_17D6_C91_3_EB0000_0_0_0.png
 ln -s anixehd.png 1_0_19_526C_41D_1_C00000_0_0_0.png
 ln -s anixehd.png 1_0_1_526C_41D_1_C00000_0_0_0.png
+
+# aone
+ln -s aone.png 1_0_1_1991_F_55_300000_0_0_0.png
 
 # arirangtv
 ln -s arirangtv.png 1_0_1_1B63_3FC_1_C00000_0_0_0.png
@@ -906,6 +918,9 @@ ln -s bvn.png 1_0_1_13A1_455_35_C00000_0_0_0.png
 ln -s bvn.png 1_0_1_439F_2CEC_13E_820000_0_0_0.png
 ln -s bvn.png 1_0_1_FB0_451_35_C00000_0_0_0.png
 
+# business
+ln -s business.png 1_0_1_19B4_F_55_300000_0_0_0.png
+
 # buzmuzik
 ln -s buzmuzik.png 1_0_1_D057_90A_2_11A0000_0_0_0.png
 
@@ -1230,6 +1245,9 @@ ln -s channel4plus1.png 1_0_1_207B_7FA_2_11A0000_0_0_0.png
 ln -s channel4plus1.png 1_0_1_207C_7FA_2_11A0000_0_0_0.png
 ln -s channel4plus1.png 1_0_1_2F08_7F8_2_11A0000_0_0_0.png
 
+# channel5ukraine
+ln -s channel5ukraine.png 1_0_1_182E_C_55_300000_0_0_0.png
+
 # channel21
 ln -s channel21.png 1_0_19_D10A_2711_F001_EB0000_0_0_0.png
 ln -s channel21.png 1_0_1_2F30_441_1_C00000_0_0_0.png
@@ -1510,6 +1528,9 @@ ln -s cosmohd.png 1_0_19_7508_420_1_C00000_0_0_0.png
 ln -s cosmohd.png 1_0_19_74FF_420_1_C00000_0_0_0.png
 
 # consumenten24
+
+# controversialtv
+ln -s controversialtv.png 1_0_1_CB58_907_2_11A0000_0_0_0.png
 
 # createandcraft
 ln -s createandcraft.png 1_0_1_CC0A_8FF_2_11A0000_0_0_0.png
@@ -2025,6 +2046,9 @@ ln -s dmdigital.png 1_0_1_D3CB_A2B_2_11A0000_0_0_0.png
 
 # dmsat
 
+# dobrotv
+ln -s dobrotv.png 1_0_1_199B_F_55_300000_0_0_0.png
+
 # dorceltv
 ln -s dorceltv.png 1_0_1_4285_446_1_C00000_0_0_0.png
 ln -s dorceltv.png 1_0_1_42A3_446_1_C00000_0_0_0.png
@@ -2165,13 +2189,13 @@ ln -s einsfestivalhd.png 1_0_19_6EEA_4B1_1_C00000_0_0_0.png
 ln -s einsplus.png 1_0_1_7033_41B_1_C00000_0_0_0.png
 ln -s einsplus.png 1_0_1_7033_0_0_EBB18C_0_0_0.png
 
-# controversialtv
-ln -s controversialtv.png 1_0_1_CB58_907_2_11A0000_0_0_0.png
-
 # encyclo
 ln -s encyclo.png 1_0_1_427F_446_1_C00000_0_0_0.png
 ln -s encyclo.png 1_0_1_D4_3E1C_13F_820000_0_0_0.png
 ln -s encyclo.png 1_0_1_1CF_26AC_13F_820000_0_0_0.png
+
+# englishclubtv
+ln -s englishclubtv.png 1_0_1_19AF_F_55_300000_0_0_0.png
 
 # eptet1
 ln -s eptet1.png 1_0_1_17A_1C84_13E_820000_0_0_0.png
@@ -2873,6 +2897,9 @@ ln -s geotv.png 1_0_1_CD14_902_2_11A0000_0_0_0.png
 # girondinstv
 ln -s girondinstv.png 1_0_1_1908_3FA_1_C00000_0_0_0.png
 
+# glas
+ln -s glas.png 1_0_1_17F2_C_55_300000_0_0_0.png
+
 # glitzde
 
 # glitzhdde
@@ -3357,6 +3384,9 @@ ln -s jml.png 1_0_1_2541_A34_2_11A0000_0_0_0.png
 ln -s jml.png 1_0_1_D368_A2A_2_11A0000_0_0_0.png
 ln -s jml.png 1_0_1_D386_A2A_2_11A0000_0_0_0.png
 ln -s jml.png 1_0_1_202_7_85_C00000_0_0_0.png
+
+# jn1
+ln -s jn1.png 1_0_1_17FC_C_55_300000_0_0_0.png
 
 # jstveurope
 
@@ -4215,6 +4245,9 @@ ln -s net5hd.png 1_0_19_521C_FFFF_FFFF_EB2F9B_0_0_0.png
 ln -s net5hd.png 1_0_19_521C_C99_3_EB0000_0_0_0.png
 ln -s net5hd.png 1_0_1_521C_C99_3_EB0000_0_0_0.png
 
+# newsone
+ln -s newsone.png 1_0_1_196E_F_55_300000_0_0_0.png
+
 # nationalgeographic
 ln -s nationalgeographic.png 1_0_1_FAF_451_35_C00000_0_0_0.png
 ln -s nationalgeographic.png 1_0_1_11FF_7EE_2_11A0000_0_0_0.png
@@ -4683,6 +4716,9 @@ ln -s orangesport.png 1_0_1_3D5F_2C88_13E_820000_0_0_0.png
 ln -s orangesport.png 1_0_1_296E_22C4_13E_820000_0_0_0.png
 ln -s orangesport.png 1_0_1_1FC1_2454_13E_820000_0_0_0.png
 
+# oskodessa
+ln -s oskodessa.png 1_0_1_1824_C_55_300000_0_0_0.png
+
 # paramountcomedy
 ln -s paramountcomedy.png 1_0_1_76C8_40E_1_C00000_0_0_0.png
 
@@ -4827,6 +4863,9 @@ ln -s plugrtl.png 1_0_1_3633_C8_13E_820000_0_0_0.png
 ln -s plugrtl.png 1_0_16_1485_40D_1_C00000_0_0_0.png
 ln -s plugrtl.png 1_0_1_1485_40D_1_C00000_0_0_0.png
 
+# pogodatv
+ln -s pogodatv.png 1_0_1_19A5_F_55_300000_0_0_0.png
+
 # polonia1
 ln -s polonia1.png 1_0_1_3D5A_2C88_13E_820000_0_0_0.png
 
@@ -4969,6 +5008,9 @@ ln -s q.png 1_0_1_C5D0_967_2_11A0000_0_0_0.png
 
 # racinguk
 ln -s racinguk.png 1_0_1_C5A8_967_2_11A0000_0_0_0.png
+
+# rada
+ln -s rada.png 1_0_1_181A_C_55_300000_0_0_0.png
 
 # radiobrementv
 ln -s radiobrementv.png 1_0_1_6EE1_4B1_1_C00000_0_0_0.png
@@ -5287,6 +5329,9 @@ ln -s rsila2.png 1_0_1_36B9_6A4_13E_820000_0_0_0.png
 # rsila2hd
 ln -s rsila2hd.png 1_0_19_3B7_2134_13E_820000_0_0_0.png
 
+# rumusic
+ln -s rumusic.png 1_0_1_1982_F_55_300000_0_0_0.png
+
 # russiatoday
 ln -s russiatoday.png 1_0_1_C69F_969_2_11A0000_0_0_0.png
 ln -s russiatoday.png 1_0_19_CF7F_2718_F001_EB0000_0_0_0.png
@@ -5449,6 +5494,9 @@ ln -s sfkanalen.png 1_0_1_CF6_21_46_7120000_0_0_0.png
 
 # sharqiya
 ln -s sharqiya.png 1_0_1_2526_13EF_13E_820000_0_0_0.png
+
+# shoppingtv
+ln -s shoppingtv.png 1_0_1_19BE_F_55_300000_0_0_0.png
 
 # shortstv
 ln -s shortstv.png 1_0_1_12FC_7E9_2_11A0000_0_0_0.png
@@ -6420,6 +6468,9 @@ ln -s starone.png 1_0_1_D7AA_900_2_11A0000_0_0_0.png
 # starchannel
 ln -s starchannel.png 1_0_1_141_157C_13E_820000_0_0_0.png
 
+# startvukr
+ln -s startvukr.png 1_0_1_19A0_F_55_300000_0_0_0.png
+
 # stv
 ln -s stv.png 1_0_1_27E2_806_2_11A0000_0_0_0.png
 ln -s stv.png 1_0_1_27EC_806_2_11A0000_0_0_0.png
@@ -6684,6 +6735,9 @@ ln -s teletoon+hd.png 1_0_19_379B_44C_13E_820000_0_0_0.png
 ln -s teletoon+1.png 1_0_1_1909_3FA_1_C00000_0_0_0.png
 
 # teletoonafrica
+
+# tet
+ln -s tet.png 1_0_1_17DE_C_55_300000_0_0_0.png
 
 # teva
 ln -s teva.png 1_0_1_1FDD_434_1_C00000_0_0_0.png
@@ -7259,6 +7313,9 @@ ln -s tvpuls.png 1_0_1_13F8_5DC_13E_820000_0_0_0.png
 # tvromaniainternational
 ln -s tvromaniainternational.png 1_0_1_29D3_3CF0_13E_820000_0_0_0.png
 
+# tvsaleukr
+ln -s tvsaleukr.png 1_0_1_1810_C_55_300000_0_0_0.png
+
 # tvsilesia
 ln -s tvsilesia.png 1_0_1_13EE_5DC_13E_820000_0_0_0.png
 
@@ -7285,6 +7342,9 @@ ln -s ucbtv.png 1_0_1_CB21_907_2_11A0000_0_0_0.png
 # uctv
 ln -s uctv.png 1_0_1_D3C4_A2B_2_11A0000_0_0_0.png
 ln -s uctv.png 1_0_1_D6DA_A33_2_11A0000_0_0_0.png
+
+# ukrainianfashion
+ln -s ukrainianfashion.png 1_0_1_198C_F_55_300000_0_0_0.png
 
 # uktvdocs
 ln -s uktvdocs.png 1_0_1_1970_7D6_2_11A0000_0_0_0.png
