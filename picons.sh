@@ -1077,6 +1077,24 @@ ln -s canal+sporthd.png 1_0_1_32DE_190_13E_820000_0_0_0.png
 # canalplayinfinity
 ln -s canalplayinfinity.png 1_0_1_23F5_452_1_C00000_0_0_0.png
 
+# canalsatalacarte
+ln -s canalsatalacarte.png 1_0_1_20D3_43E_1_C00000_0_0_0.png
+ln -s canalsatalacarte.png 1_0_1_20D4_43E_1_C00000_0_0_0.png
+ln -s canalsatalacarte.png 1_0_1_20D5_43E_1_C00000_0_0_0.png
+ln -s canalsatalacarte.png 1_0_1_20D6_43E_1_C00000_0_0_0.png
+ln -s canalsatalacarte.png 1_0_1_20D7_43E_1_C00000_0_0_0.png
+ln -s canalsatalacarte.png 1_0_1_20D8_43E_1_C00000_0_0_0.png
+ln -s canalsatalacarte.png 1_0_1_20D9_43E_1_C00000_0_0_0.png
+ln -s canalsatalacarte.png 1_0_1_23F4_452_1_C00000_0_0_0.png
+ln -s canalsatalacarte.png 1_0_1_20DB_43E_1_C00000_0_0_0.png
+ln -s canalsatalacarte.png 1_0_1_20DC_43E_1_C00000_0_0_0.png
+
+# canalsatalademande
+ln -s canalsatalademande.png 1_0_1_2520_456_1_C00000_0_0_0.png
+
+# canalsatavoircesoir
+ln -s canalsatavoircesoir.png 1_0_1_20A3_432_1_C00000_0_0_0.png
+
 # cartoonnetwork_tcm
 ln -s cartoonnetwork_tcm.png 1_0_1_4F75_427_1_C00000_0_0_0.png
 ln -s cartoonnetwork_tcm.png 1_0_1_7EE_449_35_C00000_0_0_0.png
