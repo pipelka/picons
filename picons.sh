@@ -7301,11 +7301,11 @@ ln -s tvpinfo.png 1_0_1_290A_1EDC_71_820000_0_0_0.png
 ln -s tvpkultura.png 1_0_1_1BC2_423_1_C00000_0_0_0.png
 ln -s tvpkultura.png 1_0_1_13F9_5DC_13E_820000_0_0_0.png
 
-# tvpolonia
-ln -s tvpolonia.png 1_0_19_CFD4_2711_F001_EB0000_0_0_0.png
-ln -s tvpolonia.png 1_0_1_1BC0_423_1_C00000_0_0_0.png
-ln -s tvpolonia.png 1_0_1_13ED_5DC_13E_820000_0_0_0.png
-ln -s tvpolonia.png 1_0_1_5DC_1FA4_9C_5A0000_0_0_0.png
+# tvppolonia
+ln -s tvppolonia.png 1_0_19_CFD4_2711_F001_EB0000_0_0_0.png
+ln -s tvppolonia.png 1_0_1_1BC0_423_1_C00000_0_0_0.png
+ln -s tvppolonia.png 1_0_1_13ED_5DC_13E_820000_0_0_0.png
+ln -s tvppolonia.png 1_0_1_5DC_1FA4_9C_5A0000_0_0_0.png
 
 # tvpuls
 ln -s tvpuls.png 1_0_1_13F8_5DC_13E_820000_0_0_0.png
@@ -8848,8 +8848,8 @@ ln -s tvgalicia.png 1_0_1_5792_EE_A018_FFFF0000_0_0_0.png
 ln -s tvpinfo.png 1_0_1_560E_D9_A018_FFFF0000_0_0_0.png
 ln -s tvpinfo.png 1_0_1_6215_F1_270F_FFFF0000_0_0_0.png
 ln -s tvpkultura.png 1_0_1_560F_D9_A018_FFFF0000_0_0_0.png
-ln -s tvpolonia.png 1_0_1_5A46_E7_270F_FFFF0000_0_0_0.png
-ln -s tvpolonia.png 1_0_1_CFD4_2711_F001_FFFF0000_0_0_0.png
+ln -s tvppolonia.png 1_0_1_5A46_E7_270F_FFFF0000_0_0_0.png
+ln -s tvppolonia.png 1_0_1_CFD4_2711_F001_FFFF0000_0_0_0.png
 ln -s tvromaniainternational.png 1_0_1_5767_EC_A018_FFFF0000_0_0_0.png
 ln -s tvsilesia.png 1_0_1_5610_D9_A018_FFFF0000_0_0_0.png
 ln -s tvsilesia.png 1_0_1_759D_12D_270F_FFFF0000_0_0_0.png
