@@ -8466,8 +8466,8 @@ ln -s extremesports.png 1_0_1_D0A1_2714_F001_FFFF0000_0_0_0.png
 ln -s fashiontv.png 1_0_1_3B02_97_270F_FFFF0000_0_0_0.png
 ln -s foxhd.png 1_0_19_56D7_E5_A018_FFFF0000_0_0_0.png
 ln -s foxhd.png 1_0_19_7C_6_85_FFFF0000_0_0_0.png
-ln -s foxseries.png 1_0_1_10_1_85_FFFF0000_0_0_0.png
-ln -s foxseries.png 1_0_1_568B_E1_A018_FFFF0000_0_0_0.png
+ln -s fox.png 1_0_1_10_1_85_FFFF0000_0_0_0.png
+ln -s fox.png 1_0_1_568B_E1_A018_FFFF0000_0_0_0.png
 ln -s france2.png 1_0_1_56F4_E7_A018_FFFF0000_0_0_0.png
 ln -s france2.png 1_0_1_6DC9_119_270F_FFFF0000_0_0_0.png
 ln -s france24.png 1_0_1_4E8F_C9_270F_FFFF0000_0_0_0.png
