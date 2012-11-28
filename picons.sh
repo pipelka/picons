@@ -5200,7 +5200,7 @@ ln -s rtl2.png 1_0_1_422_7_1111_7120000_0_0_0.png
 # rtl2hd
 ln -s rtl2hd.png 1_0_19_EF15_421_1_C00000_0_0_0.png
 ln -s rtl2hd.png 1_0_1_2EA4_405_1_C00000_0_0_0.png
-ln -s rtl2hd.png 1_0_19_2EA4_405_1_C00000_0_0_0.png
+ln -s rtl2hd.png 1_0_19_2EA5_411_1_C00000_0_0_0.png
 
 # rtl4
 ln -s rtl4.png 1_0_1_7D4_449_35_C00000_0_0_0.png
@@ -5261,7 +5261,7 @@ ln -s rtetwohd.png 1_0_19_2588_7FB_2_11A0000_0_0_0.png
 ln -s rtlhd.png 1_0_19_EF10_421_1_C00000_0_0_0.png
 ln -s rtlhd.png 1_0_19_12D_1EDC_9C_5A0000_0_0_0.png
 ln -s rtlhd.png 1_0_1_2E86_405_1_C00000_0_0_0.png
-ln -s rtlhd.png 1_0_19_2E86_405_1_C00000_0_0_0.png
+ln -s rtlhd.png 1_0_19_2E87_411_1_C00000_0_0_0.png
 
 # rtlklub
 ln -s rtlklub.png 1_0_1_4F87_407_1_C00000_0_0_0.png
@@ -7738,7 +7738,7 @@ ln -s vox.png 1_0_1_C82_20_46_7120000_0_0_0.png
 ln -s voxhd.png 1_0_19_EF11_421_1_C00000_0_0_0.png
 ln -s voxhd.png 1_0_19_12E_1EDC_9C_5A0000_0_0_0.png
 ln -s voxhd.png 1_0_1_2E90_405_1_C00000_0_0_0.png
-ln -s voxhd.png 1_0_19_2E90_405_1_C00000_0_0_0.png
+ln -s voxhd.png 1_0_19_2E91_411_1_C00000_0_0_0.png
 
 # voxafrica
 ln -s voxafrica.png 1_0_1_C6C8_969_2_11A0000_0_0_0.png
