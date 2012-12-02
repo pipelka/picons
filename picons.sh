@@ -4708,7 +4708,6 @@ ln -s orangecinemax.png 1_0_19_197E_44E_1_C00000_0_0_0.png
 
 # orangesportinfo
 ln -s orangesportinfo.png 1_0_1_2B00_417_1_C00000_0_0_0.png
-ln -s orangesportinfo.png 1_0_1_1D2_26AC_13F_820000_0_0_0.png
 
 # orangesport
 ln -s orangesport.png 1_0_1_2B16_417_1_C00000_0_0_0.png
@@ -6742,6 +6741,7 @@ ln -s tet.png 1_0_1_17DE_C_55_300000_0_0_0.png
 # teva
 ln -s teva.png 1_0_1_1FDD_434_1_C00000_0_0_0.png
 ln -s teva.png 1_0_1_4472_3264_13E_820000_0_0_0.png
+ln -s teva.png 1_0_1_1D2_26AC_13F_820000_0_0_0.png
 
 # tevahd
 ln -s tevahd.png 1_0_19_26B2_45C_1_C00000_0_0_0.png
