@@ -5145,6 +5145,9 @@ ln -s ric.png 1_0_1_33AB_3EB_1_C00000_0_0_0.png
 # rikstoto
 ln -s rikstoto.png 1_0_1_5E7_47_46_7120000_0_0_0.png
 
+# rmcdecouvertehd
+ln -s rmcdecouvertehd.png 1_0_1_275F_402_1_C00000_0_0_0.png
+
 # rnfplus
 ln -s rnfplus.png 1_0_1_300_7_85_C00000_0_0_0.png
 
