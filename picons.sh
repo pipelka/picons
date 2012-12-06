@@ -7962,6 +7962,145 @@ ln -s zoneromantica.png 1_0_1_1C85_1CE8_71_820000_0_0_0.png
 
 # RADIO
 
+# radio.b5aktuell
+
+# radio.b5plus
+
+# radio.bayern1
+
+# radio.bayern2
+
+# radio.bayern3
+
+# radio.bayernplus
+
+# radio.bbcworldservice
+
+# radio.bremeneins
+
+# radio.bremenvier
+
+# radio.brklassik
+
+# radio.bron3radio
+
+# radio.deutschlandfunk
+
+# radio.deutschlandradiokultur
+
+# radio.dradiowissen
+
+# radio.hr1
+
+# radio.hr2
+
+# radio.hr3
+
+# radio.hr4
+
+# radio.hrinfo
+
+# radio.jamfm
+
+# radio.mdr1radiosachsen
+
+# radio.mdrfigaro
+
+# radio.mdrinfo
+
+# radio.mdrjump
+
+# radio.mdrklassik
+
+# radio.mdrradiosachsenanhalt
+
+# radio.mdrsputnik
+
+# radio.mdrthueringen
+
+# radio.ndr1niedersachsen
+
+# radio.ndr1radiomv
+
+# radio.ndr1wellenord
+
+# radio.ndr2
+
+# radio.ndr903
+
+# radio.ndrinfo
+
+# radio.ndrkultur
+
+# radio.ndrnjoy
+
+# radio.nordwestradio
+
+# radio.radiobob
+
+# radio.radiohoreb
+
+# radio.radiopaloma
+
+# radio.radiosunshinelive
+
+# radio.radyometropol
+
+# radio.rairadio1
+
+# radio.rbbantennebrandenburg
+
+# radio.rbbfritz
+
+# radio.rbbinforadio
+
+# radio.rbbkulturradio
+
+# radio.rbbradioberlin888
+
+# radio.rbbradioeins
+
+# radio.sr1europawelle
+
+# radio.sr2kulturradio
+
+# radio.sr3saarlandwelle
+
+# radio.swr1badenwuerttemberg
+
+# radio.swr1rheinlandpfalz
+
+# radio.swr2
+
+# radio.swr3
+
+# radio.swr4badenwuerttemberg
+
+# radio.swr4rheinlandpfalz
+
+# radio.swrdasding
+
+# radio.swrinfo
+
+# radio.wdr1live
+
+# radio.wdr1livediggi
+
+# radio.wdr2
+
+# radio.wdr3
+
+# radio.wdr4
+
+# radio.wdr5
+
+# radio.wdrevent
+
+# radio.wdrfunkhauseuropa
+
+# radio.wdrkiraka
+
+# radio.youfm
 
 
 ###########
@@ -8918,6 +9057,78 @@ ln -s zing.png 1_0_1_5769_EC_A018_FFFF0000_0_0_0.png
 
 # RADIO
 
+ln -s radio.b5aktuell.png 1_0_2_6EF4_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.b5plus.png 1_0_2_6EF8_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.bayern1.png 1_0_2_6EF0_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.bayern2.png 1_0_2_6EF1_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.bayern3.png 1_0_2_6EF2_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.bayernplus.png 1_0_2_6EF5_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.bbcworldservice.png 1_0_2_3729_8D_270F_FFFF0000_0_0_0.png
+ln -s radio.bbcworldservice.png 1_0_2_372A_8D_270F_FFFF0000_0_0_0.png
+ln -s radio.bremeneins.png 1_0_2_6F20_431_A401_FFFF0000_0_0_0.png
+ln -s radio.bremenvier.png 1_0_2_6F22_431_A401_FFFF0000_0_0_0.png
+ln -s radio.brklassik.png 1_0_2_6EF3_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.bron3radio.png 1_0_2_6EF6_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.deutschlandfunk.png 1_0_2_6D6D_437_66_FFFF0000_0_0_0.png
+ln -s radio.deutschlandradiokultur.png 1_0_2_6D6C_437_66_FFFF0000_0_0_0.png
+ln -s radio.dradiowissen.png 1_0_2_6D71_437_66_FFFF0000_0_0_0.png
+ln -s radio.hr1.png 1_0_2_6F03_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.hr2.png 1_0_2_6F04_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.hr3.png 1_0_2_6F05_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.hr4.png 1_0_2_6F06_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.hrinfo.png 1_0_2_6F08_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.jamfm.png 1_0_2_5E31_F1_270F_FFFF0000_0_0_0.png
+ln -s radio.mdr1radiosachsen.png 1_0_2_6F0C_431_A401_FFFF0000_0_0_0.png
+ln -s radio.mdrfigaro.png 1_0_2_6F0F_431_A401_FFFF0000_0_0_0.png
+ln -s radio.mdrinfo.png 1_0_2_6F12_431_A401_FFFF0000_0_0_0.png
+ln -s radio.mdrjump.png 1_0_2_6F10_431_A401_FFFF0000_0_0_0.png
+ln -s radio.mdrklassik.png 1_0_2_6F13_431_A401_FFFF0000_0_0_0.png
+ln -s radio.mdrradiosachsenanhalt.png 1_0_2_6F0D_431_A401_FFFF0000_0_0_0.png
+ln -s radio.mdrsputnik.png 1_0_2_6F11_431_A401_FFFF0000_0_0_0.png
+ln -s radio.mdrthueringen.png 1_0_2_6F0E_431_A401_FFFF0000_0_0_0.png
+ln -s radio.ndr1niedersachsen.png 1_0_2_6F1C_431_A401_FFFF0000_0_0_0.png
+ln -s radio.ndr1radiomv.png 1_0_2_6F1B_431_A401_FFFF0000_0_0_0.png
+ln -s radio.ndr1wellenord.png 1_0_2_6F1A_431_A401_FFFF0000_0_0_0.png
+ln -s radio.ndr2.png 1_0_2_6F15_431_A401_FFFF0000_0_0_0.png
+ln -s radio.ndr903.png 1_0_2_6F19_431_A401_FFFF0000_0_0_0.png
+ln -s radio.ndrinfo.png 1_0_2_6F17_431_A401_FFFF0000_0_0_0.png
+ln -s radio.ndrinfo.png 1_0_2_6F1D_431_A401_FFFF0000_0_0_0.png
+ln -s radio.ndrkultur.png 1_0_2_6F16_431_A401_FFFF0000_0_0_0.png
+ln -s radio.ndrnjoy.png 1_0_2_6F18_431_A401_FFFF0000_0_0_0.png
+ln -s radio.nordwestradio.png 1_0_2_6F21_431_A401_FFFF0000_0_0_0.png
+ln -s radio.radiobob.png 1_0_2_5E33_F1_270F_FFFF0000_0_0_0.png
+ln -s radio.radiohoreb.png 1_0_2_46C1_B5_270F_FFFF0000_0_0_0.png
+ln -s radio.radiopaloma.png 1_0_2_5E32_F1_270F_FFFF0000_0_0_0.png
+ln -s radio.radiosunshinelive.png 1_0_2_46C2_B5_270F_FFFF0000_0_0_0.png
+ln -s radio.radyometropol.png 1_0_2_5A4A_E7_270F_FFFF0000_0_0_0.png
+ln -s radio.rairadio1.png 1_0_2_5669_DD_270F_FFFF0000_0_0_0.png
+ln -s radio.rbbantennebrandenburg.png 1_0_2_6F26_431_A401_FFFF0000_0_0_0.png
+ln -s radio.rbbfritz.png 1_0_2_6F29_431_A401_FFFF0000_0_0_0.png
+ln -s radio.rbbinforadio.png 1_0_2_6F24_431_A401_FFFF0000_0_0_0.png
+ln -s radio.rbbkulturradio.png 1_0_2_6F25_431_A401_FFFF0000_0_0_0.png
+ln -s radio.rbbradioberlin888.png 1_0_2_6F27_431_A401_FFFF0000_0_0_0.png
+ln -s radio.rbbradioeins.png 1_0_2_6F28_431_A401_FFFF0000_0_0_0.png
+ln -s radio.sr1europawelle.png 1_0_2_6F2D_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.sr2kulturradio.png 1_0_2_6F2E_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.sr3saarlandwelle.png 1_0_2_6F2F_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.swr1badenwuerttemberg.png 1_0_2_6F31_431_A401_FFFF0000_0_0_0.png
+ln -s radio.swr1rheinlandpfalz.png 1_0_2_6F32_431_A401_FFFF0000_0_0_0.png
+ln -s radio.swr2.png 1_0_2_6F33_431_A401_FFFF0000_0_0_0.png
+ln -s radio.swr3.png 1_0_2_6F34_431_A401_FFFF0000_0_0_0.png
+ln -s radio.swr4badenwuerttemberg.png 1_0_2_6F35_431_A401_FFFF0000_0_0_0.png
+ln -s radio.swr4rheinlandpfalz.png 1_0_2_6F36_431_A401_FFFF0000_0_0_0.png
+ln -s radio.swrdasding.png 1_0_2_6F37_431_A401_FFFF0000_0_0_0.png
+ln -s radio.swrinfo.png 1_0_2_6F38_431_A401_FFFF0000_0_0_0.png
+ln -s radio.wdr1live.png 1_0_2_6F3B_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.wdr1livediggi.png 1_0_2_6F41_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.wdr2.png 1_0_2_6F3C_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.wdr3.png 1_0_2_6F3D_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.wdr4.png 1_0_2_6F3E_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.wdr5.png 1_0_2_6F3F_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.wdrevent.png 1_0_2_6F43_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.wdrfunkhauseuropa.png 1_0_2_6F40_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.wdrkiraka.png 1_0_2_6F42_44D_A401_FFFF0000_0_0_0.png
+ln -s radio.youfm.png 1_0_2_6F07_44D_A401_FFFF0000_0_0_0.png
 
 
 ###########
