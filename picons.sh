@@ -3611,7 +3611,10 @@ ln -s lcp.png 1_0_1_DB_3E1C_13F_820000_0_0_0.png
 ln -s lcp.png 1_0_1_139_3E1C_13F_820000_0_0_0.png
 ln -s lcp.png 1_0_1_2208_44C_1_C00000_0_0_0.png
 
-# lequippetv
+# lequipe21
+ln -s lequipe21.png 1_0_1_189F_3F4_1_C00000_0_0_0.png
+
+# lequipetv
 ln -s lequippetv.png 1_0_1_2202_44C_1_C00000_0_0_0.png
 
 # libertytv
