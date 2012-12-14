@@ -3615,7 +3615,7 @@ ln -s lcp.png 1_0_1_2208_44C_1_C00000_0_0_0.png
 ln -s lequipe21.png 1_0_1_189F_3F4_1_C00000_0_0_0.png
 
 # lequipetv
-ln -s lequippetv.png 1_0_1_2202_44C_1_C00000_0_0_0.png
+ln -s lequipetv.png 1_0_1_2202_44C_1_C00000_0_0_0.png
 
 # libertytv
 ln -s libertytv.png 1_0_1_2F58_454_1_C00000_0_0_0.png
