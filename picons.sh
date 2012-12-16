@@ -417,6 +417,11 @@ ln -s attheraces.png 1_0_1_12C4_968_2_11A0000_0_0_0.png
 ln -s at5.png 1_0_16_5146_C8B_3_EB0000_0_0_0.png
 ln -s at5.png 1_0_1_5146_C8B_3_EB0000_0_0_0.png
 
+# atvbe
+
+# a.tv
+ln -s a.tv.png 1_0_1_11F8_3FD_1_C00000_0_0_0.png
+
 # atv
 ln -s atv.png 1_0_1_32D4_45D_1_C00000_0_0_0.png
 
@@ -2837,7 +2842,6 @@ ln -s frankenfernsehen.png 1_0_1_11F9_3FD_1_C00000_0_0_0.png
 
 # frankensat
 ln -s frankensat.png 1_0_1_2778_444_1_C00000_0_0_0.png
-ln -s frankensat.png 1_0_1_11FA_3FD_1_C00000_0_0_0.png
 
 # freex-tv
 ln -s freex-tv.png 1_0_1_1299_3458_13E_820000_0_0_0.png
@@ -3233,6 +3237,9 @@ ln -s innsattv.png 1_0_1_3330_45B_1_C00000_0_0_0.png
 
 # inspirationtv
 ln -s inspirationtv.png 1_0_1_C74B_96B_2_11A0000_0_0_0.png
+
+# intv
+ln -s intv.png 1_0_1_11FA_3FD_1_C00000_0_0_0.png
 
 # investigationdiscovery
 ln -s investigationdiscovery.png 1_0_1_CCB0_90B_2_11A0000_0_0_0.png
@@ -7258,8 +7265,6 @@ ln -s tvgusto.png 1_0_19_19A_1964_9C_5A0000_0_0_0.png
 # tvl_atv_tvoost
 ln -s tvl_atv_tvoost.png 1_0_1_17A7_C82_3_EB0000_0_0_0.png
 ln -s tvl_atv_tvoost.png 1_0_16_17A7_C82_3_EB0000_0_0_0.png
-
-# atvbe
 
 # tvoostbe
 
