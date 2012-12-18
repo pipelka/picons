@@ -5513,15 +5513,11 @@ ln -s sexysattv.png 1_0_1_29F2_3CF0_13E_820000_0_0_0.png
 
 # srf1
 ln -s srf1.png 1_0_1_385_2134_13E_820000_0_0_0.png
+ln -s srf1.png 1_0_19_4331_300C_13E_820000_0_0_0.png
 
-# srf1hd
-ln -s srf1hd.png 1_0_19_4331_300C_13E_820000_0_0_0.png
-
-# srf2
-ln -s srf2.png 1_0_1_38B_2134_13E_820000_0_0_0.png
-
-# srf2hd
-ln -s srf2hd.png 1_0_19_4332_300C_13E_820000_0_0_0.png
+# srfzwei
+ln -s srfzwei.png 1_0_1_38B_2134_13E_820000_0_0_0.png
+ln -s srfzwei.png 1_0_19_4332_300C_13E_820000_0_0_0.png
 
 # srfinfo
 ln -s srfinfo.png 1_0_1_38F_2134_13E_820000_0_0_0.png
@@ -8891,7 +8887,7 @@ ln -s servustv.png 1_0_1_568A_E1_A018_FFFF0000_0_0_0.png
 ln -s servustvhd.png 1_0_19_5719_E8_A018_FFFF0000_0_0_0.png
 ln -s servustvhd.png 1_0_19_71B5_123_270F_FFFF0000_0_0_0.png
 ln -s srf1.png 1_0_1_56F7_E7_A018_FFFF0000_0_0_0.png
-ln -s srf2.png 1_0_1_56F8_E7_A018_FFFF0000_0_0_0.png
+ln -s srfzwei.png 1_0_1_56F8_E7_A018_FFFF0000_0_0_0.png
 ln -s showturk.png 1_0_1_565D_DD_270F_FFFF0000_0_0_0.png
 ln -s showturk.png 1_0_1_D0FD_70_F001_FFFF0000_0_0_0.png
 ln -s silverline.png 1_0_1_3334_F1_270F_FFFF0000_0_0_0.png
