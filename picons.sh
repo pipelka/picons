@@ -4647,6 +4647,9 @@ ln -s ocko.png 1_0_1_64_0_1_EBB1C0_0_0_0.png
 # odeon
 ln -s odeon.png 1_0_1_296_3C8C_13E_820000_0_0_0.png
 
+# ohtv
+ln -s ohtv.png 1_0_1_d32d_a29_2_11a0000_0_0_0.png
+
 # ojomtv
 ln -s ojomtv.png 1_0_1_702_5_85_C00000_0_0_0.png
 
