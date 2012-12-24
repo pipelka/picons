@@ -6884,8 +6884,6 @@ ln -s tmc.png 1_0_1_136_3E1C_13F_820000_0_0_0.png
 
 # tmf be
 
-# tmf nl
-
 # tnt
 ln -s tnt.png 1_0_1_77C9_40A_1_C00000_0_0_0.png
 ln -s tnt.png 1_0_19_1D55_2134_6B2_5A0000_0_0_0.png
