@@ -6032,8 +6032,6 @@ ln -s skymoviesfamilyhduk.png 1_0_19_EEA_7E0_2_11A0000_0_0_0.png
 ln -s skymoviesfamilyuk.png 1_0_1_1133_7D7_2_11A0000_0_0_0.png
 ln -s skymoviesfamilyuk.png 1_0_1_232E_7D7_2_11A0000_0_0_0.png
 
-# skymovieshduk
-
 # skymoviesindiehduk
 ln -s skymoviesindiehduk.png 1_0_19_EEC_7F3_2_11A0000_0_0_0.png
 
@@ -6075,6 +6073,8 @@ ln -s skymoviesthrilleruk.png 1_0_1_122B_968_2_11A0000_0_0_0.png
 ln -s skymoviesthrilleruk.png 1_0_1_1136_7D7_2_11A0000_0_0_0.png
 
 # skymoviesuk
+
+# skymovieshduk
 
 # skynews
 ln -s skynewsuk.png 1_0_1_1260_7EA_2_11A0000_0_0_0.png
