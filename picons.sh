@@ -6060,6 +6060,8 @@ ln -s skymoviesmoderngreatsuk.png 1_0_1_1612_7D7_2_11A0000_0_0_0.png
 # skymoviespremierehduk
 ln -s skymoviespremierehduk.png 1_0_19_EED_7E0_2_11A0000_0_0_0.png
 
+# skymoviespremiereplus1hduk
+
 # skymoviespremiereplus1uk
 ln -s skymoviespremiereplus1uk.png 1_0_1_1135_7D7_2_11A0000_0_0_0.png
 
