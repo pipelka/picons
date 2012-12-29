@@ -5188,12 +5188,6 @@ ln -s realmadridtv.png 1_0_1_1139_7EE_2_11A0000_0_0_0.png
 ln -s recordinternacional.png 1_0_1_253F_A34_2_11A0000_0_0_0.png
 ln -s recordinternacional.png 1_0_1_1B62_3FC_1_C00000_0_0_0.png
 
-# redhotsextv
-ln -s redhotsextv.png 1_0_1_1272_3458_13E_820000_0_0_0.png
-ln -s redhotsextv.png 1_0_1_1273_3458_13E_820000_0_0_0.png
-ln -s redhotsextv.png 1_0_1_1274_3458_13E_820000_0_0_0.png
-ln -s redhotsextv.png 1_0_1_1275_3458_13E_820000_0_0_0.png
-
 # redlighttv
 ln -s redlighttv.png 1_0_1_35c0_1388_13e_820000_0_0_0.png
 
@@ -5205,9 +5199,6 @@ ln -s redlighthd.png 1_0_1_422f_3db8_13e_820000_0_0_0.png
 ln -s redlightpremium.png 1_0_1_378A_44C_13E_820000_0_0_0.png
 
 # redxclub
-ln -s redxclub.png 1_0_1_C49A_2716_F001_EB0000_0_0_0.png
-ln -s redxclub.png 1_0_1_C49B_2716_F001_EB0000_0_0_0.png
-ln -s redxclub.png 1_0_1_C499_2716_F001_EB0000_0_0_0.png
 
 # regiotv
 ln -s regiotv.png 1_0_1_2F_21_85_C00000_0_0_0.png
