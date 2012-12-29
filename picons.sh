@@ -402,6 +402,7 @@ ln -s astra.png 1_0_19_1388_C27_3_EB0000_0_0_0.png
 ln -s astra.png 1_0_1_13ED_403_1_C00000_0_0_0.png
 ln -s astra.png 1_0_1_1265_3F7_1_C00000_0_0_0.png
 ln -s astra.png 1_0_16_5277_41D_1_C00000_0_0_0.png
+ln -s astra.png 1_0_19_157d_41f_1_c00000_0_0_0.png
 
 # astrotv
 ln -s astrotv.png 1_0_19_D16C_2713_F001_EB0000_0_0_0.png
@@ -2632,13 +2633,13 @@ ln -s film1family.png 1_0_1_FA7_451_35_C00000_0_0_0.png
 ln -s film1family.png 1_0_16_51AE_C96_3_EB0000_0_0_0.png
 ln -s film1family.png 1_0_1_51AE_C96_3_EB0000_0_0_0.png
 
-# film1festival
-
 # film1sundance
 ln -s film1sundance.png 1_0_16_51B3_C96_3_EB0000_0_0_0.png
 ln -s film1sundance.png 1_0_1_51B3_C00000_0_0_0.png
 ln -s film1sundance.png 1_0_1_51B3_C96_3_EB0000_0_0_0.png
 ln -s film1sundance.png 1_0_19_51B3_C96_3_EB0000_0_0_0.png
+
+# film1series
 
 # film1action
 ln -s film1action.png 1_0_19_51B8_C96_3_EB0000_0_0_0.png
@@ -2899,6 +2900,7 @@ ln -s freextv.png 1_0_1_1299_3458_13E_820000_0_0_0.png
 ln -s freextv.png 1_0_1_833_22C4_13E_820000_0_0_0.png
 
 # freextv2
+ln -s freextv2.png 1_0_1_35c1_1388_13e_820000_0_0_0.png
 
 # frenchlovertv
 ln -s frenchlovertv.png 1_0_1_1907_3FA_1_C00000_0_0_0.png
@@ -5255,6 +5257,29 @@ ln -s romancetv.png 1_0_1_3ABE_514_13E_820000_0_0_0.png
 
 # romancetvhd
 
+# rt
+ln -s rt.png 1_0_1_C69F_969_2_11A0000_0_0_0.png
+ln -s rt.png 1_0_19_CF7F_2718_F001_EB0000_0_0_0.png
+ln -s rt.png 1_0_1_1AF8_3FE_1_C00000_0_0_0.png
+ln -s rt.png 1_0_1_275D_402_1_C00000_0_0_0.png
+ln -s rt.png 1_0_1_E_300C_13E_820000_0_0_0.png
+ln -s rt.png 1_0_1_44DD_258_13E_820000_0_0_0.png
+ln -s rt.png 1_0_19_DB_14B4_9C_5A0000_0_0_0.png
+ln -s rt.png 1_0_1_CF7F_2718_F001_EB0000_0_0_0.png
+ln -s rt.png 1_0_1_DB_14B4_9C_5A0000_0_0_0.png
+ln -s rt.png 1_0_1_43E_2_AA_5A0000_0_0_0.png
+ln -s rt.png 1_0_1_7A46_410_1_C00000_0_0_0.png
+ln -s rt.png 1_0_1_FF0_6_56_300000_0_0_0.png
+
+# rthd
+ln -s rthd.png 1_0_1_18ee_3f4_1_c00000_0_0_0.png
+ln -s rthd.png 1_0_1_18ed_3f4_1_c00000_0_0_0.png
+ln -s rthd.png 1_0_1_7d1_22c4_13e_820000_0_0_0.png
+ln -s rthd.png 1_0_19_cf9c_908_2_11a0000_0_0_0.png
+
+# rtdocumentary
+ln -s rtdocumentary.png 1_0_1_7d2_22c4_13e_820000_0_0_0.png
+
 # rtcg
 
 # rtf1
@@ -5419,20 +5444,6 @@ ln -s rsila2hd.png 1_0_19_3B7_2134_13E_820000_0_0_0.png
 
 # rumusic
 ln -s rumusic.png 1_0_1_1982_F_55_300000_0_0_0.png
-
-# russiatoday
-ln -s russiatoday.png 1_0_1_C69F_969_2_11A0000_0_0_0.png
-ln -s russiatoday.png 1_0_19_CF7F_2718_F001_EB0000_0_0_0.png
-ln -s russiatoday.png 1_0_1_1AF8_3FE_1_C00000_0_0_0.png
-ln -s russiatoday.png 1_0_1_275D_402_1_C00000_0_0_0.png
-ln -s russiatoday.png 1_0_1_E_300C_13E_820000_0_0_0.png
-ln -s russiatoday.png 1_0_1_44DD_258_13E_820000_0_0_0.png
-ln -s russiatoday.png 1_0_19_DB_14B4_9C_5A0000_0_0_0.png
-ln -s russiatoday.png 1_0_1_CF7F_2718_F001_EB0000_0_0_0.png
-ln -s russiatoday.png 1_0_1_DB_14B4_9C_5A0000_0_0_0.png
-ln -s russiatoday.png 1_0_1_43E_2_AA_5A0000_0_0_0.png
-ln -s russiatoday.png 1_0_1_7A46_410_1_C00000_0_0_0.png
-ln -s russiatoday.png 1_0_1_FF0_6_56_300000_0_0_0.png
 
 # s4c
 ln -s s4c.png 1_0_1_1C85_7E6_2_11A0000_0_0_0.png
