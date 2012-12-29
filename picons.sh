@@ -402,7 +402,7 @@ ln -s astra.png 1_0_19_1388_C27_3_EB0000_0_0_0.png
 ln -s astra.png 1_0_1_13ED_403_1_C00000_0_0_0.png
 ln -s astra.png 1_0_1_1265_3F7_1_C00000_0_0_0.png
 ln -s astra.png 1_0_16_5277_41D_1_C00000_0_0_0.png
-ln -s astra.png 1_0_19_157d_41f_1_c00000_0_0_0.png
+ln -s astra.png 1_0_19_157D_41F_1_C00000_0_0_0.png
 
 # astrotv
 ln -s astrotv.png 1_0_19_D16C_2713_F001_EB0000_0_0_0.png
@@ -2233,7 +2233,7 @@ ln -s einsplus.png 1_0_1_7033_41B_1_C00000_0_0_0.png
 ln -s einsplus.png 1_0_1_7033_0_0_EBB18C_0_0_0.png
 
 # encaafrica
-ln -s encaafrica.png 1_0_1_d7e7_a35_2_11a0000_0_0_0.png
+ln -s encaafrica.png 1_0_1_D7E7_A35_2_11A0000_0_0_0.png
 
 # encyclo
 ln -s encyclo.png 1_0_1_427F_446_1_C00000_0_0_0.png
@@ -2903,7 +2903,7 @@ ln -s freextv.png 1_0_1_1299_3458_13E_820000_0_0_0.png
 ln -s freextv.png 1_0_1_833_22C4_13E_820000_0_0_0.png
 
 # freextv2
-ln -s freextv2.png 1_0_1_35c1_1388_13e_820000_0_0_0.png
+ln -s freextv2.png 1_0_1_35C1_1388_13E_820000_0_0_0.png
 
 # frenchlovertv
 ln -s frenchlovertv.png 1_0_1_1907_3FA_1_C00000_0_0_0.png
@@ -3425,7 +3425,7 @@ ln -s iqraa.png 1_0_1_D326_A29_2_11A0000_0_0_0.png
 ln -s islamchannel.png 1_0_1_C49F_964_2_11A0000_0_0_0.png
 
 # jctv
-ln -s jctv.png 1_0_1_325_3bc4_13e_820000_0_0_0.png
+ln -s jctv.png 1_0_1_325_3BC4_13E_820000_0_0_0.png
 
 # jewellerymaker
 ln -s jewellerymaker.png 1_0_1_CB26_907_2_11A0000_0_0_0.png
@@ -5238,7 +5238,7 @@ ln -s ric.png 1_0_1_32DB_45D_1_C00000_0_0_0.png
 ln -s rikstoto.png 1_0_1_5E7_47_46_7120000_0_0_0.png
 
 # rishtey
-ln -s rishtey.png 1_0_1_d7a9_900_2_11a0000_0_0_0.png
+ln -s rishtey.png 1_0_1_D7A9_900_2_11A0000_0_0_0.png
 
 # rmcdecouvertehd
 ln -s rmcdecouvertehd.png 1_0_1_275F_402_1_C00000_0_0_0.png
@@ -5281,13 +5281,13 @@ ln -s rt.png 1_0_1_7A46_410_1_C00000_0_0_0.png
 ln -s rt.png 1_0_1_FF0_6_56_300000_0_0_0.png
 
 # rthd
-ln -s rthd.png 1_0_1_18ee_3f4_1_c00000_0_0_0.png
-ln -s rthd.png 1_0_1_18ed_3f4_1_c00000_0_0_0.png
-ln -s rthd.png 1_0_1_7d1_22c4_13e_820000_0_0_0.png
-ln -s rthd.png 1_0_19_cf9c_908_2_11a0000_0_0_0.png
+ln -s rthd.png 1_0_1_18EE_3F4_1_C00000_0_0_0.png
+ln -s rthd.png 1_0_1_18ED_3F4_1_C00000_0_0_0.png
+ln -s rthd.png 1_0_1_7D1_22C4_13E_820000_0_0_0.png
+ln -s rthd.png 1_0_19_CF9C_908_2_11A0000_0_0_0.png
 
 # rtdocumentary
-ln -s rtdocumentary.png 1_0_1_7d2_22c4_13e_820000_0_0_0.png
+ln -s rtdocumentary.png 1_0_1_7D2_22C4_13E_820000_0_0_0.png
 
 # rtcg
 
@@ -5461,7 +5461,7 @@ ln -s s4c.png 1_0_1_1BF8_7E2_2_11A0000_0_0_0.png
 # s4c2
 
 # samaa
-ln -s samaa.png 1_0_1_d6da_a33_2_11a0000_0_0_0.png
+ln -s samaa.png 1_0_1_D6DA_A33_2_11A0000_0_0_0.png
 
 # samadubai
 ln -s samadubai.png 1_0_1_251F_13EF_13E_820000_0_0_0.png
@@ -6419,10 +6419,10 @@ ln -s skyuk.png 1_0_1_11AD_7DC_2_11A0000_0_0_0.png
 ln -s skyuk.png 1_0_1_138C_7DC_2_11A0000_0_0_0.png
 ln -s skyuk.png 1_0_19_F38_7E0_2_11A0000_0_0_0.png
 ln -s skyuk.png 1_0_19_F39_7F7_2_11A0000_0_0_0.png
-ln -s skyuk.png 1_0_1_1199_7d7_2_11a0000_0_0_0.png
-ln -s skyuk.png 1_0_1_11a3_7d7_2_11a0000_0_0_0.png
-ln -s skyuk.png 1_0_1_11ad_7d7_2_11a0000_0_0_0.png
-ln -s skyuk.png 1_0_1_138c_7d7_2_11a0000_0_0_0.png
+ln -s skyuk.png 1_0_1_1199_7D7_2_11A0000_0_0_0.png
+ln -s skyuk.png 1_0_1_11A3_7D7_2_11A0000_0_0_0.png
+ln -s skyuk.png 1_0_1_11AD_7D7_2_11A0000_0_0_0.png
+ln -s skyuk.png 1_0_1_138C_7D7_2_11A0000_0_0_0.png
 
 # skyhduk
 
@@ -8965,8 +8965,8 @@ ln -s rtssat.png 1_0_1_5743_EA_A018_FFFF0000_0_0_0.png
 ln -s rtv21.png 1_0_1_568E_E1_A018_FFFF0000_0_0_0.png
 ln -s rtvi.png 1_0_1_5A45_E7_270F_FFFF0000_0_0_0.png
 ln -s rtvi.png 1_0_1_CFD1_2711_F001_FFFF0000_0_0_0.png
-ln -s russiatoday.png 1_0_1_4E93_C9_270F_FFFF0000_0_0_0.png
-ln -s russiatoday.png 1_0_1_561D_DA_A018_FFFF0000_0_0_0.png
+ln -s rt.png 1_0_1_4E93_C9_270F_FFFF0000_0_0_0.png
+ln -s rt.png 1_0_1_561D_DA_A018_FFFF0000_0_0_0.png
 ln -s samanyolutv.png 1_0_1_5772_ED_A018_FFFF0000_0_0_0.png
 ln -s samanyolutv.png 1_0_1_6214_F1_270F_FFFF0000_0_0_0.png
 ln -s sat1.png 1_0_1_2F46_A1_270F_FFFF0000_0_0_0.png
