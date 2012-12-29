@@ -2232,6 +2232,9 @@ ln -s einsfestivalhd.png 1_0_19_6EEA_4B1_1_C00000_0_0_0.png
 ln -s einsplus.png 1_0_1_7033_41B_1_C00000_0_0_0.png
 ln -s einsplus.png 1_0_1_7033_0_0_EBB18C_0_0_0.png
 
+# encaafrica
+ln -s encaafrica.png 1_0_1_d7e7_a35_2_11a0000_0_0_0.png
+
 # encyclo
 ln -s encyclo.png 1_0_1_427F_446_1_C00000_0_0_0.png
 ln -s encyclo.png 1_0_1_D4_3E1C_13F_820000_0_0_0.png
@@ -3420,6 +3423,9 @@ ln -s iqraa.png 1_0_1_D326_A29_2_11A0000_0_0_0.png
 
 # islamchannel
 ln -s islamchannel.png 1_0_1_C49F_964_2_11A0000_0_0_0.png
+
+# jctv
+ln -s jctv.png 1_0_1_325_3bc4_13e_820000_0_0_0.png
 
 # jewellerymaker
 ln -s jewellerymaker.png 1_0_1_CB26_907_2_11A0000_0_0_0.png
@@ -5231,6 +5237,9 @@ ln -s ric.png 1_0_1_32DB_45D_1_C00000_0_0_0.png
 # rikstoto
 ln -s rikstoto.png 1_0_1_5E7_47_46_7120000_0_0_0.png
 
+# rishtey
+ln -s rishtey.png 1_0_1_d7a9_900_2_11a0000_0_0_0.png
+
 # rmcdecouvertehd
 ln -s rmcdecouvertehd.png 1_0_1_275F_402_1_C00000_0_0_0.png
 
@@ -5450,6 +5459,9 @@ ln -s s4c.png 1_0_1_1C85_7E6_2_11A0000_0_0_0.png
 ln -s s4c.png 1_0_1_1BF8_7E2_2_11A0000_0_0_0.png
 
 # s4c2
+
+# samaa
+ln -s samaa.png 1_0_1_d6da_a33_2_11a0000_0_0_0.png
 
 # samadubai
 ln -s samadubai.png 1_0_1_251F_13EF_13E_820000_0_0_0.png
@@ -6407,6 +6419,10 @@ ln -s skyuk.png 1_0_1_11AD_7DC_2_11A0000_0_0_0.png
 ln -s skyuk.png 1_0_1_138C_7DC_2_11A0000_0_0_0.png
 ln -s skyuk.png 1_0_19_F38_7E0_2_11A0000_0_0_0.png
 ln -s skyuk.png 1_0_19_F39_7F7_2_11A0000_0_0_0.png
+ln -s skyuk.png 1_0_1_1199_7d7_2_11a0000_0_0_0.png
+ln -s skyuk.png 1_0_1_11a3_7d7_2_11a0000_0_0_0.png
+ln -s skyuk.png 1_0_1_11ad_7d7_2_11a0000_0_0_0.png
+ln -s skyuk.png 1_0_1_138c_7d7_2_11a0000_0_0_0.png
 
 # skyhduk
 
