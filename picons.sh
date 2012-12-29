@@ -2621,37 +2621,23 @@ ln -s filmboxhd.png 1_0_19_13B3_C95_3_EB0000_0_0_0.png
 # filmboxactionhd
 ln -s filmboxactionhd.png 1_0_1_1528_C86_3_EB0000_0_0_0.png
 
-# film1premiere
-ln -s film1premiere.png 1_0_1_FA5_451_35_C00000_0_0_0.png
-
-# film1premiereplus
-
-# film1premierehd
-ln -s film1premierehd.png 1_0_19_51DB_C96_3_EB0000_0_0_0.png
-ln -s film1premierehd.png 1_0_1_51DB_C96_3_EB0000_0_0_0.png
-
-# film1family
-ln -s film1family.png 1_0_19_51AE_C96_3_EB0000_0_0_0.png
-ln -s film1family.png 1_0_1_FA7_451_35_C00000_0_0_0.png
-ln -s film1family.png 1_0_16_51AE_C96_3_EB0000_0_0_0.png
-ln -s film1family.png 1_0_1_51AE_C96_3_EB0000_0_0_0.png
-
-# film1sundance
-ln -s film1sundance.png 1_0_16_51B3_C96_3_EB0000_0_0_0.png
-ln -s film1sundance.png 1_0_1_51B3_C00000_0_0_0.png
-ln -s film1sundance.png 1_0_1_51B3_C96_3_EB0000_0_0_0.png
-ln -s film1sundance.png 1_0_19_51B3_C96_3_EB0000_0_0_0.png
-
-# film1series
-
 # film1action
-ln -s film1action.png 1_0_19_51B8_C96_3_EB0000_0_0_0.png
-ln -s film1action.png 1_0_16_51B8_C96_3_EB0000_0_0_0.png
-ln -s film1action.png 1_0_1_51B8_C96_3_EB0000_0_0_0.png
-
-# film1actionplus
+ln -s film1action.png 1_0_16_51b8_c96_3_eb0000_0_0_0.png
 
 # film1actionhd
+
+# film1family
+ln -s film1family.png 1_0_16_51ae_c96_3_eb0000_0_0_0.png
+
+# film1premiere
+
+# film1premierehd
+ln -s film1premierehd.png 1_0_19_51db_c96_3_eb0000_0_0_0.png
+
+# film1sundance
+ln -s film1sundance.png 1_0_16_51b3_c96_3_eb0000_0_0_0.png
+
+# film1series
 
 # film24
 
