@@ -899,6 +899,7 @@ ln -s boomerang.png 1_0_1_38_F_85_C00000_0_0_0.png
 ln -s boomerang.png 1_0_16_1794_C82_3_EB0000_0_0_0.png
 ln -s boomerang.png 1_0_1_967_2_46_7120000_0_0_0.png
 ln -s boomerang.png 1_0_1_DAC_C_1_7120000_0_0_0.png
+ln -s boomerang.png 1_0_1_1597_c92_3_eb0000_0_0_0.png
 
 # boomerangplus1
 ln -s boomerangplus1.png 1_0_1_1BBD_7E2_2_11A0000_0_0_0.png
@@ -1734,6 +1735,7 @@ ln -s d8.png 1_0_1_22AD_238C_13E_820000_0_0_0.png
 ln -s d8.png 1_0_1_22B0_238C_13E_820000_0_0_0.png
 ln -s d8.png 1_0_1_134_3E1C_13F_820000_0_0_0.png
 ln -s d8.png 1_0_1_2200_44C_1_C00000_0_0_0.png
+ln -s d8.png 1_0_1_2214_44c_1_c00000_0_0_0.png
 
 # d17
 ln -s d17.png 1_0_1_23F1_452_1_C00000_0_0_0.png
@@ -3677,12 +3679,14 @@ ln -s lcp.png 1_0_1_2406_452_1_C00000_0_0_0.png
 ln -s lcp.png 1_0_1_DB_3E1C_13F_820000_0_0_0.png
 ln -s lcp.png 1_0_1_139_3E1C_13F_820000_0_0_0.png
 ln -s lcp.png 1_0_1_2208_44C_1_C00000_0_0_0.png
+ln -s lcp.png 1_0_1_221c_44c_1_c00000_0_0_0.png
 
 # lequipe21
 ln -s lequipe21.png 1_0_1_189F_3F4_1_C00000_0_0_0.png
 
 # lequipetv
 ln -s lequipetv.png 1_0_1_2202_44C_1_C00000_0_0_0.png
+ln -s lequipetv.png 1_0_1_2216_44c_1_c00000_0_0_0.png
 
 # libertytv
 ln -s libertytv.png 1_0_1_2F58_454_1_C00000_0_0_0.png
@@ -3811,6 +3815,9 @@ ln -s machainesport.png 1_0_1_4465_1F40_13E_820000_0_0_0.png
 ln -s machainesporthd.png 1_0_19_24BB_43C_1_C00000_0_0_0.png
 ln -s machainesporthd.png 1_0_19_24CF_43C_1_C00000_0_0_0.png
 
+# machainesportbienetre
+ln -s machainesportbienetre.png 1_0_1_213C_400_1_C00000_0_0_0.png
+
 # massiverandb
 ln -s massiverandb.png 1_0_1_C6C2_969_2_11A0000_0_0_0.png
 ln -s massiverandb.png 1_0_1_D74A_A34_2_11A0000_0_0_0.png
@@ -3852,9 +3859,6 @@ ln -s mcmpop.png 1_0_1_4464_1F40_13E_820000_0_0_0.png
 
 # mcmtop
 ln -s mcmtop.png 1_0_1_20AD_432_1_C00000_0_0_0.png
-
-# mcsbienetre
-ln -s mcsbienetre.png 1_0_1_213C_400_1_C00000_0_0_0.png
 
 # mdr
 ln -s mdr.png 1_0_1_6E44_431_1_C00000_0_0_0.png
@@ -3932,8 +3936,6 @@ ln -s minimax.png 1_0_1_3FA_1_1_7120000_0_0_0.png
 
 # minimax_animax
 ln -s minimax_animax.png 1_0_1_4F72_4FF_1_C00000_0_0_0.png
-
-# minimini
 
 # minimini+
 ln -s minimini+.png 1_0_1_1137_2AF8_13E_820000_0_0_0.png
@@ -4603,6 +4605,7 @@ ln -s nuvolari.png 1_0_1_3426_2710_FBFF_820000_0_0_0.png
 
 # numero23
 ln -s numero23.png 1_0_1_2136_400_1_C00000_0_0_0.png
+ln -s numero23.png 1_0_1_217c_400_1_c00000_0_0_0.png
 
 # nollywoodmovies
 ln -s nollywoodmovies.png 1_0_1_D3C9_A2B_2_11A0000_0_0_0.png
@@ -5228,6 +5231,7 @@ ln -s rishtey.png 1_0_1_D7A9_900_2_11A0000_0_0_0.png
 
 # rmcdecouvertehd
 ln -s rmcdecouvertehd.png 1_0_1_275F_402_1_C00000_0_0_0.png
+ln -s rmcdecouvertehd.png 1_0_1_2761_402_1_c00000_0_0_0.png
 
 # rnfplus
 ln -s rnfplus.png 1_0_1_300_7_85_C00000_0_0_0.png
