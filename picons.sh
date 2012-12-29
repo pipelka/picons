@@ -818,6 +818,7 @@ ln -s bloomberg.png 1_0_1_726_31_46_7120000_0_0_0.png
 ln -s bluehustler.png 1_0_1_2914_1EDC_71_820000_0_0_0.png
 ln -s bluehustler.png 1_0_1_442_2_AA_5A0000_0_0_0.png
 ln -s bluehustler.png 1_0_1_C8B_19_46_7120000_0_0_0.png
+ln -s bluehustler.png 1_0_1_2954_1edc_71_820000_0_0_0.png
 
 # bluekiss
 
@@ -2274,6 +2275,15 @@ ln -s erfeins.png 1_0_1_D10B_2715_F001_EB0000_0_0_0.png
 # erotiksat
 ln -s erotiksat.png 1_0_1_314B_459_1_C00000_0_0_0.png
 
+# eroxhd
+ln -s eroxhd.png 1_0_1_1526_c86_3_eb0000_0_0_0.png
+
+# eroxxhd
+ln -s eroxxhd.png 1_0_1_1523_c86_3_eb0000_0_0_0.png
+
+# eroxxxhd
+ln -s eroxxxhd.png 1_0_1_1524_c86_3_eb0000_0_0_0.png
+
 # ertworld
 ln -s ertworld.png 1_0_1_43AC_2CEC_13E_820000_0_0_0.png
 ln -s ertworld.png 1_0_1_834_3D54_13E_820000_0_0_0.png
@@ -2532,6 +2542,7 @@ ln -s eurosportnews.png 1_0_1_13C_19C8_9E_5A0000_0_0_0.png
 # eurotictv
 ln -s eurotictv.png 1_0_1_2F5B_454_1_C00000_0_0_0.png
 ln -s eurotictv.png 1_0_1_EE6_30D4_13E_820000_0_0_0.png
+ln -s eurotictv.png 1_0_1_1271_3458_13e_820000_0_0_0.png
 
 # ewtn
 ln -s ewtn.png 1_0_1_1AFB_3FE_1_C00000_0_0_0.png
@@ -2882,15 +2893,16 @@ ln -s frankenfernsehen.png 1_0_1_11F9_3FD_1_C00000_0_0_0.png
 # frankensat
 ln -s frankensat.png 1_0_1_2778_444_1_C00000_0_0_0.png
 
-# freex-tv
-ln -s freex-tv.png 1_0_1_1299_3458_13E_820000_0_0_0.png
+# freextv
+ln -s freextv.png 1_0_1_1299_3458_13E_820000_0_0_0.png
+ln -s freextv.png 1_0_1_833_22c4_13e_820000_0_0_0.png
 
-# freex-tv2
-ln -s freex-tv2.png 1_0_1_35C1_1388_13E_820000_0_0_0.png
+# freextv2
 
 # frenchlovertv
 ln -s frenchlovertv.png 1_0_1_1907_3FA_1_C00000_0_0_0.png
 ln -s frenchlovertv.png 1_0_1_129A_3458_13E_820000_0_0_0.png
+ln -s frenchlovertv.png 1_0_1_832_22c4_13e_820000_0_0_0.png
 
 # frisbee
 ln -s frisbee.png 1_0_1_E24_708_C8_820000_0_0_0.png
@@ -3245,6 +3257,7 @@ ln -s hustlertv.png 1_0_1_25D_A_46_7120000_0_0_0.png
 
 # hustlerhd
 ln -s hustlerhd.png 1_0_1_4225_3DB8_13E_820000_0_0_0.png
+ln -s hustlerhd.png 1_0_1_4230_3db8_13e_820000_0_0_0.png
 
 # idealworld
 ln -s idealworld.png 1_0_1_CC08_8FF_2_11A0000_0_0_0.png
@@ -5173,13 +5186,20 @@ ln -s realmadridtv.png 1_0_1_1139_7EE_2_11A0000_0_0_0.png
 
 # recordinternacional
 ln -s recordinternacional.png 1_0_1_253F_A34_2_11A0000_0_0_0.png
-ln -s recordinternacional.png 1_0_1_1B62_3FC_1_C00000_0_0_0.png
+ln -s recordinternacional.png 1_0_1_1B62_3FCi_1_C00000_0_0_0.png
 
 # redhotsextv
 ln -s redhotsextv.png 1_0_1_1272_3458_13E_820000_0_0_0.png
 ln -s redhotsextv.png 1_0_1_1273_3458_13E_820000_0_0_0.png
 ln -s redhotsextv.png 1_0_1_1274_3458_13E_820000_0_0_0.png
 ln -s redhotsextv.png 1_0_1_1275_3458_13E_820000_0_0_0.png
+
+# redlighttv
+ln -s redlighttv.png 1_0_1_35c0_1388_13e_820000_0_0_0.png
+
+# redlighthd
+ln -s redlighthd.png 1_0_1_4224_3db8_13e_820000_0_0_0.png
+ln -s redlighthd.png 1_0_1_422f_3db8_13e_820000_0_0_0.png
 
 # redlightpremium
 ln -s redlightpremium.png 1_0_1_378A_44C_13E_820000_0_0_0.png
@@ -7626,8 +7646,6 @@ ln -s viasat6hd.png 1_0_19_A32_22_56_300000_0_0_0.png
 # viasatcrime
 
 # viasatexplorer
-ln -s viasatexplorer.png 1_0_1_1416_C8A_3_EB0000_0_0_0.png
-ln -s viasatexplorer.png 1_0_1_13DA_C8A_3_EB0000_0_0_0.png
 ln -s viasatexplorer.png 1_0_1_1B8A_9_56_300000_0_0_0.png
 ln -s viasatexplorer.png 1_0_1_54A_3_1_7120000_0_0_0.png
 
@@ -7636,6 +7654,8 @@ ln -s viasatexplorerhd.png 1_0_19_A3C_22_56_300000_0_0_0.png
 
 # viasatexplorer_spice
 ln -s viasatexplorer_spice.png 1_0_1_190A_14_56_300000_0_0_0.png
+ln -s viasatexplorer_spice.png 1_0_1_1416_c8a_3_eb0000_0_0_0.png
+ln -s viasatexplorer_spice.png 1_0_1_13da_c8a_3_eb0000_0_0_0.png
 
 # viasatfilm
 ln -s viasatfilm.png 1_0_1_474_3_56_300000_0_0_0.png
