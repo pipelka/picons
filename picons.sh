@@ -5186,7 +5186,7 @@ ln -s realmadridtv.png 1_0_1_1139_7EE_2_11A0000_0_0_0.png
 
 # recordinternacional
 ln -s recordinternacional.png 1_0_1_253F_A34_2_11A0000_0_0_0.png
-ln -s recordinternacional.png 1_0_1_1B62_3FCi_1_C00000_0_0_0.png
+ln -s recordinternacional.png 1_0_1_1B62_3FC_1_C00000_0_0_0.png
 
 # redhotsextv
 ln -s redhotsextv.png 1_0_1_1272_3458_13E_820000_0_0_0.png
