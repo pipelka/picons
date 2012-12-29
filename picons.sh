@@ -818,7 +818,7 @@ ln -s bloomberg.png 1_0_1_726_31_46_7120000_0_0_0.png
 ln -s bluehustler.png 1_0_1_2914_1EDC_71_820000_0_0_0.png
 ln -s bluehustler.png 1_0_1_442_2_AA_5A0000_0_0_0.png
 ln -s bluehustler.png 1_0_1_C8B_19_46_7120000_0_0_0.png
-ln -s bluehustler.png 1_0_1_2954_1edc_71_820000_0_0_0.png
+ln -s bluehustler.png 1_0_1_2954_1EDC_71_820000_0_0_0.png
 
 # bluekiss
 
@@ -1657,7 +1657,7 @@ ln -s dasvierte.png 1_0_1_E3_14B4_9C_5A0000_0_0_0.png
 
 # dave
 ln -s dave.png 1_0_1_196A_7D6_2_11A0000_0_0_0.png
-ln -s dave.png 1_0_1_1dc4_7df_2_11a0000_0_0_0.png
+ln -s dave.png 1_0_1_1DC4_7DF_2_11A0000_0_0_0.png
 
 # davehd
 ln -s davehd.png 1_0_19_EE1_7E9_2_11A0000_0_0_0.png
@@ -2277,13 +2277,13 @@ ln -s erfeins.png 1_0_1_D10B_2715_F001_EB0000_0_0_0.png
 ln -s erotiksat.png 1_0_1_314B_459_1_C00000_0_0_0.png
 
 # eroxhd
-ln -s eroxhd.png 1_0_1_1526_c86_3_eb0000_0_0_0.png
+ln -s eroxhd.png 1_0_1_1526_C86_3_EB0000_0_0_0.png
 
 # eroxxhd
-ln -s eroxxhd.png 1_0_1_1523_c86_3_eb0000_0_0_0.png
+ln -s eroxxhd.png 1_0_1_1523_C86_3_EB0000_0_0_0.png
 
 # eroxxxhd
-ln -s eroxxxhd.png 1_0_1_1524_c86_3_eb0000_0_0_0.png
+ln -s eroxxxhd.png 1_0_1_1524_C86_3_EB0000_0_0_0.png
 
 # ertworld
 ln -s ertworld.png 1_0_1_43AC_2CEC_13E_820000_0_0_0.png
@@ -2543,7 +2543,7 @@ ln -s eurosportnews.png 1_0_1_13C_19C8_9E_5A0000_0_0_0.png
 # eurotictv
 ln -s eurotictv.png 1_0_1_2F5B_454_1_C00000_0_0_0.png
 ln -s eurotictv.png 1_0_1_EE6_30D4_13E_820000_0_0_0.png
-ln -s eurotictv.png 1_0_1_1271_3458_13e_820000_0_0_0.png
+ln -s eurotictv.png 1_0_1_1271_3458_13E_820000_0_0_0.png
 
 # ewtn
 ln -s ewtn.png 1_0_1_1AFB_3FE_1_C00000_0_0_0.png
@@ -2896,14 +2896,14 @@ ln -s frankensat.png 1_0_1_2778_444_1_C00000_0_0_0.png
 
 # freextv
 ln -s freextv.png 1_0_1_1299_3458_13E_820000_0_0_0.png
-ln -s freextv.png 1_0_1_833_22c4_13e_820000_0_0_0.png
+ln -s freextv.png 1_0_1_833_22C4_13E_820000_0_0_0.png
 
 # freextv2
 
 # frenchlovertv
 ln -s frenchlovertv.png 1_0_1_1907_3FA_1_C00000_0_0_0.png
 ln -s frenchlovertv.png 1_0_1_129A_3458_13E_820000_0_0_0.png
-ln -s frenchlovertv.png 1_0_1_832_22c4_13e_820000_0_0_0.png
+ln -s frenchlovertv.png 1_0_1_832_22C4_13E_820000_0_0_0.png
 
 # frisbee
 ln -s frisbee.png 1_0_1_E24_708_C8_820000_0_0_0.png
@@ -3258,7 +3258,7 @@ ln -s hustlertv.png 1_0_1_25D_A_46_7120000_0_0_0.png
 
 # hustlerhd
 ln -s hustlerhd.png 1_0_1_4225_3DB8_13E_820000_0_0_0.png
-ln -s hustlerhd.png 1_0_1_4230_3db8_13e_820000_0_0_0.png
+ln -s hustlerhd.png 1_0_1_4230_3DB8_13E_820000_0_0_0.png
 
 # idealworld
 ln -s idealworld.png 1_0_1_CC08_8FF_2_11A0000_0_0_0.png
@@ -5189,11 +5189,11 @@ ln -s recordinternacional.png 1_0_1_253F_A34_2_11A0000_0_0_0.png
 ln -s recordinternacional.png 1_0_1_1B62_3FC_1_C00000_0_0_0.png
 
 # redlighttv
-ln -s redlighttv.png 1_0_1_35c0_1388_13e_820000_0_0_0.png
+ln -s redlighttv.png 1_0_1_35C0_1388_13E_820000_0_0_0.png
 
 # redlighthd
-ln -s redlighthd.png 1_0_1_4224_3db8_13e_820000_0_0_0.png
-ln -s redlighthd.png 1_0_1_422f_3db8_13e_820000_0_0_0.png
+ln -s redlighthd.png 1_0_1_4224_3DB8_13E_820000_0_0_0.png
+ln -s redlighthd.png 1_0_1_422F_3DB8_13E_820000_0_0_0.png
 
 # redlightpremium
 ln -s redlightpremium.png 1_0_1_378A_44C_13E_820000_0_0_0.png
@@ -5627,7 +5627,7 @@ ln -s sky1uk.png 1_0_1_125F_7EE_2_11A0000_0_0_0.png
 ln -s sky1uk.png 1_0_1_1261_961_2_11A0000_0_0_0.png
 
 # sky1plus1uk
-ln -s sky1plus1uk.png 1_0_1_57b_7e5_2_11a0000_0_0_0.png
+ln -s sky1plus1uk.png 1_0_1_57B_7E5_2_11A0000_0_0_0.png
 
 # sky2uk
 ln -s sky2uk.png 1_0_1_13F0_7EB_2_11A0000_0_0_0.png
@@ -5692,7 +5692,7 @@ ln -s skyatlanticuk.png 1_0_1_126A_961_2_11A0000_0_0_0.png
 ln -s skyatlanticuk.png 1_0_1_1325_7E7_2_11A0000_0_0_0.png
 
 # skyatlanticplus1uk
-ln -s skyatlanticplus1uk.png 1_0_1_585_966_2_11a0000_0_0_0.png
+ln -s skyatlanticplus1uk.png 1_0_1_585_966_2_11A0000_0_0_0.png
 
 # skyatlantichduk
 ln -s skyatlantichduk.png 1_0_19_F0D_7F1_2_11A0000_0_0_0.png
@@ -5996,10 +5996,10 @@ ln -s skymoviesboxofficeuk.png 1_0_4_101B_7DC_2_11A0000_0_0_0.png
 ln -s skymoviesboxofficeuk.png 1_0_0_D7C1_A35_2_11A0000_0_0_0.png
 ln -s skymoviesboxofficeuk.png 1_0_4_102D_7D5_2_11A0000_0_0_0.png
 ln -s skymoviesboxofficeuk.png 1_0_4_102D_7F0_2_11A0000_0_0_0.png
-ln -s skymoviesboxofficeuk.png 1_0_0_12dd_961_2_11a0000_0_0_0.png
-ln -s skymoviesboxofficeuk.png 1_0_0_12de_961_2_11a0000_0_0_0.png
-ln -s skymoviesboxofficeuk.png 1_0_0_133e_961_2_11a0000_0_0_0.png
-ln -s skymoviesboxofficeuk.png 1_0_0_12dc_961_2_11a0000_0_0_0.png
+ln -s skymoviesboxofficeuk.png 1_0_0_12DD_961_2_11A0000_0_0_0.png
+ln -s skymoviesboxofficeuk.png 1_0_0_12DE_961_2_11A0000_0_0_0.png
+ln -s skymoviesboxofficeuk.png 1_0_0_133E_961_2_11A0000_0_0_0.png
+ln -s skymoviesboxofficeuk.png 1_0_0_12DC_961_2_11A0000_0_0_0.png
 
 # skymoviesactionhduk
 ln -s skymoviesactionhduk.png 1_0_19_EE6_7EC_2_11A0000_0_0_0.png
@@ -7646,8 +7646,8 @@ ln -s viasatexplorerhd.png 1_0_19_A3C_22_56_300000_0_0_0.png
 
 # viasatexplorer_spice
 ln -s viasatexplorer_spice.png 1_0_1_190A_14_56_300000_0_0_0.png
-ln -s viasatexplorer_spice.png 1_0_1_1416_c8a_3_eb0000_0_0_0.png
-ln -s viasatexplorer_spice.png 1_0_1_13da_c8a_3_eb0000_0_0_0.png
+ln -s viasatexplorer_spice.png 1_0_1_1416_C8A_3_EB0000_0_0_0.png
+ln -s viasatexplorer_spice.png 1_0_1_13DA_C8A_3_EB0000_0_0_0.png
 
 # viasatfilm
 ln -s viasatfilm.png 1_0_1_474_3_56_300000_0_0_0.png
