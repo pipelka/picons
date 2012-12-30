@@ -182,9 +182,6 @@ ln -s aegyptentv.png 1_0_1_313F_459_1_C00000_0_0_0.png
 
 # afn
 
-# aftv
-ln -s aftv.png 1_0_1_1452_C98_3_EB0000_0_0_0.png
-
 # africachannel
 ln -s africachannel.png 1_0_1_D7E8_A35_2_11A0000_0_0_0.png
 
@@ -319,8 +316,6 @@ ln -s antena3.png 1_0_1_7604_408_1_C00000_0_0_0.png
 
 # ant1
 ln -s ant1.png 1_0_1_140_157C_13E_820000_0_0_0.png
-
-# ant1europe
 
 # anixe
 ln -s anixe.png 1_0_1_CF77_271A_F001_EB0000_0_0_0.png
@@ -3841,9 +3836,6 @@ ln -s man-x.png 1_0_16_3218_45F_35_C00000_0_0_0.png
 
 # matvnational
 ln -s matvnational.png 1_0_1_D41C_A2C_2_11A0000_0_0_0.png
-
-# maxtv
-ln -s maxtv.png 1_0_1_CD23_902_2_11A0000_0_0_0.png
 
 # mbc
 ln -s mbc.png 1_0_1_252B_13EF_13E_820000_0_0_0.png
@@ -8069,20 +8061,13 @@ ln -s zeetv.png 1_0_1_2978_15E0_9E_5A0000_0_0_0.png
 # zing
 ln -s zing.png 1_0_1_C526_965_2_11A0000_0_0_0.png
 
-# zoneeuropa
-ln -s zoneeuropa.png 1_0_19_3E1E_2EE0_13E_820000_0_0_0.png
-ln -s zoneeuropa.png 1_0_1_290B_1EDC_71_820000_0_0_0.png
+# zoneclub
 
 # zonereality
-ln -s zonereality.png 1_0_1_4F56_447_1_C00000_0_0_0.png
-ln -s zonereality.png 1_0_1_1407_5DC_13E_820000_0_0_0.png
-ln -s zonereality.png 1_0_19_3E2F_2EE0_13E_820000_0_0_0.png
 
 # zoneromantica
 ln -s zoneromantica.png 1_0_19_3E30_2EE0_13E_820000_0_0_0.png
 ln -s zoneromantica.png 1_0_1_1C85_1CE8_71_820000_0_0_0.png
-
-# zonethriller
 
 # RADIO
 
