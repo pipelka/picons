@@ -7022,13 +7022,6 @@ ln -s traceurban.png 1_0_1_2206_44C_1_C00000_0_0_0.png
 ln -s traceurban.png 1_0_1_F_170C_9E_5A0000_0_0_0.png
 ln -s traceurban.png 1_0_1_2400_452_1_C00000_0_0_0.png
 
-# tracetv
-ln -s tracetv.png 1_0_1_C3B7_2719_F001_EB0000_0_0_0.png
-ln -s tracetv.png 1_0_1_13F1_5DC_13E_820000_0_0_0.png
-
-# traumkontakt.tv
-ln -s traumkontakt.tv.png 1_0_1_278D_444_1_C00000_0_0_0.png
-
 # travelchannel
 ln -s travelchannel.png 1_0_1_D356_A2A_2_11A0000_0_0_0.png
 ln -s travelchannel.png 1_0_1_4F7C_427_1_C00000_0_0_0.png
@@ -7052,9 +7045,6 @@ ln -s travelchannelhd.png 1_0_1_13C0_C95_3_EB0000_0_0_0.png
 # travelchannelplus1
 ln -s travelchannelplus1.png 1_0_1_CB84_8FD_2_11A0000_0_0_0.png
 ln -s travelchannelplus1.png 1_0_1_CCBC_901_2_11A0000_0_0_0.png
-
-# trtint
-ln -s trtint.png 1_0_19_CFE3_2711_F001_EB0000_0_0_0.png
 
 # trtturk
 
@@ -7459,27 +7449,8 @@ ln -s tvvlaanderen.png 1_0_1_321A_45F_35_C00000_0_0_0.png
 # ucbtv
 ln -s ucbtv.png 1_0_1_CB21_907_2_11A0000_0_0_0.png
 
-# uctv
-
 # ukrainianfashion
 ln -s ukrainianfashion.png 1_0_1_198C_F_55_300000_0_0_0.png
-
-# uktvdocs
-ln -s uktvdocs.png 1_0_1_1970_7D6_2_11A0000_0_0_0.png
-
-# uktvdocsplus1
-
-# uktvfood
-
-# uktvfoodplus1
-
-# uktvg2
-
-# uktvg2plus1
-
-# uktvgold
-
-# uktvgoldplus1
 
 # ummahchannel
 ln -s ummahchannel.png 1_0_1_CB24_907_2_11A0000_0_0_0.png
@@ -7587,6 +7558,10 @@ ln -s venustv.png 1_0_1_C6C4_969_2_11A0000_0_0_0.png
 
 # venusclubtv
 ln -s venusclubtv.png 1_0_1_27A9_444_1_C00000_0_0_0.png
+
+# veronica
+
+# veronicahd
 
 # veronica_disneyxd
 ln -s veronica_disneyxd.png 1_0_19_522B_FFFF_FFFF_EB2F9B_0_0_0.png
@@ -7947,16 +7922,10 @@ ln -s weddingtv.png 1_0_1_D020_909_2_11A0000_0_0_0.png
 ln -s weddingtv.png 1_0_1_1235_2B5C_13E_820000_0_0_0.png
 ln -s weddingtv.png 1_0_1_44C1_258_13E_820000_0_0_0.png
 
-# weddingtvasia
-
-# wonderful
-
 # worldfashionchannel
 ln -s worldfashionchannel.png 1_0_1_39DC_1FA4_13E_820000_0_0_0.png
 ln -s worldfashionchannel.png 1_0_1_44E3_258_13E_820000_0_0_0.png
 ln -s worldfashionchannel.png 1_0_1_427_2_AA_5A0000_0_0_0.png
-
-# xdreamtv
 
 # xxl
 ln -s xxl.png 1_0_1_4280_446_1_C00000_0_0_0.png
