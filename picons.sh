@@ -8342,7 +8342,6 @@ ln -s rai1.png 1_0_1_4A3B_13_3E8_FFFF0000_0_0_0.png
 ln -s tveinternacional.png 1_0_1_4A3A_13_3E8_FFFF0000_0_0_0.png
 ln -s zeetv.png 1_0_1_1B5D_7_3E8_FFFF0000_0_0_0.png
 ln -s zeecinema.png 1_0_1_A4_7_3E8_FFFF0000_0_0_0.png
-ln -s maxtv.png 1_0_1_A2_7_3E8_FFFF0000_0_0_0.png
 ln -s pcne.png 1_0_1_86_7_3E8_FFFF0000_0_0_0.png
 ln -s privatespice.png 1_0_1_8A_5_3E8_FFFF0000_0_0_0.png
 ln -s ned1.png 1_0_1_2711_A_3E8_FFFF0000_0_0_0.png
@@ -8481,7 +8480,6 @@ ln -s rai1.png 1_0_1_1F46_8_1F4_FFFF0000_0_0_0.png
 ln -s tveinternacional.png 1_0_1_4E24_14_1F4_FFFF0000_0_0_0.png
 ln -s zeetv.png 1_0_1_791C_1F_1F4_FFFF0000_0_0_0.png
 ln -s zeecinema.png 1_0_1_791B_1F_1F4_FFFF0000_0_0_0.png
-ln -s maxtv.png 1_0_1_791A_1F_1F4_FFFF0000_0_0_0.png
 ln -s pcne.png 1_0_1_86_1F_1F4_FFFF0000_0_0_0.png
 ln -s privatespice.png 1_0_1_4E25_14_1F4_FFFF0000_0_0_0.png
 ln -s ned1.png 1_0_1_1F44_8_1F4_FFFF0000_0_0_0.png
@@ -8536,8 +8534,8 @@ ln -s animax.png 1_0_1_6211_83_270F_FFFF0000_0_0_0.png
 ln -s animax.png 1_0_1_D03E_2713_F001_FFFF0000_0_0_0.png
 ln -s anixe.png 1_0_1_5696_E2_A018_FFFF0000_0_0_0.png
 ln -s anixehd.png 1_0_19_560D_D9_A018_FFFF0000_0_0_0.png
-ln -s ant1europe.png 1_0_1_5689_E1_A018_FFFF0000_0_0_0.png
-ln -s ant1europe.png 1_0_1_759E_12D_270F_FFFF0000_0_0_0.png
+ln -s ant1.png 1_0_1_5689_E1_A018_FFFF0000_0_0_0.png
+ln -s ant1.png 1_0_1_759E_12D_270F_FFFF0000_0_0_0.png
 ln -s arirangtv.png 1_0_1_571C_E9_A018_FFFF0000_0_0_0.png
 ln -s arte.png 1_0_1_7034_41B_A401_FFFF0000_0_0_0.png
 ln -s artehd.png 1_0_19_42D9_AB_270F_FFFF0000_0_0_0.png
