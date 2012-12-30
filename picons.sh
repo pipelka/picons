@@ -8063,8 +8063,6 @@ ln -s zing.png 1_0_1_C526_965_2_11A0000_0_0_0.png
 
 # zoneclub
 
-# zonereality
-
 # zoneromantica
 ln -s zoneromantica.png 1_0_19_3E30_2EE0_13E_820000_0_0_0.png
 ln -s zoneromantica.png 1_0_1_1C85_1CE8_71_820000_0_0_0.png
@@ -8311,7 +8309,7 @@ ln -s rtlcrime.png 1_0_1_DA_1F_3E8_FFFF0000_0_0_0.png
 ln -s syfy.png 1_0_1_B8_10_3E8_FFFF0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_1_FA6_4_3E8_FFFF0000_0_0_0.png
 ln -s crime.png 1_0_1_27_3_3E8_FFFF0000_0_0_0.png
-ln -s zonereality.png 1_0_1_55F4_16_3E8_FFFF0000_0_0_0.png
+ln -s cbsreality.png 1_0_1_55F4_16_3E8_FFFF0000_0_0_0.png
 ln -s comedycentralfamily.png 1_0_1_1389_5_3E8_FFFF0000_0_0_0.png
 ln -s comedycentralextra.png 1_0_1_E2_5_3E8_FFFF0000_0_0_0.png
 ln -s humor24.png 1_0_1_55F3_16_3E8_FFFF0000_0_0_0.png
@@ -8450,7 +8448,7 @@ ln -s rtlcrime.png 1_0_1_DA_F_1F4_FFFF0000_0_0_0.png
 ln -s syfy.png 1_0_1_B8_12_1F4_FFFF0000_0_0_0.png
 ln -s investigationdiscovery.png 1_0_1_FA6_4_1F4_FFFF0000_0_0_0.png
 ln -s crime.png 1_0_1_BBB_3_1F4_FFFF0000_0_0_0.png
-ln -s zonereality.png 1_0_1_59DC_17_1F4_FFFF0000_0_0_0.png
+ln -s cbsreality.png 1_0_1_59DC_17_1F4_FFFF0000_0_0_0.png
 ln -s comedycentralfamily.png 1_0_1_B3_16_1F4_FFFF0000_0_0_0.png
 ln -s comedycentralextra.png 1_0_1_D9_11_1F4_FFFF0000_0_0_0.png
 ln -s humor24.png 1_0_1_26_18_1F4_FFFF0000_0_0_0.png
