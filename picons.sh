@@ -6534,14 +6534,6 @@ ln -s sportdigital.png 1_0_1_4EEF_21FC_9C_5A0000_0_0_0.png
 ln -s sportdigital.png 1_0_1_D16B_2712_F001_EB0000_0_0_0.png
 ln -s sportdigital.png 1_0_1_3B_F_85_C00000_0_0_0.png
 
-# sportxxx
-ln -s sportxxx.png 1_0_1_CB48_907_2_11A0000_0_0_0.png
-
-# spytv
-ln -s spytv.png 1_0_1_6_30D4_13E_820000_0_0_0.png
-ln -s spytv.png 1_0_1_28_578_13E_82ACCE_0_0_0.png
-ln -s spytv.png 1_0_1_28_578_13E_82ACCF_0_0_0.png
-
 # sritv
 ln -s sritv.png 1_0_1_2995_3D54_13E_820000_0_0_0.png
 ln -s sritv.png 1_0_1_1F5A_319C_13E_820000_0_0_0.png
@@ -6557,21 +6549,15 @@ ln -s star.png 1_0_1_649_19_46_7120000_0_0_0.png
 # starparadies
 ln -s starparadies.png 1_0_1_33AA_3EB_1_C00000_0_0_0.png
 
+# starplus
+ln -s starplus.png 1_0_1_CB8C_8FD_2_11A0000_0_0_0.png
+
 # starplushd
 ln -s starplushd.png 1_0_19_FC9_808_2_11A0000_0_0_0.png
 
 # stargold
 ln -s stargold.png 1_0_1_CB91_8FD_2_11A0000_0_0_0.png
 ln -s stargold.png 1_0_1_4B2_FFFF_FFFF_5AAE1C_0_0_0.png
-
-# starnews
-ln -s starnews.png 1_0_1_D430_A2C_2_11A0000_0_0_0.png
-
-# starplus
-ln -s starplus.png 1_0_1_CB8C_8FD_2_11A0000_0_0_0.png
-
-# starone
-ln -s starone.png 1_0_1_D7AA_900_2_11A0000_0_0_0.png
 
 # starchannel
 ln -s starchannel.png 1_0_1_141_157C_13E_820000_0_0_0.png
@@ -6637,10 +6623,6 @@ ln -s supertennis.png 1_0_1_2C76_251C_FBFF_820000_0_0_0.png
 # supertennishd
 ln -s supertennishd.png 1_0_1_4485_3264_13E_820000_0_0_0.png
 ln -s supertennishd.png 1_0_1_7D3_22C4_13E_820000_0_0_0.png
-
-# suprememaster
-ln -s suprememaster.png 1_0_1_315A_459_1_C00000_0_0_0.png
-ln -s suprememaster.png 1_0_1_25C_3C8C_13E_820000_0_0_0.png
 
 # svt1
 ln -s svt1.png 1_0_1_A00_B_56_300000_0_0_0.png
@@ -6813,9 +6795,6 @@ ln -s teledeporte.png 1_0_1_76CC_40E_1_C00000_0_0_0.png
 
 # teleklub
 
-# telelombardia
-ln -s telelombardia.png 1_0_1_E20_708_C8_820000_0_0_0.png
-
 # telemadrid
 ln -s telemadrid.png 1_0_1_2755_402_1_C00000_0_0_0.png
 ln -s telemadrid.png 1_0_1_7A47_410_1_C00000_0_0_0.png
@@ -6851,8 +6830,6 @@ ln -s teletoon+hd.png 1_0_19_379B_44C_13E_820000_0_0_0.png
 # teletoon+1
 ln -s teletoon+1.png 1_0_1_1909_3FA_1_C00000_0_0_0.png
 
-# teletoonafrica
-
 # tet
 ln -s tet.png 1_0_1_17DE_C_55_300000_0_0_0.png
 
@@ -6882,6 +6859,8 @@ ln -s tf1hd.png 1_0_19_2351_442_1_C00000_0_0_0.png
 ln -s tf6.png 1_0_1_251D_456_1_C00000_0_0_0.png
 ln -s tf6.png 1_0_19_1968_44E_1_C00000_0_0_0.png
 ln -s tf6.png 1_0_19_197C_44E_1_C00000_0_0_0.png
+
+# tf6hd
 
 # tg4
 ln -s tg4.png 1_0_1_2583_7FB_2_11A0000_0_0_0.png
