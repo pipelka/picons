@@ -6193,14 +6193,6 @@ ln -s skyprimafilait.png 1_0_1_2BCC_1A90_FBFF_820000_0_0_0.png
 ln -s skyprimafilait.png 1_0_1_2BCE_1A90_FBFF_820000_0_0_0.png
 ln -s skyprimafilait.png 1_0_1_2BD0_1A90_FBFF_820000_0_0_0.png
 
-# skyreallives2uk
-
-# skyrealliveshduk
-
-# skyreallivesplus1uk
-
-# skyreallivesuk
-
 # skyselectde
 ln -s skyselectde.png 1_0_1_12_4_85_C00000_0_0_0.png
 ln -s skyselectde.png 1_0_D3_FB_2_85_C00000_0_0_0.png
@@ -6431,10 +6423,6 @@ ln -s skyunohdit.png 1_0_1_2C43_251C_FBFF_820000_0_0_0.png
 
 # skyunoplus1it
 ln -s skyunoplus1it.png 1_0_1_2B70_19C8_FBFF_820000_0_0_0.png
-
-# skyvegas
-
-# skyvegasandskypoker
 
 # showcasetv
 ln -s showcasetv.png 1_0_1_CB9D_8FE_2_11A0000_0_0_0.png
