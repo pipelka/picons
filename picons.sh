@@ -5599,9 +5599,6 @@ ln -s sharqiya.png 1_0_1_2526_13EF_13E_820000_0_0_0.png
 # shoppingtv
 ln -s shoppingtv.png 1_0_1_19BE_F_55_300000_0_0_0.png
 
-# shortstv
-ln -s shortstv.png 1_0_1_12FC_7E9_2_11A0000_0_0_0.png
-
 # showtime
 ln -s showtime.png 1_0_1_83F_19_46_7120000_0_0_0.png
 
