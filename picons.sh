@@ -651,6 +651,7 @@ ln -s bbcone.png 1_0_1_2873_800_2_11A0000_0_0_0.png
 ln -s bbcone.png 1_0_1_2874_800_2_11A0000_0_0_0.png
 ln -s bbcone.png 1_0_1_2879_800_2_11A0000_0_0_0.png
 ln -s bbcone.png 1_0_1_1947_7FF_2_11A0000_0_0_0.png
+ln -s bbcone.png 1_0_1_18f7_7fd_2_11a0000_0_0_0.png
 
 # bbconehd
 ln -s bbconehd.png 1_0_1_1B1D_802_2_11A0000_0_0_0.png
@@ -1318,6 +1319,7 @@ ln -s cherie25.png 1_0_1_6F87_42C_1_C00000_0_0_0.png
 
 # childrenitv
 ln -s childrenitv.png 1_0_1_2757_7FC_2_11A0000_0_0_0.png
+ln -s childrenitv.png 1_0_82_275f_7fc_2_11a0000_0_0_0.png
 
 # cielo
 ln -s cielo.png 1_0_1_2B66_19C8_FBFF_820000_0_0_0.png
@@ -2164,6 +2166,9 @@ ln -s e4hd.png 1_0_19_F24_7D8_2_11A0000_0_0_0.png
 ln -s e4plus1.png 1_0_1_206C_7FA_2_11A0000_0_0_0.png
 ln -s e4plus1.png 1_0_1_2F0D_7F8_2_11A0000_0_0_0.png
 
+# ebrutv
+ln -s ebrutv.png 1_0_1_1f67_319c_13e_820000_0_0_0.png
+
 # echotv
 ln -s echotv.png 1_0_1_4F67_4FF_1_C00000_0_0_0.png
 
@@ -2929,7 +2934,6 @@ ln -s gemstv.png 1_0_1_D746_A34_2_11A0000_0_0_0.png
 ln -s gemstv.png 1_0_1_125F_3F7_1_C00000_0_0_0.png
 
 # gemstvextra
-ln -s gemstvextra.png 1_0_1_D740_A34_2_11A0000_0_0_0.png
 
 # geonews
 ln -s geonews.png 1_0_1_C4E5_965_2_11A0000_0_0_0.png
@@ -3284,7 +3288,10 @@ ln -s infosport+.png 1_0_1_2011_430_1_C00000_0_0_0.png
 ln -s innsattv.png 1_0_1_3330_45B_1_C00000_0_0_0.png
 
 # inspirationtv
-ln -s inspirationtv.png 1_0_1_C74B_96B_2_11A0000_0_0_0.png
+ln -s inspirationtv.png 1_0_1_d3c5_a2b_2_11a0000_0_0_0.png
+
+# inspirationaltv
+ln -s inspirationaltv.png 1_0_1_34c8_3c28_13e_820000_0_0_0.png
 
 # intv
 ln -s intv.png 1_0_1_11FA_3FD_1_C00000_0_0_0.png
@@ -3412,6 +3419,9 @@ ln -s jctv.png 1_0_1_325_3BC4_13E_820000_0_0_0.png
 
 # jewellerymaker
 ln -s jewellerymaker.png 1_0_1_CB26_907_2_11A0000_0_0_0.png
+
+# jewishnewsone
+ln -s jewishnewsone.png 1_0_1_6a7_3138_13e_820000_0_0_0.png
 
 # jim
 ln -s jim.png 1_0_1_31EF_45F_35_C00000_0_0_0.png
@@ -3788,7 +3798,7 @@ ln -s m6music.png 1_0_19_197B_44E_1_C00000_0_0_0.png
 ln -s m6replay.png 1_0_1_23AA_44A_1_C00000_0_0_0.png
 
 # madanichannel
-ln -s madanichannel.png 1_0_1_D3CD_A2B_2_11A0000_0_0_0.png
+ln -s madanichannel.png 1_0_1_d6e3_a33_2_11a0000_0_0_0.png
 
 # mad
 ln -s mad.png 1_0_1_17C_1C84_13E_820000_0_0_0.png
@@ -4857,6 +4867,9 @@ ln -s phoenix.png 1_0_1_7035_41B_1_C00000_0_0_0.png
 ln -s phoenixhd.png 1_0_1_285B_401_1_C00000_0_0_0.png
 ln -s phoenixhd.png 1_0_19_285B_401_1_C00000_0_0_0.png
 
+# physiquetv
+ln -s physiquetv.png 1_0_1_e28_708_c8_820000_0_0_0.png
+
 # picktvplus1
 ln -s picktvplus1.png 1_0_1_13F3_7EA_2_11A0000_0_0_0.png
 ln -s picktvplus1.png 1_0_1_1210_7EA_2_11A0000_0_0_0.png
@@ -5270,6 +5283,7 @@ ln -s rthd.png 1_0_19_CF9C_908_2_11A0000_0_0_0.png
 
 # rtdocumentary
 ln -s rtdocumentary.png 1_0_1_7D2_22C4_13E_820000_0_0_0.png
+ln -s rtdocumentary.png 1_0_1_1e7_1964_13e_820000_0_0_0.png
 
 # rtcg
 
@@ -6439,6 +6453,9 @@ ln -s smartlivecasino.png 1_0_1_CB96_8FE_2_11A0000_0_0_0.png
 # smashhits
 ln -s smashhits.png 1_0_1_2EF4_7F8_2_11A0000_0_0_0.png
 
+# smileofachild
+ln -s smileofachild.png 1_0_1_328_3bc4_13e_820000_0_0_0.png
+
 # sonlifetv
 ln -s sonlifetv.png 1_0_1_CBCA_8FD_2_11A0000_0_0_0.png
 ln -s sonlifetv.png 1_0_1_2760_402_1_C00000_0_0_0.png
@@ -6449,6 +6466,9 @@ ln -s sonnenklartv.png 1_0_19_D16F_2713_F001_EB0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_20_21_85_C00000_0_0_0.png
 ln -s sonnenklartv.png 1_0_1_D16F_2713_F001_EB0000_0_0_0.png
 ln -s sonnenklartv.png 1_0_19_1518_455_1_C00000_0_0_0.png
+
+# sonshinetv
+ln -s sonshinetv.png 1_0_1_200e_24b8_13e_820000_0_0_0.png
 
 # sonytv
 ln -s sonytv.png 1_0_1_CB25_907_2_11A0000_0_0_0.png
@@ -6865,6 +6885,9 @@ ln -s tf6.png 1_0_19_197C_44E_1_C00000_0_0_0.png
 # tg4
 ln -s tg4.png 1_0_1_2583_7FB_2_11A0000_0_0_0.png
 
+# tggcoutlet
+ln -s tggcoutlet.png 1_0_1_d740_a34_2_11a0000_0_0_0.png
+
 # tgrteu
 
 # thaitvglobalnetwork
@@ -6906,6 +6929,7 @@ ln -s thevault.png 1_0_1_D06B_90A_2_11A0000_0_0_0.png
 # thewordnetwork
 ln -s thewordnetwork.png 1_0_1_C73D_96B_2_11A0000_0_0_0.png
 ln -s thewordnetwork.png 1_0_1_2987_3D54_13E_820000_0_0_0.png
+ln -s thewordnetwork.png 1_0_1_43dd_2cec_13e_820000_0_0_0.png
 
 # thomascook
 
@@ -7531,6 +7555,9 @@ ln -s ushuaiatvhd.png 1_0_19_2461_440_1_C00000_0_0_0.png
 
 # utv
 ln -s utv.png 1_0_1_27F6_806_2_11A0000_0_0_0.png
+
+# vchannel
+ln -s vchannel.png 1_0_1_c4f9_965_2_11a0000_0_0_0.png
 
 # venustv
 ln -s venustv.png 1_0_1_C6C4_969_2_11A0000_0_0_0.png
