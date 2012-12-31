@@ -3422,6 +3422,7 @@ ln -s jewellerymaker.png 1_0_1_CB26_907_2_11A0000_0_0_0.png
 
 # jewishnewsone
 ln -s jewishnewsone.png 1_0_1_6a7_3138_13e_820000_0_0_0.png
+ln -s jewishnewsone.png 1_0_1_17FC_C_55_300000_0_0_0.png
 
 # jim
 ln -s jim.png 1_0_1_31EF_45F_35_C00000_0_0_0.png
@@ -3452,9 +3453,6 @@ ln -s jml.png 1_0_1_2541_A34_2_11A0000_0_0_0.png
 ln -s jml.png 1_0_1_D368_A2A_2_11A0000_0_0_0.png
 ln -s jml.png 1_0_1_D386_A2A_2_11A0000_0_0_0.png
 ln -s jml.png 1_0_1_202_7_85_C00000_0_0_0.png
-
-# jn1
-ln -s jn1.png 1_0_1_17FC_C_55_300000_0_0_0.png
 
 # jstveurope
 
