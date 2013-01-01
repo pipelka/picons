@@ -290,6 +290,9 @@ ln -s animalplanethd.png 1_0_19_EE5_7E9_2_11A0000_0_0_0.png
 ln -s animalplanethd.png 1_0_1_3B66_12C_13E_820000_0_0_0.png
 ln -s animalplanethd.png 1_0_19_106B_43_46_7120000_0_0_0.png
 ln -s animalplanethd.png 1_0_19_1070_43_46_7120000_0_0_0.png
+ln -s animalplanethd.png 1_0_19_EE7_26_46_7120000_0_0_0.png
+ln -s animalplanethd.png 1_0_19_1070_26_46_7120000_0_0_0.png
+ln -s animalplanethd.png 1_0_19_106B_26_46_7120000_0_0_0.png
 
 # animalplanetplus1
 ln -s animalplanetplus1.png 1_0_1_CCB5_90B_2_11A0000_0_0_0.png
@@ -566,6 +569,9 @@ ln -s brhd.png 1_0_1_2856_401_1_C00000_0_0_0.png
 ln -s brhd.png 1_0_19_2856_401_1_C00000_0_0_0.png
 ln -s brhd.png 1_0_19_2855_401_1_C00000_0_0_0.png
 ln -s brhd.png 1_0_1_2855_401_1_C00000_0_0_0.png
+
+# brunstadtv
+ln -s brunstadtv.png 1_0_19_1201_14_46_7120000_0_0_0.png
 
 # bbcalba
 ln -s bbcalba.png 1_0_1_2875_800_2_11A0000_0_0_0.png
@@ -969,6 +975,10 @@ ln -s canal9.png 1_0_1_CF7_21_46_7120000_0_0_0.png
 # canal9hd
 ln -s canal9hd.png 1_0_19_585_E_46_7120000_0_0_0.png
 ln -s canal9hd.png 1_0_19_583_E_46_7120000_0_0_0.png
+
+# canal8sport
+ln -s canal8sport.png 1_0_1_133_3_46_7120000_0_0_0.png
+ln -s canal8sport.png 1_0_1_142_3_46_7120000_0_0_0.png
 
 # canalalgerie
 ln -s canalalgerie.png 1_0_1_367E_C8_13E_820000_0_0_0.png
@@ -2109,9 +2119,11 @@ ln -s dovetv.png 1_0_1_DCF_2DB4_FBFF_820000_0_0_0.png
 
 # dr1
 ln -s dr1.png 1_0_1_1B62_9_56_300000_0_0_0.png
+ln -s dr1.png 1_0_1_7D2_14_46_7120000_0_0_0.png
 
 # dr2
 ln -s dr2.png 1_0_1_1B6C_9_56_300000_0_0_0.png
+ln -s dr2.png 1_0_1_7D7_14_46_7120000_0_0_0.png
 
 # drdish
 ln -s drdish.png 1_0_1_49_5_85_C00000_0_0_0.png
@@ -7060,6 +7072,7 @@ ln -s tv2premierleaguehd.png 1_0_19_1905_44_46_7120000_0_0_0.png
 
 # tv2sportdk
 ln -s tv2sportdk.png 1_0_1_1B94_9_56_300000_0_0_0.png
+ln -s tv2sportdk.png 1_0_1_9DA_19_46_7120000_0_0_0.png
 
 # tv2sporthddk
 ln -s tv2sporthddk.png 1_0_19_6B8_19_56_300000_0_0_0.png
