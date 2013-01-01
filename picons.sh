@@ -317,6 +317,10 @@ ln -s animax.png 1_0_1_D03E_2713_F001_EB0000_0_0_0.png
 # antena3
 ln -s antena3.png 1_0_1_7604_408_1_C00000_0_0_0.png
 
+
+# antenaneox
+ln -s antenaneox.png 1_0_1_756C_412_1_C00000_0_0_0.png
+
 # ant1
 ln -s ant1.png 1_0_1_140_157C_13E_820000_0_0_0.png
 
@@ -3893,9 +3897,10 @@ ln -s mediashop.png 1_0_1_382_21_85_C00000_0_0_0.png
 ln -s meintvshop.png 1_0_1_383_21_85_C00000_0_0_0.png
 
 # menandmovies
-ln -s menandmovies.png 1_0_1_293A_90B_3B_11A0000_0_0_0.png
 ln -s menandmovies.png 1_0_1_D35E_A2A_2_11A0000_0_0_0.png
-ln -s menandmovies.png 1_0_1_C7B0_96C_2_11A0000_0_0_0.png
+
+# menandmoviesplus1
+ln -s menandmoviesplus1.png 1_0_1_C7B0_96C_2_11A0000_0_0_0.png
 
 # mezzo
 ln -s mezzo.png 1_0_1_1F47_42E_1_C00000_0_0_0.png
@@ -3995,17 +4000,9 @@ ln -s motorvisiontv.png 1_0_1_A8_1_85_C00000_0_0_0.png
 ln -s montagnetv.png 1_0_1_1B59_3FC_1_C00000_0_0_0.png
 
 # movies4men
-ln -s movies4men.png 1_0_1_CF75_908_2_11A0000_0_0_0.png
 ln -s movies4men.png 1_0_1_C7AC_96C_2_11A0000_0_0_0.png
 
-# movies4men2
-ln -s movies4men2.png 1_0_1_CF76_908_2_11A0000_0_0_0.png
-
-# movies4men2plus1
-ln -s movies4men2plus1.png 1_0_1_CB99_8FE_2_11A0000_0_0_0.png
-
 # movies4menplus1
-ln -s movies4menplus1.png 1_0_1_D6E5_A33_2_11A0000_0_0_0.png
 ln -s movies4menplus1.png 1_0_1_C7AE_96C_2_11A0000_0_0_0.png
 
 # movies24
@@ -4289,8 +4286,6 @@ ln -s ndrhd.png 1_0_19_285A_401_1_C00000_0_0_0.png
 # ndtv24x7
 ln -s ndtv24x7.png 1_0_1_139D_807_2_11A0000_0_0_0.png
 
-# ndtvimagine
-
 # ned1
 ln -s ned1.png 1_0_1_FAB_451_35_C00000_0_0_0.png
 
@@ -4316,9 +4311,6 @@ ln -s ned3hd.png 1_0_1_5230_C99_3_EB0000_0_0_0.png
 
 # nelonen
 ln -s nelonen.png 1_0_1_130_42_46_7120000_0_0_0.png
-
-# neox
-ln -s neox.png 1_0_1_756C_412_1_C00000_0_0_0.png
 
 # net5
 ln -s net5.png 1_0_1_138C_455_35_C00000_0_0_0.png
@@ -4457,11 +4449,6 @@ ln -s nick_comedycentral.png 1_0_1_404_A_46_7120000_0_0_0.png
 ln -s nickhd_comedycentralhd.png 1_0_19_5273_41D_1_C00000_0_0_0.png
 ln -s nickhd_comedycentralhd.png 1_0_19_527D_41D_1_C00000_0_0_0.png
 
-# nickelodeonreplay
-ln -s nickelodeonreplay.png 1_0_1_15B9_804_2_11A0000_0_0_0.png
-ln -s nickelodeonreplay.png 1_0_1_15B9_7D3_2_5A2DE3_0_0_0.png
-ln -s nickelodeonreplay.png 1_0_1_15B9_7D3_2_11A0000_0_0_0.png
-
 # nickelodeonkindernet
 
 # nick
@@ -4502,9 +4489,6 @@ ln -s nicktoons.png 1_0_1_15BA_804_2_11A0000_0_0_0.png
 ln -s nicktoons.png 1_0_1_700A_436_1_C00000_0_0_0.png
 ln -s nicktoons.png 1_0_1_15BA_7D3_2_5A2DE3_0_0_0.png
 ln -s nicktoons.png 1_0_1_15BA_7D3_2_11A0000_0_0_0.png
-
-# nicktoonsreplay
-ln -s nicktoonsreplay.png 1_0_1_D7D3_900_2_11A0000_0_0_0.png
 
 # noetv
 ln -s noetv.png 1_0_1_1F48_BC6_3_EB0000_0_0_0.png
@@ -4690,8 +4674,6 @@ ln -s nova3d.png 1_0_1_3C98_1BBC_13E_820000_0_0_0.png
 ln -s obe.png 1_0_1_CD2D_902_2_11A0000_0_0_0.png
 
 # oberpfalztv
-
-# oceanfinancetv
 
 # ocko
 ln -s ocko.png 1_0_1_1451_C98_3_EB0000_0_0_0.png
