@@ -5198,8 +5198,6 @@ ln -s redlighthd.png 1_0_1_422F_3DB8_13E_820000_0_0_0.png
 # redlightpremium
 ln -s redlightpremium.png 1_0_1_378A_44C_13E_820000_0_0_0.png
 
-# redxclub
-
 # regiotv
 ln -s regiotv.png 1_0_1_2F_21_85_C00000_0_0_0.png
 
@@ -5235,9 +5233,6 @@ ln -s rishtey.png 1_0_1_D7A9_900_2_11A0000_0_0_0.png
 # rmcdecouvertehd
 ln -s rmcdecouvertehd.png 1_0_1_275F_402_1_C00000_0_0_0.png
 ln -s rmcdecouvertehd.png 1_0_1_2761_402_1_C00000_0_0_0.png
-
-# rnfplus
-ln -s rnfplus.png 1_0_1_300_7_85_C00000_0_0_0.png
 
 # rocktv
 ln -s rocktv.png 1_0_19_CF73_2714_F001_EB0000_0_0_0.png
@@ -5508,10 +5503,6 @@ ln -s sbs6.png 1_0_1_FA2_451_35_C00000_0_0_0.png
 ln -s sbs6hd.png 1_0_19_17CA_C82_3_EB0000_0_0_0.png
 ln -s sbs6hd.png 1_0_1_17CA_C82_3_EB0000_0_0_0.png
 
-# scifi
-ln -s scifi.png 1_0_1_3A36_1FA4_13E_820000_0_0_0.png
-ln -s scifi.png 1_0_1_3A40_1FA4_13E_820000_0_0_0.png
-
 # sct
 ln -s sct.png 1_0_1_35C2_1388_13E_820000_0_0_0.png
 ln -s sct.png 1_0_1_35C6_1388_13E_820000_0_0_0.png
@@ -5529,24 +5520,6 @@ ln -s scuzz.png 1_0_1_D03E_90A_2_11A0000_0_0_0.png
 # seasons
 ln -s seasons.png 1_0_1_2521_456_1_C00000_0_0_0.png
 
-# selectkino
-ln -s selectkino.png 1_0_19_C490_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_19_C491_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_19_C492_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_19_C493_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_19_C494_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_19_C495_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_19_C496_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_19_C497_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_1_C490_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_1_C491_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_1_C492_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_1_C493_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_1_C494_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_1_C495_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_1_C496_2716_F001_EB0000_0_0_0.png
-ln -s selectkino.png 1_0_1_C497_2716_F001_EB0000_0_0_0.png
-
 # senderneujerusalem
 ln -s senderneujerusalem.png 1_0_1_2D3_1B58_13E_820000_0_0_0.png
 
@@ -5554,6 +5527,8 @@ ln -s senderneujerusalem.png 1_0_1_2D3_1B58_13E_820000_0_0_0.png
 ln -s serieclub.png 1_0_1_1FE0_434_1_C00000_0_0_0.png
 ln -s serieclub.png 1_0_19_1969_44E_1_C00000_0_0_0.png
 ln -s serieclub.png 1_0_19_197D_44E_1_C00000_0_0_0.png
+
+# serieclubhd
 
 # servustv
 ln -s servustv.png 1_0_19_D174_2711_F001_EB0000_0_0_0.png
@@ -5568,6 +5543,8 @@ ln -s servustvhd.png 1_0_1_1332_3EF_1_C00000_0_0_0.png
 ln -s servustvhd.png 1_0_19_1332_3EF_1_C00000_0_0_0.png
 
 # setantasports
+
+# setantasportshd
 
 # setantasports1
 ln -s setantasports1.png 1_0_1_C7A8_96C_2_11A0000_0_0_0.png
@@ -5665,16 +5642,14 @@ ln -s sky3dit.png 1_0_19_37A9_14B4_FBFF_820000_0_0_0.png
 ln -s sky3dit.png 1_0_19_37AB_14B4_FBFF_820000_0_0_0.png
 ln -s sky3dit.png 1_0_19_37AC_14B4_FBFF_820000_0_0_0.png
 
-# skyanytime+hduk
-ln -s skyanytime+hduk.png 1_0_0_F3A_7F3_2_11A0000_0_0_0.png
-
-# skyanytime+uk
-ln -s skyanytime+uk.png 1_0_0_F36_968_2_11A0000_0_0_0.png
-ln -s skyanytime+uk.png 1_0_0_F37_968_2_11A0000_0_0_0.png
-ln -s skyanytime+uk.png 1_0_4_1034_968_2_11A0000_0_0_0.png
-ln -s skyanytime+uk.png 1_0_4_1034_7E0_2_11A0000_0_0_0.png
-ln -s skyanytime+uk.png 1_0_4_1034_7F7_2_11A0000_0_0_0.png
-ln -s skyanytime+uk.png 1_0_4_1034_7F3_2_11A0000_0_0_0.png
+# skyondemanduk
+ln -s skyondemanduk.png 1_0_0_F36_968_2_11A0000_0_0_0.png
+ln -s skyondemanduk.png 1_0_0_F37_968_2_11A0000_0_0_0.png
+ln -s skyondemanduk.png 1_0_4_1034_968_2_11A0000_0_0_0.png
+ln -s skyondemanduk.png 1_0_4_1034_7E0_2_11A0000_0_0_0.png
+ln -s skyondemanduk.png 1_0_4_1034_7F7_2_11A0000_0_0_0.png
+ln -s skyondemanduk.png 1_0_4_1034_7F3_2_11A0000_0_0_0.png
+ln -s skyondemanduk.png 1_0_0_F3A_7F3_2_11A0000_0_0_0.png
 
 # skyactionde
 ln -s skyactionde.png 1_0_1_9_2_85_C00000_0_0_0.png
@@ -5682,9 +5657,6 @@ ln -s skyactionde.png 1_0_1_9_2_85_C00000_0_0_0.png
 # skyactionhdde
 ln -s skyactionhdde.png 1_0_19_7B_FFFF_FFFF_C02A15_0_0_0.png
 ln -s skyactionhdde.png 1_0_19_6A_C_85_C00000_0_0_0.png
-
-# skyactiveuk
-ln -s skyactiveuk.png 1_0_1_13B8_7E5_2_11A0000_0_0_0.png
 
 # skyarts1hduk
 ln -s skyarts1hduk.png 1_0_19_F17_7F7_2_11A0000_0_0_0.png
@@ -5846,19 +5818,6 @@ ln -s skycinemahitsit.png 1_0_1_2DCC_1A2C_FBFF_820000_0_0_0.png
 # skycinemait
 ln -s skycinemait.png 1_0_1_2B5D_19C8_FBFF_820000_0_0_0.png
 
-# skycinemaitaliahdit
-ln -s skycinemaitaliahdit.png 1_0_19_F75_2198_FBFF_820000_0_0_0.png
-
-# skycinemaitaliait
-ln -s skycinemaitaliait.png 1_0_1_2DC4_1A2C_FBFF_820000_0_0_0.png
-
-# skycinemamaniahdit
-ln -s skycinemamaniahdit.png 1_0_1_F74_2198_FBFF_820000_0_0_0.png
-ln -s skycinemamaniahdit.png 1_0_19_F74_2198_FBFF_820000_0_0_0.png
-
-# skycinemamaniait
-ln -s skycinemamaniait.png 1_0_1_2B5F_19C8_FBFF_820000_0_0_0.png
-
 # skycinemamaxhdit
 ln -s skycinemamaxhdit.png 1_0_1_2C55_251C_FBFF_820000_0_0_0.png
 ln -s skycinemamaxhdit.png 1_0_19_106E_2008_FBFF_820000_0_0_0.png
@@ -5904,9 +5863,6 @@ ln -s skyemotionde.png 1_0_1_14_2_85_C00000_0_0_0.png
 
 # skygamesuk
 
-# skyhdretailchanneluk
-ln -s skyhdretailchanneluk.png 1_0_19_ED9_7F2_2_11A0000_0_0_0.png
-
 # skykrimide
 ln -s skykrimide.png 1_0_1_17_1_85_C00000_0_0_0.png
 
@@ -5923,16 +5879,10 @@ ln -s skylivinghduk.png 1_0_19_F1A_7D5_2_11A0000_0_0_0.png
 ln -s skylivingituk.png 1_0_1_1777_7D2_2_11A0000_0_0_0.png
 ln -s skylivingituk.png 1_0_1_178E_968_2_11A0000_0_0_0.png
 
-# skylivingithduk
-
 # skylivingitplus1uk
 ln -s skylivingitplus1uk.png 1_0_1_CC06_8FF_2_11A0000_0_0_0.png
 ln -s skylivingitplus1uk.png 1_0_1_1774_7D2_2_11A0000_0_0_0.png
 ln -s skylivingitplus1uk.png 1_0_1_1789_966_2_11A0000_0_0_0.png
-
-# skylivinglovesuk
-ln -s skylivinglovesuk.png 1_0_1_1773_7D2_2_11A0000_0_0_0.png
-ln -s skylivinglovesuk.png 1_0_1_1790_966_2_11A0000_0_0_0.png
 
 # skylivingplus1uk
 ln -s skylivingplus1uk.png 1_0_1_1775_7D2_2_11A0000_0_0_0.png
@@ -6115,11 +6065,6 @@ ln -s skynewsarabiauk.png 1_0_1_1225_804_2_11A0000_0_0_0.png
 # skynostalgiede
 ln -s skynostalgiede.png 1_0_1_204_3_85_C00000_0_0_0.png
 
-# skyplayit
-ln -s skyplayit.png 1_0_1_3429_2710_FBFF_820000_0_0_0.png
-ln -s skyplayit.png 1_0_1_3450_2710_FBFF_820000_0_0_0.png
-ln -s skyplayit.png 1_0_1_3452_2710_FBFF_820000_0_0_0.png
-
 # skypoker
 ln -s skypoker.png 1_0_1_247C_7EF_2_11A0000_0_0_0.png
 ln -s skypoker.png 1_0_1_12C3_966_2_11A0000_0_0_0.png
@@ -6249,6 +6194,8 @@ ln -s skysport1de.png 1_0_1_DD_4_85_C00000_0_0_0.png
 ln -s skysport1hdit.png 1_0_1_2C34_251C_FBFF_820000_0_0_0.png
 ln -s skysport1hdit.png 1_0_19_2B0F_1900_FBFF_820000_0_0_0.png
 
+# skysportit
+
 # skysport1it
 ln -s skysport1it.png 1_0_1_2AA8_1838_FBFF_820000_0_0_0.png
 
@@ -6275,11 +6222,7 @@ ln -s skysport24it.png 1_0_1_2AB1_1838_FBFF_820000_0_0_0.png
 ln -s skysport24it.png 1_0_1_2AB8_1838_FBFF_820000_0_0_0.png
 ln -s skysport24it.png 1_0_1_2ABA_1838_FBFF_820000_0_0_0.png
 
-# skysportactive1it
-
-# skysportactive2it
-
-# skysportactive3it
+# skysportactiveit
 
 # skysportaustriade
 ln -s skysportaustriade.png 1_0_1_1E_1_85_C00000_0_0_0.png
