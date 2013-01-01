@@ -4877,15 +4877,17 @@ ln -s picktv.png 1_0_1_13EF_7EB_2_11A0000_0_0_0.png
 ln -s picktv.png 1_0_1_13EF_961_2_11A0000_0_0_0.png
 ln -s picktv.png 1_0_1_128F_7EA_2_11A0000_0_0_0.png
 
-# pinkextra
+# rtvpink
 
-# pinkfilm
+# rtvpinkextra
 
-# pinkfolk
+# rtvpinkfilm
 
-# pinkmusic
+# rtvpinkfolk
 
-# pinkplus
+# rtvpinkmusic
+
+# rtvpinkplus
 
 # pinktv
 ln -s pinktv.png 1_0_1_24C1_43C_1_C00000_0_0_0.png
@@ -4897,13 +4899,8 @@ ln -s pitch.png 1_0_1_D42B_A2C_2_11A0000_0_0_0.png
 # pitchworld
 ln -s pitchworld.png 1_0_1_D458_A2C_2_11A0000_0_0_0.png
 
-# piwi
-ln -s piwi.png 1_0_1_2523_440_1_C00000_0_0_0.png
-ln -s piwi.png 1_0_19_1FA8_2454_13E_820000_0_0_0.png
-ln -s piwi.png 1_0_1_1FA8_2454_13E_820000_0_0_0.png
-
-# piwiplus
-ln -s piwiplus.png 1_0_1_2523_456_1_C00000_0_0_0.png
+# piwi+
+ln -s piwi+.png 1_0_1_2523_456_1_C00000_0_0_0.png
 
 # planetahd
 ln -s planetahd.png 1_0_1_1522_C86_3_EB0000_0_0_0.png
@@ -4934,8 +4931,6 @@ ln -s planete+nolimit.png 1_0_1_2203_44C_1_C00000_0_0_0.png
 
 # planete+thalassa
 ln -s planete+thalassa.png 1_0_1_2138_400_1_C00000_0_0_0.png
-
-# playboyone
 
 # playboytv
 ln -s playboytv.png 1_0_1_D15C_90C_2_11A0000_0_0_0.png
@@ -5032,12 +5027,8 @@ ln -s prosiebenhd.png 1_0_19_14B5_407_1_C00000_0_0_0.png
 
 # protvinternational
 
-# psychictv
-
 # psychictoday
 ln -s psychictoday.png 1_0_1_D7BA_900_2_11A0000_0_0_0.png
-
-# psychicline
 
 # ptvglobal
 ln -s ptvglobal.png 1_0_1_CF7C_908_2_11A0000_0_0_0.png
@@ -8759,14 +8750,14 @@ ln -s penthousetv.png 1_0_1_3B05_97_270F_FFFF0000_0_0_0.png
 ln -s penthousetv.png 1_0_1_5680_E0_A018_FFFF0000_0_0_0.png
 ln -s penthousehd.png 1_0_19_5697_E2_A018_FFFF0000_0_0_0.png
 ln -s phoenix.png 1_0_1_7035_41B_A401_FFFF0000_0_0_0.png
-ln -s pinkextra.png 1_0_1_5655_DD_A018_FFFF0000_0_0_0.png
-ln -s pinkextra.png 1_0_1_65FD_105_270F_FFFF0000_0_0_0.png
-ln -s pinkfilm.png 1_0_1_5659_DD_A018_FFFF0000_0_0_0.png
-ln -s pinkfolk.png 1_0_1_565A_DD_A018_FFFF0000_0_0_0.png
-ln -s pinkmusic.png 1_0_1_5657_DD_A018_FFFF0000_0_0_0.png
-ln -s pinkmusic.png 1_0_1_65FF_105_270F_FFFF0000_0_0_0.png
-ln -s pinkplus.png 1_0_1_5654_DD_A018_FFFF0000_0_0_0.png
-ln -s pinkplus.png 1_0_1_65FC_105_270F_FFFF0000_0_0_0.png
+ln -s rtvpinkextra.png 1_0_1_5655_DD_A018_FFFF0000_0_0_0.png
+ln -s rtvpinkextra.png 1_0_1_65FD_105_270F_FFFF0000_0_0_0.png
+ln -s rtvpinkfilm.png 1_0_1_5659_DD_A018_FFFF0000_0_0_0.png
+ln -s rtvpinkfolk.png 1_0_1_565A_DD_A018_FFFF0000_0_0_0.png
+ln -s rtvpinkmusic.png 1_0_1_5657_DD_A018_FFFF0000_0_0_0.png
+ln -s rtvpinkmusic.png 1_0_1_65FF_105_270F_FFFF0000_0_0_0.png
+ln -s rtvpinkplus.png 1_0_1_5654_DD_A018_FFFF0000_0_0_0.png
+ln -s rtvpinkplus.png 1_0_1_65FC_105_270F_FFFF0000_0_0_0.png
 ln -s planetde.png 1_0_1_3330_F1_270F_FFFF0000_0_0_0.png
 ln -s planetde.png 1_0_1_C3B9_2713_F001_FFFF0000_0_0_0.png
 ln -s planethdde.png 1_0_19_56D8_E5_A018_FFFF0000_0_0_0.png
