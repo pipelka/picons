@@ -537,9 +537,6 @@ ln -s b4umusic.png 1_0_1_1CA3_7E6_2_11A0000_0_0_0.png
 # babestation
 ln -s babestation.png 1_0_1_D7A7_900_2_11A0000_0_0_0.png
 
-# babeworld
-ln -s babeworld.png 1_0_1_D7AC_900_2_11A0000_0_0_0.png
-
 # banglatv
 ln -s banglatv.png 1_0_1_D363_A2A_2_11A0000_0_0_0.png
 
