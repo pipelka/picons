@@ -1702,6 +1702,7 @@ ln -s dhd24tv.png 1_0_1_313C_459_1_C00000_0_0_0.png
 # diablox-tv
 
 # diablox-tv2
+ln -s diablox-tv2.png 1_0_1_35c1_1388_13e_820000_0_0_0.png
 
 # dieneuezeit
 ln -s dieneuezeit.png 1_0_1_2780_444_1_C00000_0_0_0.png
@@ -2031,9 +2032,6 @@ ln -s disneyxdplus1.png 1_0_1_1586_7EA_2_11A0000_0_0_0.png
 ln -s disneyxdplus1.png 1_0_1_2CBD_2580_FBFF_820000_0_0_0.png
 ln -s disneyxdplus1.png 1_0_1_2330_803_2_11A0000_0_0_0.png
 
-# divafutura
-ln -s divafutura.png 1_0_1_238E_238C_13E_820000_0_0_0.png
-
 # divatv
 ln -s divatv.png 1_0_1_CD32_902_2_11A0000_0_0_0.png
 
@@ -2060,6 +2058,8 @@ ln -s dmax.png 1_0_1_2775_444_1_11AAFD1_0_0_0.png
 ln -s dmax.png 1_0_1_3F_21_85_C00000_0_0_0.png
 ln -s dmax.png 1_0_1_2CF6_2774_FBFF_820000_0_0_0.png
 ln -s dmax.png 1_0_19_151A_455_1_C00000_0_0_0.png
+
+# dmaxhd
 
 # dmaxplus1
 ln -s dmaxplus1.png 1_0_1_CCC4_90B_2_11A0000_0_0_0.png
@@ -2361,8 +2361,6 @@ ln -s espnhd.png 1_0_19_F02_7F0_2_11A0000_0_0_0.png
 # etbsat
 ln -s etbsat.png 1_0_1_1B5A_3FC_1_C00000_0_0_0.png
 
-# ethnictv
-
 # etnotv
 
 # etvestonia
@@ -2630,8 +2628,6 @@ ln -s film1sundance.png 1_0_16_51B3_C96_3_EB0000_0_0_0.png
 
 # film1series
 
-# film24
-
 # filmfour
 ln -s filmfour.png 1_0_1_2404_7F9_2_11A0000_0_0_0.png
 
@@ -2683,6 +2679,8 @@ ln -s flava.png 1_0_1_D034_90A_2_11A0000_0_0_0.png
 
 # foodnetwork
 ln -s foodnetwork.png 1_0_1_D00C_909_2_11A0000_0_0_0.png
+
+# foodnetworkhd
 
 # foodnetworkplus1
 ln -s foodnetworkplus1.png 1_0_1_D016_909_2_11A0000_0_0_0.png
@@ -2765,9 +2763,6 @@ ln -s foxplus1.png 1_0_1_FBD_2DB4_FBFF_820000_0_0_0.png
 
 # foxretro
 ln -s foxretro.png 1_0_1_1FC8_189C_FBFF_820000_0_0_0.png
-
-# foxseries
-ln -s foxseries.png 1_0_1_10_1_85_C00000_0_0_0.png
 
 # foxsports
 ln -s foxsports.png 1_0_1_1F_C9_6_820000_0_0_0.png
@@ -2880,7 +2875,6 @@ ln -s freextv.png 1_0_1_1299_3458_13E_820000_0_0_0.png
 ln -s freextv.png 1_0_1_833_22C4_13E_820000_0_0_0.png
 
 # freextv2
-ln -s freextv2.png 1_0_1_35C1_1388_13E_820000_0_0_0.png
 
 # frenchlovertv
 ln -s frenchlovertv.png 1_0_1_1907_3FA_1_C00000_0_0_0.png
