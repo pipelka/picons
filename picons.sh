@@ -1702,7 +1702,7 @@ ln -s dhd24tv.png 1_0_1_313C_459_1_C00000_0_0_0.png
 # diablox-tv
 
 # diablox-tv2
-ln -s diablox-tv2.png 1_0_1_35c1_1388_13e_820000_0_0_0.png
+ln -s diablox-tv2.png 1_0_1_35C1_1388_13E_820000_0_0_0.png
 
 # dieneuezeit
 ln -s dieneuezeit.png 1_0_1_2780_444_1_C00000_0_0_0.png
