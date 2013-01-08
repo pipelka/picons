@@ -6902,6 +6902,7 @@ ln -s traceurban.png 1_0_1_F_1_9D_5A0000_0_0_0.png
 ln -s traceurban.png 1_0_1_2206_44C_1_C00000_0_0_0.png
 ln -s traceurban.png 1_0_1_F_170C_9E_5A0000_0_0_0.png
 ln -s traceurban.png 1_0_1_2400_452_1_C00000_0_0_0.png
+ln -s traceurban.png 1_0_1_13F1_5DC_13E_820000_0_0_0.png
 
 # travelchannel
 ln -s travelchannel.png 1_0_1_D356_A2A_2_11A0000_0_0_0.png
