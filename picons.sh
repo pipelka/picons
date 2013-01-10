@@ -284,6 +284,7 @@ ln -s animalplanet.png 1_0_1_1AAA_1A90_9E_5A0000_0_0_0.png
 ln -s animalplanet.png 1_0_1_26F_206C_9C_5A0000_0_0_0.png
 ln -s animalplanet.png 1_0_1_E24_16_56_300000_0_0_0.png
 ln -s animalplanet.png 1_0_1_197_4_46_7120000_0_0_0.png
+ln -s animalplanet.png 1_0_16_1798_C82_3_EB0000_0_0_0.png
 
 # animalplanethd
 ln -s animalplanethd.png 1_0_19_EE5_7E9_2_11A0000_0_0_0.png
@@ -300,7 +301,6 @@ ln -s animalplanetplus1.png 1_0_1_CCB5_90B_2_11A0000_0_0_0.png
 # animalplanethdplus1
 
 # animalplanet_tlc
-ln -s animalplanet_tlc.png 1_0_1_7E4_449_35_C00000_0_0_0.png
 
 # animaux
 ln -s animaux.png 1_0_1_427E_446_1_C00000_0_0_0.png
@@ -1824,7 +1824,6 @@ ln -s discoveryscience.png 1_0_1_3D55_2C88_13E_820000_0_0_0.png
 ln -s discoveryscience.png 1_0_19_DAE_2D50_13E_820000_0_0_0.png
 ln -s discoveryscience.png 1_0_1_5BB_1AF4_FBFF_820000_0_0_0.png
 ln -s discoveryscience.png 1_0_19_296F_22C4_13E_820000_0_0_0.png
-ln -s discoveryscience.png 1_0_16_1798_C82_3_EB0000_0_0_0.png
 ln -s discoveryscience.png 1_0_1_DAE_2D50_13E_820000_0_0_0.png
 ln -s discoveryscience.png 1_0_1_296F_22C4_13E_820000_0_0_0.png
 ln -s discoveryscience.png 1_0_1_405_2_1_E0831B3_0_0_0.png
@@ -6831,6 +6830,7 @@ ln -s tlc.png 1_0_1_1A2_4_46_7120000_0_0_0.png
 ln -s tlc.png 1_0_1_3F8_31_46_7120000_0_0_0.png
 ln -s tlc.png 1_0_1_1A0_4_46_7120000_0_0_0.png
 ln -s tlc.png 1_0_1_1A1_4_46_7120000_0_0_0.png
+ln -s tlc.png 1_0_1_7E4_449_35_C00000_0_0_0.png
 
 # tmc
 ln -s tmc.png 1_0_1_1FD8_434_1_C00000_0_0_0.png
