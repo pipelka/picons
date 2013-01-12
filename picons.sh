@@ -2611,19 +2611,23 @@ ln -s filmboxactionhd.png 1_0_1_1528_C86_3_EB0000_0_0_0.png
 
 # film1action
 ln -s film1action.png 1_0_16_51B8_C96_3_EB0000_0_0_0.png
+ln -s film1action.png 1_0_1_51B8_C96_3_EB0000_0_0_0.png
 
 # film1actionhd
 
 # film1family
 ln -s film1family.png 1_0_16_51AE_C96_3_EB0000_0_0_0.png
+ln -s film1family.png 1_0_1_51AE_C96_3_EB0000_0_0_0.png
 
 # film1premiere
 
 # film1premierehd
 ln -s film1premierehd.png 1_0_19_51DB_C96_3_EB0000_0_0_0.png
+ln -s film1premierehd.png 1_0_1_51DB_C96_3_EB0000_0_0_0.png
 
 # film1sundance
 ln -s film1sundance.png 1_0_16_51B3_C96_3_EB0000_0_0_0.png
+ln -s film1sundance.png 1_0_1_51B3_C96_3_EB0000_0_0_0.png
 
 # film1series
 
@@ -6394,11 +6398,13 @@ ln -s sport+.png 1_0_1_1F49_42E_1_C00000_0_0_0.png
 
 # sport1golf
 ln -s sport1golf.png 1_0_16_51C2_C96_3_EB0000_0_0_0.png
+ln -s sport1golf.png 1_0_1_51C2_C96_3_EB0000_0_0_0.png
 
 # sport1golfhd
 
 # sport1voetbal
 ln -s sport1voetbal.png 1_0_16_51BD_C96_3_EB0000_0_0_0.png
+ln -s sport1voetbal.png 1_0_1_51BD_C96_3_EB0000_0_0_0.png
 
 # sport1voetbalhd
 
@@ -6406,6 +6412,7 @@ ln -s sport1voetbal.png 1_0_16_51BD_C96_3_EB0000_0_0_0.png
 
 # sport1selecthd
 ln -s sport1selecthd.png 1_0_19_51E0_C96_3_EB0000_0_0_0.png
+ln -s sport1selecthd.png 1_0_1_51E0_C96_3_EB0000_0_0_0.png
 
 # sport1de
 ln -s sport1de.png 1_0_1_384_21_85_C00000_0_0_0.png
