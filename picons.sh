@@ -3866,11 +3866,11 @@ ln -s mediashop.png 1_0_1_382_21_85_C00000_0_0_0.png
 # meintvshop
 ln -s meintvshop.png 1_0_1_383_21_85_C00000_0_0_0.png
 
-# menandmovies
-ln -s menandmovies.png 1_0_1_D35E_A2A_2_11A0000_0_0_0.png
+# morethanmovies
+ln -s morethanmovies.png 1_0_1_D35E_A2A_2_11A0000_0_0_0.png
 
-# menandmoviesplus1
-ln -s menandmoviesplus1.png 1_0_1_C7B0_96C_2_11A0000_0_0_0.png
+# morethanmoviesplus1
+ln -s morethanmoviesplus1.png 1_0_1_C7B0_96C_2_11A0000_0_0_0.png
 
 # mezzo
 ln -s mezzo.png 1_0_1_1F47_42E_1_C00000_0_0_0.png
