@@ -3,6 +3,7 @@ BACKGROUNDIMAGE = backgrounds/XVDR/$(BACKGROUND).png
 SOURCES := $(shell find picons -name "*png")
 TARGETDIR := picons-xvdr-$(BACKGROUND)
 COMPOSITE := composite -gravity center
+CONVERT := convert
 
 TARGETS = $(SOURCES:picons/%.png=$(TARGETDIR)/%.png)
 
@@ -16,6 +17,10 @@ $(TARGETDIR).tar.gz: $(TARGETDIR) $(TARGETS)
 $(TARGETDIR):
 	mkdir -p $@
 
-$(TARGETDIR)/%.png: picons/%.png $(BACKGROUNDIMAGE)
+$(TARGETDIR)/%-scaled.png: picons/%.png
+	$(CONVERT) $<  -resize 245x140\> $@
+
+$(TARGETDIR)/%.png: $(TARGETDIR)/%-scaled.png $(BACKGROUNDIMAGE)
 	$(COMPOSITE) $< $(BACKGROUNDIMAGE) $@
+	rm -f $<
 
