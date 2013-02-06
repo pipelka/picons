@@ -7,12 +7,17 @@ CONVERT := convert
 
 TARGETS = $(SOURCES:picons/%.png=$(TARGETDIR)/%.png)
 
-all: $(TARGETDIR) $(TARGETS)
-	-rm -f $(TARGETDIR)/1_*_0_0_0.png
-	./scripts/picons.sh $(TARGETDIR)
+all: composite
 
-$(TARGETDIR).tar.gz: $(TARGETDIR) $(TARGETS)
+dist: $(TARGETDIR).tar.gz
+
+composite: $(TARGETDIR) $(TARGETS)
+
+$(TARGETDIR).tar.gz: all
+	-rm -f $(TARGETDIR)/1_*_0_0_0.png
+	(./scripts/picons.sh $(TARGETDIR) || true) > /dev/null 2>&1
 	tar -zcf $@ $(TARGETDIR)
+	-rm -f $(TARGETDIR)/1_*_0_0_0.png
 
 $(TARGETDIR):
 	mkdir -p $@
