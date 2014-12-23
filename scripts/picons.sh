@@ -380,12 +380,16 @@ ln -sf dorcelxxx.png 1_0_1_21A5_448_1_C00000_0_0_0.png
 ln -sf dradiodokdeb.png 1_0_2_6D6F_437_1_C00000_0_0_0.png
 # DRadio Wissen;ZDFvision
 ln -sf dradiowissen.png 1_0_2_6D71_437_1_C00000_0_0_0.png
+# E!;CSAT
+ln -sf e.png 1_0_1_22CF_45A_1_C00000_0_0_0.png
 # e8 television,e8 tv;BetaDigital
 ln -sf e8television.png 1_0_1_381_21_85_C00000_0_0_0.png
 # EBRU TV;BetaDigital
 ln -sf ebrutv.png 1_0_1_4C_21_85_C00000_0_0_0.png
 # een;M7 Group
 ln -sf een.png 1_0_19_3201_45F_35_C00000_0_0_0.png
+# E! Entertainm. HD,E! HD;SKY
+ln -sf eentertainmhd.png 1_0_19_80_E_85_C00000_0_0_0.png
 # egoFM;BetaDigital
 ln -sf egofm.png 1_0_2_AC_5_85_C00000_0_0_0.png
 # Einsfestival;ARD
@@ -1853,8 +1857,6 @@ ln -sf zdfneohd.png 1_0_19_2B7A_3F3_1_C00000_0_0_0.png
 # ln -sf [DOWNLOAD TNTSAT 9192;CSAT] 1_0_2_23E8_44A_1_C00000_0_0_0.png
 # ln -sf [DOWNLOAD TNTSAT 9193;CSAT] 1_0_2_23E9_44A_1_C00000_0_0_0.png
 # ln -sf [Dreamgirls24 TV;MEDIA BROADCAST] 1_0_1_314A_459_1_C00000_0_0_0.png
-# ln -sf [E!;CSAT] 1_0_1_22CF_45A_1_C00000_0_0_0.png
-# ln -sf [E! Entertainm. HD,E! HD;SKY] 1_0_19_80_E_85_C00000_0_0_0.png
 # ln -sf [ENREGISTREMENTS;CSAT] 1_0_2_2390_44A_1_C00000_0_0_0.png
 # ln -sf [ERF Pop;BetaDigital] 1_0_2_A2_7_85_C00000_0_0_0.png
 # ln -sf [Eros TV;MEDIA BROADCAST] 1_0_1_3153_459_1_C00000_0_0_0.png
