@@ -436,8 +436,14 @@ ln -sf eurosport360hd3.png 1_0_19_122_C_85_C00000_0_0_0.png
 ln -sf eurosport360hd4.png 1_0_19_12C_B_85_C00000_0_0_0.png
 # Eurosport360HD 5,Eurosp360 5;SKY
 ln -sf eurosport360hd5.png 1_0_19_136_A_85_C00000_0_0_0.png
+# Eurosport360HD 6,Eurosp360 6;SKY
+ln -sf eurosport360hd6.png 1_0_2_140_8_85_C00000_0_0_0.png
+# Eurosport360HD 7,Eurosp360 7;SKY
+ln -sf eurosport360hd7.png 1_0_2_14A_9_85_C00000_0_0_0.png
 # Eurosport360HD 8,Eurosp360 8;SKY
 ln -sf eurosport360hd8.png 1_0_19_154_A_85_C00000_0_0_0.png
+# Eurosport360HD 9,Eurosp360 9;SKY
+ln -sf eurosport360hd9.png 1_0_2_104_E_85_C00000_0_0_0.png
 # EUROSPORT CZ;CANALDIGITAAL
 ln -sf eurosportcz.png 1_0_1_7EA_449_35_C00000_0_0_0.png
 # Eurosport Deutschland;SES Astra
@@ -756,6 +762,10 @@ ln -sf mdrsanhalt.png 1_0_1_6E45_431_1_C00000_0_0_0.png
 ln -sf mdrsanhalthd.png 1_0_19_2871_425_1_C00000_0_0_0.png
 # MDR SPUTNIK;ARD MDR
 ln -sf mdrsputnik.png 1_0_2_6F11_445_1_C00000_0_0_0.png
+# MDR Thüringen;ARD
+ln -sf mdrthueringen.png 1_0_1_6E46_431_1_C00000_0_0_0.png
+# MDR Thüringen HD;ARD
+ln -sf mdrthueringenhd.png 1_0_19_2872_425_1_C00000_0_0_0.png
 # MediaShop- Meine Einkaufswelt;BetaDigital
 ln -sf mediashopmeineeinkaufswelt.png 1_0_1_307_7_85_C00000_0_0_0.png
 # MediaShop- Neuheiten;BetaDigital
@@ -794,6 +804,8 @@ ln -sf mtvhits.png 1_0_1_6FEE_42A_1_C00000_0_0_0.png
 ln -sf mtvmusic24.png 1_0_1_6FFF_436_1_C00000_0_0_0.png
 # MTV ROCKS;MTV Networks Europe
 ln -sf mtvrocks.png 1_0_1_6FF3_42A_1_C00000_0_0_0.png
+# münchen.tv;BetaDigital
+ln -sf muenchentv.png 1_0_1_11FC_3FD_1_C00000_0_0_0.png
 # MULTIDEP.1;Digital+
 ln -sf multidep1.png 1_0_1_756C_412_1_C00000_0_0_0.png
 # MULTIDEP.2;Digital +
@@ -852,6 +864,8 @@ ln -sf ndr1radiomv.png 1_0_2_6F1B_445_1_C00000_0_0_0.png
 ln -sf ndr1wellenord.png 1_0_2_6F1A_445_1_C00000_0_0_0.png
 # NDR 2;ARD NDR
 ln -sf ndr2.png 1_0_2_6F15_445_1_C00000_0_0_0.png
+# NDR 90,3,;ARD NDR
+ln -sf ndr90.png 1_0_2_6F19_445_1_C00000_0_0_0.png
 # NDR FS HH;ARD
 ln -sf ndrfshh.png 1_0_1_6E41_431_1_C00000_0_0_0.png
 # NDR FS HH HD;ARD
@@ -1224,6 +1238,8 @@ ln -sf sat1ch.png 1_0_1_4E26_43A_1_C00000_0_0_0.png
 ln -sf sat1emotions.png 1_0_1_125D_3F7_1_C00000_0_0_0.png
 # SAT.1 Gold;ProSiebenSat.1
 ln -sf sat1gold.png 1_0_1_4460_453_1_C00000_0_0_0.png
+# SAT.1 Gold Österreich;ProSiebenSat.1
+ln -sf sat1goldoesterreich.png 1_0_1_14BE_407_1_C00000_0_0_0.png
 # SAT.1 HD;ProSiebenSat.1
 ln -sf sat1hd.png 1_0_19_EF74_3F9_1_C00000_0_0_0.png
 # SAT.1 HD Austria;ProSiebenSat.1
@@ -1306,6 +1322,10 @@ ln -sf skybundesligahd4.png 1_0_19_11F_C_85_C00000_0_0_0.png
 ln -sf skybundesligahd5.png 1_0_19_129_B_85_C00000_0_0_0.png
 # Sky Bundesliga HD 6,Sky BuliHD 6;SKY
 ln -sf skybundesligahd6.png 1_0_19_133_A_85_C00000_0_0_0.png
+# Sky Bundesliga HD 7,Sky BuliHD 7;SKY
+ln -sf skybundesligahd7.png 1_0_19_13D_8_85_C00000_0_0_0.png
+# Sky Bundesliga HD 8,Sky BuliHD 8;SKY
+ln -sf skybundesligahd8.png 1_0_2_147_9_85_C00000_0_0_0.png
 # Sky Bundesliga HD 9,Sky BuliHD 9;SKY
 ln -sf skybundesligahd9.png 1_0_19_151_A_85_C00000_0_0_0.png
 # Sky Cinema,Cinema;SKY
@@ -1330,6 +1350,8 @@ ln -sf skyhdfanzone.png 1_0_19_66_A_85_C00000_0_0_0.png
 ln -sf skyhits.png 1_0_1_29_3_85_C00000_0_0_0.png
 # Sky Hits HD,SkyHitsHD;SKY
 ln -sf skyhitshd.png 1_0_19_6B_C_85_C00000_0_0_0.png
+# Sky INFO;SKY
+ln -sf skyinfo.png 1_0_19_8D_9_85_C00000_0_0_0.png
 # Sky Krimi,SkyKrimi;SKY
 ln -sf skykrimi.png 1_0_1_17_1_85_C00000_0_0_0.png
 # Sky News Intl;SES ASTRA
@@ -1366,6 +1388,10 @@ ln -sf skysporthd5.png 1_0_19_120_C_85_C00000_0_0_0.png
 ln -sf skysporthd6.png 1_0_19_12A_B_85_C00000_0_0_0.png
 # Sky Sport HD 7,SportHD 7;SKY
 ln -sf skysporthd7.png 1_0_19_134_A_85_C00000_0_0_0.png
+# Sky Sport HD 8,SportHD 8;SKY
+ln -sf skysporthd8.png 1_0_19_13E_8_85_C00000_0_0_0.png
+# Sky Sport HD 9,SportHD 9;SKY
+ln -sf skysporthd9.png 1_0_19_148_9_85_C00000_0_0_0.png
 # Sky Sport News,SportNews;SKY
 ln -sf skysportnews.png 1_0_1_11_3_85_C00000_0_0_0.png
 # Sky Sport News HD,SportNewsHD;SKY
@@ -1833,9 +1859,6 @@ ln -sf zdfneohd.png 1_0_19_2B7A_3F3_1_C00000_0_0_0.png
 # ln -sf [ERF Pop;BetaDigital] 1_0_2_A2_7_85_C00000_0_0_0.png
 # ln -sf [Eros TV;MEDIA BROADCAST] 1_0_1_3153_459_1_C00000_0_0_0.png
 # ln -sf [EROTIKA TV - NEU!;MEDIA BROADCAST] 1_0_1_315F_459_1_C00000_0_0_0.png
-# ln -sf [Eurosport360HD 6,Eurosp360 6;SKY] 1_0_2_140_8_85_C00000_0_0_0.png
-# ln -sf [Eurosport360HD 7,Eurosp360 7;SKY] 1_0_2_14A_9_85_C00000_0_0_0.png
-# ln -sf [Eurosport360HD 9,Eurosp360 9;SKY] 1_0_2_104_E_85_C00000_0_0_0.png
 # ln -sf [F3 COTE D'AZUR;CSAT] 1_0_1_264B_460_1_C00000_0_0_0.png
 # ln -sf [flimmit;ORF] 1_0_19_33FE_3ED_1_C00000_0_0_0.png
 # ln -sf [FOOT+ 24/24;CSAT] 1_0_19_20DB_45C_1_C00000_0_0_0.png
@@ -1864,8 +1887,6 @@ ln -sf zdfneohd.png 1_0_19_2B7A_3F3_1_C00000_0_0_0.png
 # ln -sf [M6 MUSIC PLAYER;CSAT] 1_0_19_19C6_44E_1_C00000_0_0_0.png
 # ln -sf [Maennersache TV;MEDIA BROADCAST] 1_0_1_314E_459_1_C00000_0_0_0.png
 # ln -sf [MC DOUALIYA;CSAT] 1_0_2_2153_400_1_C00000_0_0_0.png
-# ln -sf [MDR Thüringen;ARD] 1_0_1_6E46_431_1_C00000_0_0_0.png
-# ln -sf [MDR Thüringen HD;ARD] 1_0_19_2872_425_1_C00000_0_0_0.png
 # ln -sf [MDR THÜRINGEN;ARD MDR] 1_0_2_6F0E_445_1_C00000_0_0_0.png
 # ln -sf [MEDIA BROADCAST - Test 1;MEDIA BROADCAST] 1_0_1_3178_459_1_C00000_0_0_0.png
 # ln -sf [MEDIA BROADCAST - Test 2;MEDIA BROADCAST] 1_0_1_3171_459_1_C00000_0_0_0.png
@@ -1879,14 +1900,12 @@ ln -sf zdfneohd.png 1_0_19_2B7A_3F3_1_C00000_0_0_0.png
 # ln -sf [Mobile Sex;MEDIA BROADCAST] 1_0_1_3151_459_1_C00000_0_0_0.png
 # ln -sf [MOSAIQUE C+;CSAT] 1_0_19_21AF_448_1_C00000_0_0_0.png
 # ln -sf [MTV ESPAÑA;DIGITAL+] 1_0_1_74A2_41C_1_C00000_0_0_0.png
-# ln -sf [münchen.tv;BetaDigital] 1_0_1_11FC_3FD_1_C00000_0_0_0.png
 # ln -sf [MULTISPORTS;CSAT] 1_0_2_20DA_45C_1_C00000_0_0_0.png
 # ln -sf [multithek (Internet);MEDIA BROADCAST] 1_0_19_3164_459_1_C00000_0_0_0.png
 # ln -sf [MULTI-X (1);DIGITAL+] 1_0_1_7571_412_1_C00000_0_0_0.png
 # ln -sf [MULTI-X (2);DIGITAL+] 1_0_1_7563_412_1_C00000_0_0_0.png
 # ln -sf [MULTI-X (3);DIGITAL+] 1_0_1_7572_412_1_C00000_0_0_0.png
 # ln -sf [MÉXICOTRAVEL;CANAL+] 1_0_1_74A1_41C_1_C00000_0_0_0.png
-# ln -sf [NDR 90,3,;ARD NDR] 1_0_2_6F19_445_1_C00000_0_0_0.png
 # ln -sf [NDR Blue;ARD NDR] 1_0_2_6F1E_445_1_C00000_0_0_0.png
 # ln -sf [Nicktoons (S);MTV Networks Europe] 1_0_1_700A_436_1_C00000_0_0_0.png
 # ln -sf [NL-3FM;CANALDIGITAAL] 1_0_2_809_449_35_C00000_0_0_0.png
@@ -1938,7 +1957,6 @@ ln -sf zdfneohd.png 1_0_19_2B7A_3F3_1_C00000_0_0_0.png
 # ln -sf [RTL 1440;CANALDIGITAAL] 1_0_2_804_449_35_C00000_0_0_0.png
 # ln -sf [RTL 1440;M7 Group] 1_0_2_FDC_451_35_C00000_0_0_0.png
 # ln -sf [RTL RADIO;CANALDIGITAAL] 1_0_2_803_449_35_C00000_0_0_0.png
-# ln -sf [SAT.1 Gold Österreich;ProSiebenSat.1] 1_0_1_14BE_407_1_C00000_0_0_0.png
 # ln -sf [SCHLAGERPARADIES;MEDIA BROADCAST] 1_0_2_3172_459_1_C00000_0_0_0.png
 # ln -sf [Service 10300 OBSOLETE;OBSOLETE SPS] 1_0_19_283C_406_1_C00000_0_0_0.png
 # ln -sf [Service 10301 OBSOLETE;OBSOLETE SPS] 1_0_19_283D_406_1_C00000_0_0_0.png
@@ -1972,12 +1990,7 @@ ln -sf zdfneohd.png 1_0_19_2B7A_3F3_1_C00000_0_0_0.png
 # ln -sf [Service 13235;ORS] 1_0_2_33B3_3EB_1_C00000_0_0_0.png
 # ln -sf [SEX-Kontakte;MEDIA BROADCAST] 1_0_1_3152_459_1_C00000_0_0_0.png
 # ln -sf [Sexy Club TV;MEDIA BROADCAST] 1_0_1_3144_459_1_C00000_0_0_0.png
-# ln -sf [Sky Bundesliga HD 7,Sky BuliHD 7;SKY] 1_0_19_13D_8_85_C00000_0_0_0.png
-# ln -sf [Sky Bundesliga HD 8,Sky BuliHD 8;SKY] 1_0_2_147_9_85_C00000_0_0_0.png
-# ln -sf [Sky INFO;SKY] 1_0_19_8D_9_85_C00000_0_0_0.png
 # ln -sf [SKYROCK;CSAT] 1_0_2_215B_400_1_C00000_0_0_0.png
-# ln -sf [Sky Sport HD 8,SportHD 8;SKY] 1_0_19_13E_8_85_C00000_0_0_0.png
-# ln -sf [Sky Sport HD 9,SportHD 9;SKY] 1_0_19_148_9_85_C00000_0_0_0.png
 # ln -sf [SOL MÚSICA;PRISA TV] 1_0_1_7797_424_1_C00000_0_0_0.png
 # ln -sf [SPORTMANÍA;SPM] 1_0_1_76C4_40E_1_C00000_0_0_0.png
 # ln -sf [SSU Samsung;Orange TV] 1_0_2_1B5D_3FC_1_C00000_0_0_0.png
